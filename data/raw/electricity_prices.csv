@@ -1,0 +1,1427 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2001,AK,Alaska,ALL,all sectors,10.54,cents per kilowatt-hour
+2001,AL,Alabama,ALL,all sectors,5.6,cents per kilowatt-hour
+2001,AR,Arkansas,ALL,all sectors,6.05,cents per kilowatt-hour
+2001,AZ,Arizona,ALL,all sectors,7.27,cents per kilowatt-hour
+2001,CA,California,ALL,all sectors,11.22,cents per kilowatt-hour
+2001,CO,Colorado,ALL,all sectors,6.02,cents per kilowatt-hour
+2001,CT,Connecticut,ALL,all sectors,9.62,cents per kilowatt-hour
+2001,DC,District of Columbia,ALL,all sectors,7.4,cents per kilowatt-hour
+2001,DE,Delaware,ALL,all sectors,6.8,cents per kilowatt-hour
+2001,ENC,East North Central,ALL,all sectors,6.46,cents per kilowatt-hour
+2001,ESC,East South Central,ALL,all sectors,5.33,cents per kilowatt-hour
+2001,FL,Florida,ALL,all sectors,7.67,cents per kilowatt-hour
+2001,GA,Georgia,ALL,all sectors,6.39,cents per kilowatt-hour
+2001,HI,Hawaii,ALL,all sectors,14.05,cents per kilowatt-hour
+2001,IA,Iowa,ALL,all sectors,6.14,cents per kilowatt-hour
+2001,ID,Idaho,ALL,all sectors,4.92,cents per kilowatt-hour
+2001,IL,Illinois,ALL,all sectors,6.9,cents per kilowatt-hour
+2001,IN,Indiana,ALL,all sectors,5.3,cents per kilowatt-hour
+2001,KS,Kansas,ALL,all sectors,6.24,cents per kilowatt-hour
+2001,KY,Kentucky,ALL,all sectors,4.24,cents per kilowatt-hour
+2001,LA,Louisiana,ALL,all sectors,6.96,cents per kilowatt-hour
+2001,MA,Massachusetts,ALL,all sectors,11.55,cents per kilowatt-hour
+2001,MAT,Middle Atlantic,ALL,all sectors,9.74,cents per kilowatt-hour
+2001,MD,Maryland,ALL,all sectors,6.6,cents per kilowatt-hour
+2001,ME,Maine,ALL,all sectors,10.55,cents per kilowatt-hour
+2001,MI,Michigan,ALL,all sectors,6.97,cents per kilowatt-hour
+2001,MN,Minnesota,ALL,all sectors,5.97,cents per kilowatt-hour
+2001,MO,Missouri,ALL,all sectors,6.03,cents per kilowatt-hour
+2001,MS,Mississippi,ALL,all sectors,6.26,cents per kilowatt-hour
+2001,MT,Montana,ALL,all sectors,6.48,cents per kilowatt-hour
+2001,MTN,Mountain,ALL,all sectors,6.44,cents per kilowatt-hour
+2001,NC,North Carolina,ALL,all sectors,6.58,cents per kilowatt-hour
+2001,ND,North Dakota,ALL,all sectors,5.48,cents per kilowatt-hour
+2001,NE,Nebraska,ALL,all sectors,5.39,cents per kilowatt-hour
+2001,NEW,New England,ALL,all sectors,10.86,cents per kilowatt-hour
+2001,NH,New Hampshire,ALL,all sectors,10.95,cents per kilowatt-hour
+2001,NJ,New Jersey,ALL,all sectors,9.36,cents per kilowatt-hour
+2001,NM,New Mexico,ALL,all sectors,7.16,cents per kilowatt-hour
+2001,NV,Nevada,ALL,all sectors,7.86,cents per kilowatt-hour
+2001,NY,New York,ALL,all sectors,11.55,cents per kilowatt-hour
+2001,OH,Ohio,ALL,all sectors,6.62,cents per kilowatt-hour
+2001,OK,Oklahoma,ALL,all sectors,6.1,cents per kilowatt-hour
+2001,OR,Oregon,ALL,all sectors,5.44,cents per kilowatt-hour
+2001,PA,Pennsylvania,ALL,all sectors,8.01,cents per kilowatt-hour
+2001,PACC,Pacific Contiguous,ALL,all sectors,9.26,cents per kilowatt-hour
+2001,PACN,Pacific Noncontiguous,ALL,all sectors,12.79,cents per kilowatt-hour
+2001,RI,Rhode Island,ALL,all sectors,11.45,cents per kilowatt-hour
+2001,SAT,South Atlantic,ALL,all sectors,6.68,cents per kilowatt-hour
+2001,SC,South Carolina,ALL,all sectors,5.77,cents per kilowatt-hour
+2001,SD,South Dakota,ALL,all sectors,6.35,cents per kilowatt-hour
+2001,TN,Tennessee,ALL,all sectors,5.59,cents per kilowatt-hour
+2001,TX,Texas,ALL,all sectors,7.38,cents per kilowatt-hour
+2001,US,U.S. Total,ALL,all sectors,7.29,cents per kilowatt-hour
+2001,UT,Utah,ALL,all sectors,5.21,cents per kilowatt-hour
+2001,VA,Virginia,ALL,all sectors,6.18,cents per kilowatt-hour
+2001,VT,Vermont,ALL,all sectors,10.86,cents per kilowatt-hour
+2001,WA,Washington,ALL,all sectors,5.34,cents per kilowatt-hour
+2001,WI,Wisconsin,ALL,all sectors,6.08,cents per kilowatt-hour
+2001,WNC,West North Central,ALL,all sectors,5.99,cents per kilowatt-hour
+2001,WSC,West South Central,ALL,all sectors,7.07,cents per kilowatt-hour
+2001,WV,West Virginia,ALL,all sectors,5.07,cents per kilowatt-hour
+2001,WY,Wyoming,ALL,all sectors,4.46,cents per kilowatt-hour
+2002,AK,Alaska,ALL,all sectors,10.46,cents per kilowatt-hour
+2002,AL,Alabama,ALL,all sectors,5.71,cents per kilowatt-hour
+2002,AR,Arkansas,ALL,all sectors,5.61,cents per kilowatt-hour
+2002,AZ,Arizona,ALL,all sectors,7.21,cents per kilowatt-hour
+2002,CA,California,ALL,all sectors,12.19,cents per kilowatt-hour
+2002,CO,Colorado,ALL,all sectors,6,cents per kilowatt-hour
+2002,CT,Connecticut,ALL,all sectors,9.71,cents per kilowatt-hour
+2002,DC,District of Columbia,ALL,all sectors,7.34,cents per kilowatt-hour
+2002,DE,Delaware,ALL,all sectors,6.91,cents per kilowatt-hour
+2002,ENC,East North Central,ALL,all sectors,6.56,cents per kilowatt-hour
+2002,ESC,East South Central,ALL,all sectors,5.39,cents per kilowatt-hour
+2002,FL,Florida,ALL,all sectors,7.31,cents per kilowatt-hour
+2002,GA,Georgia,ALL,all sectors,6.24,cents per kilowatt-hour
+2002,HI,Hawaii,ALL,all sectors,13.39,cents per kilowatt-hour
+2002,IA,Iowa,ALL,all sectors,6.01,cents per kilowatt-hour
+2002,ID,Idaho,ALL,all sectors,5.58,cents per kilowatt-hour
+2002,IL,Illinois,ALL,all sectors,6.94,cents per kilowatt-hour
+2002,IN,Indiana,ALL,all sectors,5.34,cents per kilowatt-hour
+2002,KS,Kansas,ALL,all sectors,6.31,cents per kilowatt-hour
+2002,KY,Kentucky,ALL,all sectors,4.26,cents per kilowatt-hour
+2002,LA,Louisiana,ALL,all sectors,5.99,cents per kilowatt-hour
+2002,MA,Massachusetts,ALL,all sectors,10.06,cents per kilowatt-hour
+2002,MAT,Middle Atlantic,ALL,all sectors,9.58,cents per kilowatt-hour
+2002,MD,Maryland,ALL,all sectors,6.18,cents per kilowatt-hour
+2002,ME,Maine,ALL,all sectors,10.35,cents per kilowatt-hour
+2002,MI,Michigan,ALL,all sectors,7.09,cents per kilowatt-hour
+2002,MN,Minnesota,ALL,all sectors,5.8,cents per kilowatt-hour
+2002,MO,Missouri,ALL,all sectors,6.09,cents per kilowatt-hour
+2002,MS,Mississippi,ALL,all sectors,6.24,cents per kilowatt-hour
+2002,MT,Montana,ALL,all sectors,5.7,cents per kilowatt-hour
+2002,MTN,Mountain,ALL,all sectors,6.52,cents per kilowatt-hour
+2002,NC,North Carolina,ALL,all sectors,6.74,cents per kilowatt-hour
+2002,ND,North Dakota,ALL,all sectors,5.45,cents per kilowatt-hour
+2002,NE,Nebraska,ALL,all sectors,5.55,cents per kilowatt-hour
+2002,NEW,New England,ALL,all sectors,10.03,cents per kilowatt-hour
+2002,NH,New Hampshire,ALL,all sectors,10.6,cents per kilowatt-hour
+2002,NJ,New Jersey,ALL,all sectors,9.3,cents per kilowatt-hour
+2002,NM,New Mexico,ALL,all sectors,6.73,cents per kilowatt-hour
+2002,NV,Nevada,ALL,all sectors,8.42,cents per kilowatt-hour
+2002,NY,New York,ALL,all sectors,11.16,cents per kilowatt-hour
+2002,OH,Ohio,ALL,all sectors,6.77,cents per kilowatt-hour
+2002,OK,Oklahoma,ALL,all sectors,5.59,cents per kilowatt-hour
+2002,OR,Oregon,ALL,all sectors,6.32,cents per kilowatt-hour
+2002,PA,Pennsylvania,ALL,all sectors,8.06,cents per kilowatt-hour
+2002,PACC,Pacific Contiguous,ALL,all sectors,10.11,cents per kilowatt-hour
+2002,PACN,Pacific Noncontiguous,ALL,all sectors,12.35,cents per kilowatt-hour
+2002,RI,Rhode Island,ALL,all sectors,9.2,cents per kilowatt-hour
+2002,SAT,South Atlantic,ALL,all sectors,6.56,cents per kilowatt-hour
+2002,SC,South Carolina,ALL,all sectors,5.83,cents per kilowatt-hour
+2002,SD,South Dakota,ALL,all sectors,6.26,cents per kilowatt-hour
+2002,TN,Tennessee,ALL,all sectors,5.72,cents per kilowatt-hour
+2002,TX,Texas,ALL,all sectors,6.62,cents per kilowatt-hour
+2002,US,U.S. Total,ALL,all sectors,7.2,cents per kilowatt-hour
+2002,UT,Utah,ALL,all sectors,5.39,cents per kilowatt-hour
+2002,VA,Virginia,ALL,all sectors,6.23,cents per kilowatt-hour
+2002,VT,Vermont,ALL,all sectors,10.87,cents per kilowatt-hour
+2002,WA,Washington,ALL,all sectors,5.88,cents per kilowatt-hour
+2002,WI,Wisconsin,ALL,all sectors,6.28,cents per kilowatt-hour
+2002,WNC,West North Central,ALL,all sectors,5.96,cents per kilowatt-hour
+2002,WSC,West South Central,ALL,all sectors,6.33,cents per kilowatt-hour
+2002,WV,West Virginia,ALL,all sectors,5.11,cents per kilowatt-hour
+2002,WY,Wyoming,ALL,all sectors,4.68,cents per kilowatt-hour
+2003,AK,Alaska,ALL,all sectors,10.5,cents per kilowatt-hour
+2003,AL,Alabama,ALL,all sectors,5.88,cents per kilowatt-hour
+2003,AR,Arkansas,ALL,all sectors,5.57,cents per kilowatt-hour
+2003,AZ,Arizona,ALL,all sectors,7.34,cents per kilowatt-hour
+2003,CA,California,ALL,all sectors,11.78,cents per kilowatt-hour
+2003,CO,Colorado,ALL,all sectors,6.77,cents per kilowatt-hour
+2003,CT,Connecticut,ALL,all sectors,10.16,cents per kilowatt-hour
+2003,DC,District of Columbia,ALL,all sectors,7.4,cents per kilowatt-hour
+2003,DE,Delaware,ALL,all sectors,6.96,cents per kilowatt-hour
+2003,ENC,East North Central,ALL,all sectors,6.53,cents per kilowatt-hour
+2003,ESC,East South Central,ALL,all sectors,5.55,cents per kilowatt-hour
+2003,FL,Florida,ALL,all sectors,7.72,cents per kilowatt-hour
+2003,GA,Georgia,ALL,all sectors,6.32,cents per kilowatt-hour
+2003,HI,Hawaii,ALL,all sectors,14.47,cents per kilowatt-hour
+2003,IA,Iowa,ALL,all sectors,6.11,cents per kilowatt-hour
+2003,ID,Idaho,ALL,all sectors,5.22,cents per kilowatt-hour
+2003,IL,Illinois,ALL,all sectors,6.86,cents per kilowatt-hour
+2003,IN,Indiana,ALL,all sectors,5.37,cents per kilowatt-hour
+2003,KS,Kansas,ALL,all sectors,6.35,cents per kilowatt-hour
+2003,KY,Kentucky,ALL,all sectors,4.42,cents per kilowatt-hour
+2003,LA,Louisiana,ALL,all sectors,6.93,cents per kilowatt-hour
+2003,MA,Massachusetts,ALL,all sectors,10.56,cents per kilowatt-hour
+2003,MAT,Middle Atlantic,ALL,all sectors,10.09,cents per kilowatt-hour
+2003,MD,Maryland,ALL,all sectors,6.45,cents per kilowatt-hour
+2003,ME,Maine,ALL,all sectors,9.79,cents per kilowatt-hour
+2003,MI,Michigan,ALL,all sectors,6.85,cents per kilowatt-hour
+2003,MN,Minnesota,ALL,all sectors,6.01,cents per kilowatt-hour
+2003,MO,Missouri,ALL,all sectors,6.02,cents per kilowatt-hour
+2003,MS,Mississippi,ALL,all sectors,6.46,cents per kilowatt-hour
+2003,MT,Montana,ALL,all sectors,6.14,cents per kilowatt-hour
+2003,MTN,Mountain,ALL,all sectors,6.71,cents per kilowatt-hour
+2003,NC,North Carolina,ALL,all sectors,6.86,cents per kilowatt-hour
+2003,ND,North Dakota,ALL,all sectors,5.47,cents per kilowatt-hour
+2003,NE,Nebraska,ALL,all sectors,5.64,cents per kilowatt-hour
+2003,NEW,New England,ALL,all sectors,10.42,cents per kilowatt-hour
+2003,NH,New Hampshire,ALL,all sectors,10.83,cents per kilowatt-hour
+2003,NJ,New Jersey,ALL,all sectors,9.48,cents per kilowatt-hour
+2003,NM,New Mexico,ALL,all sectors,7,cents per kilowatt-hour
+2003,NV,Nevada,ALL,all sectors,8.29,cents per kilowatt-hour
+2003,NY,New York,ALL,all sectors,12.44,cents per kilowatt-hour
+2003,OH,Ohio,ALL,all sectors,6.73,cents per kilowatt-hour
+2003,OK,Oklahoma,ALL,all sectors,6.35,cents per kilowatt-hour
+2003,OR,Oregon,ALL,all sectors,6.18,cents per kilowatt-hour
+2003,PA,Pennsylvania,ALL,all sectors,8.02,cents per kilowatt-hour
+2003,PACC,Pacific Contiguous,ALL,all sectors,9.83,cents per kilowatt-hour
+2003,PACN,Pacific Noncontiguous,ALL,all sectors,13.09,cents per kilowatt-hour
+2003,RI,Rhode Island,ALL,all sectors,10.47,cents per kilowatt-hour
+2003,SAT,South Atlantic,ALL,all sectors,6.77,cents per kilowatt-hour
+2003,SC,South Carolina,ALL,all sectors,6.08,cents per kilowatt-hour
+2003,SD,South Dakota,ALL,all sectors,6.35,cents per kilowatt-hour
+2003,TN,Tennessee,ALL,all sectors,5.84,cents per kilowatt-hour
+2003,TX,Texas,ALL,all sectors,7.5,cents per kilowatt-hour
+2003,US,U.S. Total,ALL,all sectors,7.44,cents per kilowatt-hour
+2003,UT,Utah,ALL,all sectors,5.41,cents per kilowatt-hour
+2003,VA,Virginia,ALL,all sectors,6.27,cents per kilowatt-hour
+2003,VT,Vermont,ALL,all sectors,10.98,cents per kilowatt-hour
+2003,WA,Washington,ALL,all sectors,5.86,cents per kilowatt-hour
+2003,WI,Wisconsin,ALL,all sectors,6.64,cents per kilowatt-hour
+2003,WNC,West North Central,ALL,all sectors,6.03,cents per kilowatt-hour
+2003,WSC,West South Central,ALL,all sectors,7.13,cents per kilowatt-hour
+2003,WV,West Virginia,ALL,all sectors,5.13,cents per kilowatt-hour
+2003,WY,Wyoming,ALL,all sectors,4.76,cents per kilowatt-hour
+2004,AK,Alaska,ALL,all sectors,10.99,cents per kilowatt-hour
+2004,AL,Alabama,ALL,all sectors,6.08,cents per kilowatt-hour
+2004,AR,Arkansas,ALL,all sectors,5.67,cents per kilowatt-hour
+2004,AZ,Arizona,ALL,all sectors,7.45,cents per kilowatt-hour
+2004,CA,California,ALL,all sectors,11.35,cents per kilowatt-hour
+2004,CO,Colorado,ALL,all sectors,6.95,cents per kilowatt-hour
+2004,CT,Connecticut,ALL,all sectors,10.26,cents per kilowatt-hour
+2004,DC,District of Columbia,ALL,all sectors,7.47,cents per kilowatt-hour
+2004,DE,Delaware,ALL,all sectors,7.53,cents per kilowatt-hour
+2004,ENC,East North Central,ALL,all sectors,6.64,cents per kilowatt-hour
+2004,ESC,East South Central,ALL,all sectors,5.83,cents per kilowatt-hour
+2004,FL,Florida,ALL,all sectors,8.16,cents per kilowatt-hour
+2004,GA,Georgia,ALL,all sectors,6.58,cents per kilowatt-hour
+2004,HI,Hawaii,ALL,all sectors,15.7,cents per kilowatt-hour
+2004,IA,Iowa,ALL,all sectors,6.4,cents per kilowatt-hour
+2004,ID,Idaho,ALL,all sectors,4.97,cents per kilowatt-hour
+2004,IL,Illinois,ALL,all sectors,6.8,cents per kilowatt-hour
+2004,IN,Indiana,ALL,all sectors,5.58,cents per kilowatt-hour
+2004,KS,Kansas,ALL,all sectors,6.37,cents per kilowatt-hour
+2004,KY,Kentucky,ALL,all sectors,4.63,cents per kilowatt-hour
+2004,LA,Louisiana,ALL,all sectors,7.13,cents per kilowatt-hour
+2004,MA,Massachusetts,ALL,all sectors,10.77,cents per kilowatt-hour
+2004,MAT,Middle Atlantic,ALL,all sectors,10.29,cents per kilowatt-hour
+2004,MD,Maryland,ALL,all sectors,7.15,cents per kilowatt-hour
+2004,ME,Maine,ALL,all sectors,9.69,cents per kilowatt-hour
+2004,MI,Michigan,ALL,all sectors,6.94,cents per kilowatt-hour
+2004,MN,Minnesota,ALL,all sectors,6.24,cents per kilowatt-hour
+2004,MO,Missouri,ALL,all sectors,6.07,cents per kilowatt-hour
+2004,MS,Mississippi,ALL,all sectors,7,cents per kilowatt-hour
+2004,MT,Montana,ALL,all sectors,6.4,cents per kilowatt-hour
+2004,MTN,Mountain,ALL,all sectors,6.86,cents per kilowatt-hour
+2004,NC,North Carolina,ALL,all sectors,6.97,cents per kilowatt-hour
+2004,ND,North Dakota,ALL,all sectors,5.69,cents per kilowatt-hour
+2004,NE,Nebraska,ALL,all sectors,5.7,cents per kilowatt-hour
+2004,NEW,New England,ALL,all sectors,10.61,cents per kilowatt-hour
+2004,NH,New Hampshire,ALL,all sectors,11.37,cents per kilowatt-hour
+2004,NJ,New Jersey,ALL,all sectors,10.29,cents per kilowatt-hour
+2004,NM,New Mexico,ALL,all sectors,7.1,cents per kilowatt-hour
+2004,NV,Nevada,ALL,all sectors,8.56,cents per kilowatt-hour
+2004,NY,New York,ALL,all sectors,12.55,cents per kilowatt-hour
+2004,OH,Ohio,ALL,all sectors,6.89,cents per kilowatt-hour
+2004,OK,Oklahoma,ALL,all sectors,6.5,cents per kilowatt-hour
+2004,OR,Oregon,ALL,all sectors,6.21,cents per kilowatt-hour
+2004,PA,Pennsylvania,ALL,all sectors,8,cents per kilowatt-hour
+2004,PACC,Pacific Contiguous,ALL,all sectors,9.55,cents per kilowatt-hour
+2004,PACN,Pacific Noncontiguous,ALL,all sectors,14.05,cents per kilowatt-hour
+2004,RI,Rhode Island,ALL,all sectors,10.96,cents per kilowatt-hour
+2004,SAT,South Atlantic,ALL,all sectors,7.05,cents per kilowatt-hour
+2004,SC,South Carolina,ALL,all sectors,6.22,cents per kilowatt-hour
+2004,SD,South Dakota,ALL,all sectors,6.44,cents per kilowatt-hour
+2004,TN,Tennessee,ALL,all sectors,6.14,cents per kilowatt-hour
+2004,TX,Texas,ALL,all sectors,7.95,cents per kilowatt-hour
+2004,US,U.S. Total,ALL,all sectors,7.61,cents per kilowatt-hour
+2004,UT,Utah,ALL,all sectors,5.69,cents per kilowatt-hour
+2004,VA,Virginia,ALL,all sectors,6.43,cents per kilowatt-hour
+2004,VT,Vermont,ALL,all sectors,11.02,cents per kilowatt-hour
+2004,WA,Washington,ALL,all sectors,5.8,cents per kilowatt-hour
+2004,WI,Wisconsin,ALL,all sectors,6.88,cents per kilowatt-hour
+2004,WNC,West North Central,ALL,all sectors,6.17,cents per kilowatt-hour
+2004,WSC,West South Central,ALL,all sectors,7.47,cents per kilowatt-hour
+2004,WV,West Virginia,ALL,all sectors,5.13,cents per kilowatt-hour
+2004,WY,Wyoming,ALL,all sectors,4.98,cents per kilowatt-hour
+2005,AK,Alaska,ALL,all sectors,11.72,cents per kilowatt-hour
+2005,AL,Alabama,ALL,all sectors,6.46,cents per kilowatt-hour
+2005,AR,Arkansas,ALL,all sectors,6.3,cents per kilowatt-hour
+2005,AZ,Arizona,ALL,all sectors,7.79,cents per kilowatt-hour
+2005,CA,California,ALL,all sectors,11.63,cents per kilowatt-hour
+2005,CO,Colorado,ALL,all sectors,7.64,cents per kilowatt-hour
+2005,CT,Connecticut,ALL,all sectors,12.06,cents per kilowatt-hour
+2005,DC,District of Columbia,ALL,all sectors,9.18,cents per kilowatt-hour
+2005,DE,Delaware,ALL,all sectors,7.76,cents per kilowatt-hour
+2005,ENC,East North Central,ALL,all sectors,6.91,cents per kilowatt-hour
+2005,ESC,East South Central,ALL,all sectors,6.17,cents per kilowatt-hour
+2005,FL,Florida,ALL,all sectors,8.76,cents per kilowatt-hour
+2005,GA,Georgia,ALL,all sectors,7.43,cents per kilowatt-hour
+2005,HI,Hawaii,ALL,all sectors,18.33,cents per kilowatt-hour
+2005,IA,Iowa,ALL,all sectors,6.69,cents per kilowatt-hour
+2005,ID,Idaho,ALL,all sectors,5.12,cents per kilowatt-hour
+2005,IL,Illinois,ALL,all sectors,6.95,cents per kilowatt-hour
+2005,IN,Indiana,ALL,all sectors,5.88,cents per kilowatt-hour
+2005,KS,Kansas,ALL,all sectors,6.55,cents per kilowatt-hour
+2005,KY,Kentucky,ALL,all sectors,5.01,cents per kilowatt-hour
+2005,LA,Louisiana,ALL,all sectors,8.03,cents per kilowatt-hour
+2005,MA,Massachusetts,ALL,all sectors,12.18,cents per kilowatt-hour
+2005,MAT,Middle Atlantic,ALL,all sectors,11.07,cents per kilowatt-hour
+2005,MD,Maryland,ALL,all sectors,8.13,cents per kilowatt-hour
+2005,ME,Maine,ALL,all sectors,10.57,cents per kilowatt-hour
+2005,MI,Michigan,ALL,all sectors,7.23,cents per kilowatt-hour
+2005,MN,Minnesota,ALL,all sectors,6.61,cents per kilowatt-hour
+2005,MO,Missouri,ALL,all sectors,6.13,cents per kilowatt-hour
+2005,MS,Mississippi,ALL,all sectors,7.54,cents per kilowatt-hour
+2005,MT,Montana,ALL,all sectors,6.72,cents per kilowatt-hour
+2005,MTN,Mountain,ALL,all sectors,7.26,cents per kilowatt-hour
+2005,NC,North Carolina,ALL,all sectors,7.19,cents per kilowatt-hour
+2005,ND,North Dakota,ALL,all sectors,5.92,cents per kilowatt-hour
+2005,NE,Nebraska,ALL,all sectors,5.87,cents per kilowatt-hour
+2005,NEW,New England,ALL,all sectors,11.95,cents per kilowatt-hour
+2005,NH,New Hampshire,ALL,all sectors,12.53,cents per kilowatt-hour
+2005,NJ,New Jersey,ALL,all sectors,10.89,cents per kilowatt-hour
+2005,NM,New Mexico,ALL,all sectors,7.51,cents per kilowatt-hour
+2005,NV,Nevada,ALL,all sectors,9.02,cents per kilowatt-hour
+2005,NY,New York,ALL,all sectors,13.95,cents per kilowatt-hour
+2005,OH,Ohio,ALL,all sectors,7.08,cents per kilowatt-hour
+2005,OK,Oklahoma,ALL,all sectors,6.85,cents per kilowatt-hour
+2005,OR,Oregon,ALL,all sectors,6.34,cents per kilowatt-hour
+2005,PA,Pennsylvania,ALL,all sectors,8.27,cents per kilowatt-hour
+2005,PACC,Pacific Contiguous,ALL,all sectors,9.74,cents per kilowatt-hour
+2005,PACN,Pacific Noncontiguous,ALL,all sectors,15.96,cents per kilowatt-hour
+2005,RI,Rhode Island,ALL,all sectors,11.97,cents per kilowatt-hour
+2005,SAT,South Atlantic,ALL,all sectors,7.59,cents per kilowatt-hour
+2005,SC,South Carolina,ALL,all sectors,6.72,cents per kilowatt-hour
+2005,SD,South Dakota,ALL,all sectors,6.6,cents per kilowatt-hour
+2005,TN,Tennessee,ALL,all sectors,6.31,cents per kilowatt-hour
+2005,TX,Texas,ALL,all sectors,9.14,cents per kilowatt-hour
+2005,US,U.S. Total,ALL,all sectors,8.14,cents per kilowatt-hour
+2005,UT,Utah,ALL,all sectors,5.92,cents per kilowatt-hour
+2005,VA,Virginia,ALL,all sectors,6.64,cents per kilowatt-hour
+2005,VT,Vermont,ALL,all sectors,10.95,cents per kilowatt-hour
+2005,WA,Washington,ALL,all sectors,5.87,cents per kilowatt-hour
+2005,WI,Wisconsin,ALL,all sectors,7.48,cents per kilowatt-hour
+2005,WNC,West North Central,ALL,all sectors,6.37,cents per kilowatt-hour
+2005,WSC,West South Central,ALL,all sectors,8.48,cents per kilowatt-hour
+2005,WV,West Virginia,ALL,all sectors,5.15,cents per kilowatt-hour
+2005,WY,Wyoming,ALL,all sectors,5.16,cents per kilowatt-hour
+2006,AK,Alaska,ALL,all sectors,12.84,cents per kilowatt-hour
+2006,AL,Alabama,ALL,all sectors,7.07,cents per kilowatt-hour
+2006,AR,Arkansas,ALL,all sectors,6.99,cents per kilowatt-hour
+2006,AZ,Arizona,ALL,all sectors,8.24,cents per kilowatt-hour
+2006,CA,California,ALL,all sectors,12.82,cents per kilowatt-hour
+2006,CO,Colorado,ALL,all sectors,7.61,cents per kilowatt-hour
+2006,CT,Connecticut,ALL,all sectors,14.83,cents per kilowatt-hour
+2006,DC,District of Columbia,ALL,all sectors,11.08,cents per kilowatt-hour
+2006,DE,Delaware,ALL,all sectors,10.13,cents per kilowatt-hour
+2006,ENC,East North Central,ALL,all sectors,7.45,cents per kilowatt-hour
+2006,ESC,East South Central,ALL,all sectors,6.78,cents per kilowatt-hour
+2006,FL,Florida,ALL,all sectors,10.45,cents per kilowatt-hour
+2006,GA,Georgia,ALL,all sectors,7.63,cents per kilowatt-hour
+2006,HI,Hawaii,ALL,all sectors,20.72,cents per kilowatt-hour
+2006,IA,Iowa,ALL,all sectors,7.01,cents per kilowatt-hour
+2006,ID,Idaho,ALL,all sectors,4.92,cents per kilowatt-hour
+2006,IL,Illinois,ALL,all sectors,7.07,cents per kilowatt-hour
+2006,IN,Indiana,ALL,all sectors,6.46,cents per kilowatt-hour
+2006,KS,Kansas,ALL,all sectors,6.89,cents per kilowatt-hour
+2006,KY,Kentucky,ALL,all sectors,5.43,cents per kilowatt-hour
+2006,LA,Louisiana,ALL,all sectors,8.3,cents per kilowatt-hour
+2006,MA,Massachusetts,ALL,all sectors,15.45,cents per kilowatt-hour
+2006,MAT,Middle Atlantic,ALL,all sectors,11.92,cents per kilowatt-hour
+2006,MD,Maryland,ALL,all sectors,9.95,cents per kilowatt-hour
+2006,ME,Maine,ALL,all sectors,11.8,cents per kilowatt-hour
+2006,MI,Michigan,ALL,all sectors,8.14,cents per kilowatt-hour
+2006,MN,Minnesota,ALL,all sectors,6.98,cents per kilowatt-hour
+2006,MO,Missouri,ALL,all sectors,6.3,cents per kilowatt-hour
+2006,MS,Mississippi,ALL,all sectors,8.33,cents per kilowatt-hour
+2006,MT,Montana,ALL,all sectors,6.91,cents per kilowatt-hour
+2006,MTN,Mountain,ALL,all sectors,7.46,cents per kilowatt-hour
+2006,NC,North Carolina,ALL,all sectors,7.53,cents per kilowatt-hour
+2006,ND,North Dakota,ALL,all sectors,6.21,cents per kilowatt-hour
+2006,NE,Nebraska,ALL,all sectors,6.07,cents per kilowatt-hour
+2006,NEW,New England,ALL,all sectors,14.51,cents per kilowatt-hour
+2006,NH,New Hampshire,ALL,all sectors,13.84,cents per kilowatt-hour
+2006,NJ,New Jersey,ALL,all sectors,11.88,cents per kilowatt-hour
+2006,NM,New Mexico,ALL,all sectors,7.37,cents per kilowatt-hour
+2006,NV,Nevada,ALL,all sectors,9.63,cents per kilowatt-hour
+2006,NY,New York,ALL,all sectors,15.27,cents per kilowatt-hour
+2006,OH,Ohio,ALL,all sectors,7.71,cents per kilowatt-hour
+2006,OK,Oklahoma,ALL,all sectors,7.3,cents per kilowatt-hour
+2006,OR,Oregon,ALL,all sectors,6.53,cents per kilowatt-hour
+2006,PA,Pennsylvania,ALL,all sectors,8.68,cents per kilowatt-hour
+2006,PACC,Pacific Contiguous,ALL,all sectors,10.62,cents per kilowatt-hour
+2006,PACN,Pacific Noncontiguous,ALL,all sectors,17.82,cents per kilowatt-hour
+2006,RI,Rhode Island,ALL,all sectors,13.98,cents per kilowatt-hour
+2006,SAT,South Atlantic,ALL,all sectors,8.42,cents per kilowatt-hour
+2006,SC,South Carolina,ALL,all sectors,6.98,cents per kilowatt-hour
+2006,SD,South Dakota,ALL,all sectors,6.7,cents per kilowatt-hour
+2006,TN,Tennessee,ALL,all sectors,6.97,cents per kilowatt-hour
+2006,TX,Texas,ALL,all sectors,10.34,cents per kilowatt-hour
+2006,US,U.S. Total,ALL,all sectors,8.9,cents per kilowatt-hour
+2006,UT,Utah,ALL,all sectors,5.99,cents per kilowatt-hour
+2006,VA,Virginia,ALL,all sectors,6.86,cents per kilowatt-hour
+2006,VT,Vermont,ALL,all sectors,11.37,cents per kilowatt-hour
+2006,WA,Washington,ALL,all sectors,6.14,cents per kilowatt-hour
+2006,WI,Wisconsin,ALL,all sectors,8.13,cents per kilowatt-hour
+2006,WNC,West North Central,ALL,all sectors,6.65,cents per kilowatt-hour
+2006,WSC,West South Central,ALL,all sectors,9.42,cents per kilowatt-hour
+2006,WV,West Virginia,ALL,all sectors,5.04,cents per kilowatt-hour
+2006,WY,Wyoming,ALL,all sectors,5.27,cents per kilowatt-hour
+2007,AK,Alaska,ALL,all sectors,13.28,cents per kilowatt-hour
+2007,AL,Alabama,ALL,all sectors,7.57,cents per kilowatt-hour
+2007,AR,Arkansas,ALL,all sectors,6.96,cents per kilowatt-hour
+2007,AZ,Arizona,ALL,all sectors,8.54,cents per kilowatt-hour
+2007,CA,California,ALL,all sectors,12.8,cents per kilowatt-hour
+2007,CO,Colorado,ALL,all sectors,7.76,cents per kilowatt-hour
+2007,CT,Connecticut,ALL,all sectors,16.45,cents per kilowatt-hour
+2007,DC,District of Columbia,ALL,all sectors,11.79,cents per kilowatt-hour
+2007,DE,Delaware,ALL,all sectors,11.35,cents per kilowatt-hour
+2007,ENC,East North Central,ALL,all sectors,7.97,cents per kilowatt-hour
+2007,ESC,East South Central,ALL,all sectors,7.01,cents per kilowatt-hour
+2007,FL,Florida,ALL,all sectors,10.33,cents per kilowatt-hour
+2007,GA,Georgia,ALL,all sectors,7.86,cents per kilowatt-hour
+2007,HI,Hawaii,ALL,all sectors,21.29,cents per kilowatt-hour
+2007,IA,Iowa,ALL,all sectors,6.83,cents per kilowatt-hour
+2007,ID,Idaho,ALL,all sectors,5.07,cents per kilowatt-hour
+2007,IL,Illinois,ALL,all sectors,8.46,cents per kilowatt-hour
+2007,IN,Indiana,ALL,all sectors,6.5,cents per kilowatt-hour
+2007,KS,Kansas,ALL,all sectors,6.84,cents per kilowatt-hour
+2007,KY,Kentucky,ALL,all sectors,5.84,cents per kilowatt-hour
+2007,LA,Louisiana,ALL,all sectors,8.39,cents per kilowatt-hour
+2007,MA,Massachusetts,ALL,all sectors,15.16,cents per kilowatt-hour
+2007,MAT,Middle Atlantic,ALL,all sectors,12.31,cents per kilowatt-hour
+2007,MD,Maryland,ALL,all sectors,11.5,cents per kilowatt-hour
+2007,ME,Maine,ALL,all sectors,14.59,cents per kilowatt-hour
+2007,MI,Michigan,ALL,all sectors,8.53,cents per kilowatt-hour
+2007,MN,Minnesota,ALL,all sectors,7.44,cents per kilowatt-hour
+2007,MO,Missouri,ALL,all sectors,6.56,cents per kilowatt-hour
+2007,MS,Mississippi,ALL,all sectors,8.03,cents per kilowatt-hour
+2007,MT,Montana,ALL,all sectors,7.13,cents per kilowatt-hour
+2007,MTN,Mountain,ALL,all sectors,7.69,cents per kilowatt-hour
+2007,NC,North Carolina,ALL,all sectors,7.83,cents per kilowatt-hour
+2007,ND,North Dakota,ALL,all sectors,6.42,cents per kilowatt-hour
+2007,NE,Nebraska,ALL,all sectors,6.28,cents per kilowatt-hour
+2007,NEW,New England,ALL,all sectors,15.08,cents per kilowatt-hour
+2007,NH,New Hampshire,ALL,all sectors,13.98,cents per kilowatt-hour
+2007,NJ,New Jersey,ALL,all sectors,13.01,cents per kilowatt-hour
+2007,NM,New Mexico,ALL,all sectors,7.44,cents per kilowatt-hour
+2007,NV,Nevada,ALL,all sectors,9.99,cents per kilowatt-hour
+2007,NY,New York,ALL,all sectors,15.22,cents per kilowatt-hour
+2007,OH,Ohio,ALL,all sectors,7.91,cents per kilowatt-hour
+2007,OK,Oklahoma,ALL,all sectors,7.29,cents per kilowatt-hour
+2007,OR,Oregon,ALL,all sectors,7.02,cents per kilowatt-hour
+2007,PA,Pennsylvania,ALL,all sectors,9.08,cents per kilowatt-hour
+2007,PACC,Pacific Contiguous,ALL,all sectors,10.71,cents per kilowatt-hour
+2007,PACN,Pacific Noncontiguous,ALL,all sectors,18.29,cents per kilowatt-hour
+2007,RI,Rhode Island,ALL,all sectors,13.12,cents per kilowatt-hour
+2007,SAT,South Atlantic,ALL,all sectors,8.68,cents per kilowatt-hour
+2007,SC,South Carolina,ALL,all sectors,7.18,cents per kilowatt-hour
+2007,SD,South Dakota,ALL,all sectors,6.89,cents per kilowatt-hour
+2007,TN,Tennessee,ALL,all sectors,7.07,cents per kilowatt-hour
+2007,TX,Texas,ALL,all sectors,10.11,cents per kilowatt-hour
+2007,US,U.S. Total,ALL,all sectors,9.13,cents per kilowatt-hour
+2007,UT,Utah,ALL,all sectors,6.41,cents per kilowatt-hour
+2007,VA,Virginia,ALL,all sectors,7.12,cents per kilowatt-hour
+2007,VT,Vermont,ALL,all sectors,12.04,cents per kilowatt-hour
+2007,WA,Washington,ALL,all sectors,6.37,cents per kilowatt-hour
+2007,WI,Wisconsin,ALL,all sectors,8.48,cents per kilowatt-hour
+2007,WNC,West North Central,ALL,all sectors,6.83,cents per kilowatt-hour
+2007,WSC,West South Central,ALL,all sectors,9.27,cents per kilowatt-hour
+2007,WV,West Virginia,ALL,all sectors,5.34,cents per kilowatt-hour
+2007,WY,Wyoming,ALL,all sectors,5.29,cents per kilowatt-hour
+2008,AK,Alaska,ALL,all sectors,14.74,cents per kilowatt-hour
+2008,AL,Alabama,ALL,all sectors,8.59,cents per kilowatt-hour
+2008,AR,Arkansas,ALL,all sectors,7.6,cents per kilowatt-hour
+2008,AZ,Arizona,ALL,all sectors,9.11,cents per kilowatt-hour
+2008,CA,California,ALL,all sectors,12.49,cents per kilowatt-hour
+2008,CO,Colorado,ALL,all sectors,8.59,cents per kilowatt-hour
+2008,CT,Connecticut,ALL,all sectors,17.8,cents per kilowatt-hour
+2008,DC,District of Columbia,ALL,all sectors,13.18,cents per kilowatt-hour
+2008,DE,Delaware,ALL,all sectors,12.38,cents per kilowatt-hour
+2008,ENC,East North Central,ALL,all sectors,8.53,cents per kilowatt-hour
+2008,ESC,East South Central,ALL,all sectors,7.87,cents per kilowatt-hour
+2008,FL,Florida,ALL,all sectors,10.74,cents per kilowatt-hour
+2008,GA,Georgia,ALL,all sectors,8.84,cents per kilowatt-hour
+2008,HI,Hawaii,ALL,all sectors,29.2,cents per kilowatt-hour
+2008,IA,Iowa,ALL,all sectors,6.89,cents per kilowatt-hour
+2008,ID,Idaho,ALL,all sectors,5.69,cents per kilowatt-hour
+2008,IL,Illinois,ALL,all sectors,9.23,cents per kilowatt-hour
+2008,IN,Indiana,ALL,all sectors,7.09,cents per kilowatt-hour
+2008,KS,Kansas,ALL,all sectors,7.45,cents per kilowatt-hour
+2008,KY,Kentucky,ALL,all sectors,6.26,cents per kilowatt-hour
+2008,LA,Louisiana,ALL,all sectors,9.44,cents per kilowatt-hour
+2008,MA,Massachusetts,ALL,all sectors,16.23,cents per kilowatt-hour
+2008,MAT,Middle Atlantic,ALL,all sectors,13.17,cents per kilowatt-hour
+2008,MD,Maryland,ALL,all sectors,13.01,cents per kilowatt-hour
+2008,ME,Maine,ALL,all sectors,13.8,cents per kilowatt-hour
+2008,MI,Michigan,ALL,all sectors,8.93,cents per kilowatt-hour
+2008,MN,Minnesota,ALL,all sectors,7.79,cents per kilowatt-hour
+2008,MO,Missouri,ALL,all sectors,6.84,cents per kilowatt-hour
+2008,MS,Mississippi,ALL,all sectors,8.99,cents per kilowatt-hour
+2008,MT,Montana,ALL,all sectors,7.72,cents per kilowatt-hour
+2008,MTN,Mountain,ALL,all sectors,8.18,cents per kilowatt-hour
+2008,NC,North Carolina,ALL,all sectors,7.96,cents per kilowatt-hour
+2008,ND,North Dakota,ALL,all sectors,6.69,cents per kilowatt-hour
+2008,NE,Nebraska,ALL,all sectors,6.58,cents per kilowatt-hour
+2008,NEW,New England,ALL,all sectors,16.06,cents per kilowatt-hour
+2008,NH,New Hampshire,ALL,all sectors,14.63,cents per kilowatt-hour
+2008,NJ,New Jersey,ALL,all sectors,14.43,cents per kilowatt-hour
+2008,NM,New Mexico,ALL,all sectors,8.35,cents per kilowatt-hour
+2008,NV,Nevada,ALL,all sectors,9.89,cents per kilowatt-hour
+2008,NY,New York,ALL,all sectors,16.47,cents per kilowatt-hour
+2008,OH,Ohio,ALL,all sectors,8.39,cents per kilowatt-hour
+2008,OK,Oklahoma,ALL,all sectors,7.81,cents per kilowatt-hour
+2008,OR,Oregon,ALL,all sectors,7.24,cents per kilowatt-hour
+2008,PA,Pennsylvania,ALL,all sectors,9.33,cents per kilowatt-hour
+2008,PACC,Pacific Contiguous,ALL,all sectors,10.57,cents per kilowatt-hour
+2008,PACN,Pacific Noncontiguous,ALL,all sectors,23.73,cents per kilowatt-hour
+2008,RI,Rhode Island,ALL,all sectors,16.04,cents per kilowatt-hour
+2008,SAT,South Atlantic,ALL,all sectors,9.33,cents per kilowatt-hour
+2008,SC,South Carolina,ALL,all sectors,7.85,cents per kilowatt-hour
+2008,SD,South Dakota,ALL,all sectors,7.14,cents per kilowatt-hour
+2008,TN,Tennessee,ALL,all sectors,8.18,cents per kilowatt-hour
+2008,TX,Texas,ALL,all sectors,10.99,cents per kilowatt-hour
+2008,US,U.S. Total,ALL,all sectors,9.74,cents per kilowatt-hour
+2008,UT,Utah,ALL,all sectors,6.49,cents per kilowatt-hour
+2008,VA,Virginia,ALL,all sectors,8,cents per kilowatt-hour
+2008,VT,Vermont,ALL,all sectors,12.33,cents per kilowatt-hour
+2008,WA,Washington,ALL,all sectors,6.55,cents per kilowatt-hour
+2008,WI,Wisconsin,ALL,all sectors,9,cents per kilowatt-hour
+2008,WNC,West North Central,ALL,all sectors,7.13,cents per kilowatt-hour
+2008,WSC,West South Central,ALL,all sectors,10.13,cents per kilowatt-hour
+2008,WV,West Virginia,ALL,all sectors,5.61,cents per kilowatt-hour
+2008,WY,Wyoming,ALL,all sectors,5.67,cents per kilowatt-hour
+2009,AK,Alaska,ALL,all sectors,15.09,cents per kilowatt-hour
+2009,AL,Alabama,ALL,all sectors,8.83,cents per kilowatt-hour
+2009,AR,Arkansas,ALL,all sectors,7.57,cents per kilowatt-hour
+2009,AZ,Arizona,ALL,all sectors,9.56,cents per kilowatt-hour
+2009,CA,California,ALL,all sectors,13.24,cents per kilowatt-hour
+2009,CO,Colorado,ALL,all sectors,8.31,cents per kilowatt-hour
+2009,CT,Connecticut,ALL,all sectors,18.07,cents per kilowatt-hour
+2009,DC,District of Columbia,ALL,all sectors,13.23,cents per kilowatt-hour
+2009,DE,Delaware,ALL,all sectors,12.2,cents per kilowatt-hour
+2009,ENC,East North Central,ALL,all sectors,8.91,cents per kilowatt-hour
+2009,ESC,East South Central,ALL,all sectors,8.13,cents per kilowatt-hour
+2009,FL,Florida,ALL,all sectors,11.49,cents per kilowatt-hour
+2009,GA,Georgia,ALL,all sectors,8.81,cents per kilowatt-hour
+2009,HI,Hawaii,ALL,all sectors,21.21,cents per kilowatt-hour
+2009,IA,Iowa,ALL,all sectors,7.37,cents per kilowatt-hour
+2009,ID,Idaho,ALL,all sectors,6.51,cents per kilowatt-hour
+2009,IL,Illinois,ALL,all sectors,9.15,cents per kilowatt-hour
+2009,IN,Indiana,ALL,all sectors,7.62,cents per kilowatt-hour
+2009,KS,Kansas,ALL,all sectors,7.98,cents per kilowatt-hour
+2009,KY,Kentucky,ALL,all sectors,6.52,cents per kilowatt-hour
+2009,LA,Louisiana,ALL,all sectors,7.06,cents per kilowatt-hour
+2009,MA,Massachusetts,ALL,all sectors,15.45,cents per kilowatt-hour
+2009,MAT,Middle Atlantic,ALL,all sectors,12.92,cents per kilowatt-hour
+2009,MD,Maryland,ALL,all sectors,13.09,cents per kilowatt-hour
+2009,ME,Maine,ALL,all sectors,13.12,cents per kilowatt-hour
+2009,MI,Michigan,ALL,all sectors,9.4,cents per kilowatt-hour
+2009,MN,Minnesota,ALL,all sectors,8.14,cents per kilowatt-hour
+2009,MO,Missouri,ALL,all sectors,7.35,cents per kilowatt-hour
+2009,MS,Mississippi,ALL,all sectors,8.85,cents per kilowatt-hour
+2009,MT,Montana,ALL,all sectors,7.58,cents per kilowatt-hour
+2009,MTN,Mountain,ALL,all sectors,8.41,cents per kilowatt-hour
+2009,NC,North Carolina,ALL,all sectors,8.48,cents per kilowatt-hour
+2009,ND,North Dakota,ALL,all sectors,6.63,cents per kilowatt-hour
+2009,NE,Nebraska,ALL,all sectors,7.21,cents per kilowatt-hour
+2009,NEW,New England,ALL,all sectors,15.65,cents per kilowatt-hour
+2009,NH,New Hampshire,ALL,all sectors,15.09,cents per kilowatt-hour
+2009,NJ,New Jersey,ALL,all sectors,14.53,cents per kilowatt-hour
+2009,NM,New Mexico,ALL,all sectors,8.09,cents per kilowatt-hour
+2009,NV,Nevada,ALL,all sectors,10.36,cents per kilowatt-hour
+2009,NY,New York,ALL,all sectors,15.44,cents per kilowatt-hour
+2009,OH,Ohio,ALL,all sectors,9.02,cents per kilowatt-hour
+2009,OK,Oklahoma,ALL,all sectors,6.94,cents per kilowatt-hour
+2009,OR,Oregon,ALL,all sectors,7.47,cents per kilowatt-hour
+2009,PA,Pennsylvania,ALL,all sectors,9.6,cents per kilowatt-hour
+2009,PACC,Pacific Contiguous,ALL,all sectors,11.04,cents per kilowatt-hour
+2009,PACN,Pacific Noncontiguous,ALL,all sectors,18.87,cents per kilowatt-hour
+2009,RI,Rhode Island,ALL,all sectors,14.22,cents per kilowatt-hour
+2009,SAT,South Atlantic,ALL,all sectors,9.87,cents per kilowatt-hour
+2009,SC,South Carolina,ALL,all sectors,8.42,cents per kilowatt-hour
+2009,SD,South Dakota,ALL,all sectors,7.39,cents per kilowatt-hour
+2009,TN,Tennessee,ALL,all sectors,8.69,cents per kilowatt-hour
+2009,TX,Texas,ALL,all sectors,9.86,cents per kilowatt-hour
+2009,US,U.S. Total,ALL,all sectors,9.82,cents per kilowatt-hour
+2009,UT,Utah,ALL,all sectors,6.77,cents per kilowatt-hour
+2009,VA,Virginia,ALL,all sectors,8.93,cents per kilowatt-hour
+2009,VT,Vermont,ALL,all sectors,12.75,cents per kilowatt-hour
+2009,WA,Washington,ALL,all sectors,6.59,cents per kilowatt-hour
+2009,WI,Wisconsin,ALL,all sectors,9.38,cents per kilowatt-hour
+2009,WNC,West North Central,ALL,all sectors,7.57,cents per kilowatt-hour
+2009,WSC,West South Central,ALL,all sectors,8.94,cents per kilowatt-hour
+2009,WV,West Virginia,ALL,all sectors,6.65,cents per kilowatt-hour
+2009,WY,Wyoming,ALL,all sectors,6.08,cents per kilowatt-hour
+2010,AK,Alaska,ALL,all sectors,14.76,cents per kilowatt-hour
+2010,AL,Alabama,ALL,all sectors,8.89,cents per kilowatt-hour
+2010,AR,Arkansas,ALL,all sectors,7.28,cents per kilowatt-hour
+2010,AZ,Arizona,ALL,all sectors,9.69,cents per kilowatt-hour
+2010,CA,California,ALL,all sectors,13.01,cents per kilowatt-hour
+2010,CO,Colorado,ALL,all sectors,9.15,cents per kilowatt-hour
+2010,CT,Connecticut,ALL,all sectors,17.38,cents per kilowatt-hour
+2010,DC,District of Columbia,ALL,all sectors,13.35,cents per kilowatt-hour
+2010,DE,Delaware,ALL,all sectors,11.97,cents per kilowatt-hour
+2010,ENC,East North Central,ALL,all sectors,9.08,cents per kilowatt-hour
+2010,ESC,East South Central,ALL,all sectors,8.16,cents per kilowatt-hour
+2010,FL,Florida,ALL,all sectors,10.58,cents per kilowatt-hour
+2010,GA,Georgia,ALL,all sectors,8.87,cents per kilowatt-hour
+2010,HI,Hawaii,ALL,all sectors,25.12,cents per kilowatt-hour
+2010,IA,Iowa,ALL,all sectors,7.66,cents per kilowatt-hour
+2010,ID,Idaho,ALL,all sectors,6.54,cents per kilowatt-hour
+2010,IL,Illinois,ALL,all sectors,9.13,cents per kilowatt-hour
+2010,IN,Indiana,ALL,all sectors,7.67,cents per kilowatt-hour
+2010,KS,Kansas,ALL,all sectors,8.35,cents per kilowatt-hour
+2010,KY,Kentucky,ALL,all sectors,6.73,cents per kilowatt-hour
+2010,LA,Louisiana,ALL,all sectors,7.8,cents per kilowatt-hour
+2010,MA,Massachusetts,ALL,all sectors,14.26,cents per kilowatt-hour
+2010,MAT,Middle Atlantic,ALL,all sectors,13.6,cents per kilowatt-hour
+2010,MD,Maryland,ALL,all sectors,12.71,cents per kilowatt-hour
+2010,ME,Maine,ALL,all sectors,12.84,cents per kilowatt-hour
+2010,MI,Michigan,ALL,all sectors,9.88,cents per kilowatt-hour
+2010,MN,Minnesota,ALL,all sectors,8.41,cents per kilowatt-hour
+2010,MO,Missouri,ALL,all sectors,7.78,cents per kilowatt-hour
+2010,MS,Mississippi,ALL,all sectors,8.59,cents per kilowatt-hour
+2010,MT,Montana,ALL,all sectors,7.84,cents per kilowatt-hour
+2010,MTN,Mountain,ALL,all sectors,8.59,cents per kilowatt-hour
+2010,NC,North Carolina,ALL,all sectors,8.67,cents per kilowatt-hour
+2010,ND,North Dakota,ALL,all sectors,7.11,cents per kilowatt-hour
+2010,NE,Nebraska,ALL,all sectors,7.52,cents per kilowatt-hour
+2010,NEW,New England,ALL,all sectors,14.89,cents per kilowatt-hour
+2010,NH,New Hampshire,ALL,all sectors,14.84,cents per kilowatt-hour
+2010,NJ,New Jersey,ALL,all sectors,14.68,cents per kilowatt-hour
+2010,NM,New Mexico,ALL,all sectors,8.4,cents per kilowatt-hour
+2010,NV,Nevada,ALL,all sectors,9.73,cents per kilowatt-hour
+2010,NY,New York,ALL,all sectors,16.41,cents per kilowatt-hour
+2010,OH,Ohio,ALL,all sectors,9.14,cents per kilowatt-hour
+2010,OK,Oklahoma,ALL,all sectors,7.59,cents per kilowatt-hour
+2010,OR,Oregon,ALL,all sectors,7.56,cents per kilowatt-hour
+2010,PA,Pennsylvania,ALL,all sectors,10.31,cents per kilowatt-hour
+2010,PACC,Pacific Contiguous,ALL,all sectors,10.92,cents per kilowatt-hour
+2010,PACN,Pacific Noncontiguous,ALL,all sectors,21.14,cents per kilowatt-hour
+2010,RI,Rhode Island,ALL,all sectors,14.07,cents per kilowatt-hour
+2010,SAT,South Atlantic,ALL,all sectors,9.61,cents per kilowatt-hour
+2010,SC,South Carolina,ALL,all sectors,8.49,cents per kilowatt-hour
+2010,SD,South Dakota,ALL,all sectors,7.82,cents per kilowatt-hour
+2010,TN,Tennessee,ALL,all sectors,8.61,cents per kilowatt-hour
+2010,TX,Texas,ALL,all sectors,9.34,cents per kilowatt-hour
+2010,US,U.S. Total,ALL,all sectors,9.83,cents per kilowatt-hour
+2010,UT,Utah,ALL,all sectors,6.94,cents per kilowatt-hour
+2010,VA,Virginia,ALL,all sectors,8.69,cents per kilowatt-hour
+2010,VT,Vermont,ALL,all sectors,13.24,cents per kilowatt-hour
+2010,WA,Washington,ALL,all sectors,6.66,cents per kilowatt-hour
+2010,WI,Wisconsin,ALL,all sectors,9.78,cents per kilowatt-hour
+2010,WNC,West North Central,ALL,all sectors,7.93,cents per kilowatt-hour
+2010,WSC,West South Central,ALL,all sectors,8.74,cents per kilowatt-hour
+2010,WV,West Virginia,ALL,all sectors,7.45,cents per kilowatt-hour
+2010,WY,Wyoming,ALL,all sectors,6.2,cents per kilowatt-hour
+2011,AK,Alaska,ALL,all sectors,16.08,cents per kilowatt-hour
+2011,AL,Alabama,ALL,all sectors,9.1,cents per kilowatt-hour
+2011,AR,Arkansas,ALL,all sectors,7.43,cents per kilowatt-hour
+2011,AZ,Arizona,ALL,all sectors,9.71,cents per kilowatt-hour
+2011,CA,California,ALL,all sectors,13.05,cents per kilowatt-hour
+2011,CO,Colorado,ALL,all sectors,9.39,cents per kilowatt-hour
+2011,CT,Connecticut,ALL,all sectors,16.35,cents per kilowatt-hour
+2011,DC,District of Columbia,ALL,all sectors,12.81,cents per kilowatt-hour
+2011,DE,Delaware,ALL,all sectors,11.48,cents per kilowatt-hour
+2011,ENC,East North Central,ALL,all sectors,9.22,cents per kilowatt-hour
+2011,ESC,East South Central,ALL,all sectors,8.58,cents per kilowatt-hour
+2011,FL,Florida,ALL,all sectors,10.61,cents per kilowatt-hour
+2011,GA,Georgia,ALL,all sectors,9.61,cents per kilowatt-hour
+2011,HI,Hawaii,ALL,all sectors,31.59,cents per kilowatt-hour
+2011,IA,Iowa,ALL,all sectors,7.56,cents per kilowatt-hour
+2011,ID,Idaho,ALL,all sectors,6.44,cents per kilowatt-hour
+2011,IL,Illinois,ALL,all sectors,8.97,cents per kilowatt-hour
+2011,IN,Indiana,ALL,all sectors,8.01,cents per kilowatt-hour
+2011,KS,Kansas,ALL,all sectors,8.89,cents per kilowatt-hour
+2011,KY,Kentucky,ALL,all sectors,7.17,cents per kilowatt-hour
+2011,LA,Louisiana,ALL,all sectors,7.68,cents per kilowatt-hour
+2011,MA,Massachusetts,ALL,all sectors,14.11,cents per kilowatt-hour
+2011,MAT,Middle Atlantic,ALL,all sectors,13.37,cents per kilowatt-hour
+2011,MD,Maryland,ALL,all sectors,11.93,cents per kilowatt-hour
+2011,ME,Maine,ALL,all sectors,12.58,cents per kilowatt-hour
+2011,MI,Michigan,ALL,all sectors,10.4,cents per kilowatt-hour
+2011,MN,Minnesota,ALL,all sectors,8.65,cents per kilowatt-hour
+2011,MO,Missouri,ALL,all sectors,8.32,cents per kilowatt-hour
+2011,MS,Mississippi,ALL,all sectors,8.78,cents per kilowatt-hour
+2011,MT,Montana,ALL,all sectors,8.23,cents per kilowatt-hour
+2011,MTN,Mountain,ALL,all sectors,8.63,cents per kilowatt-hour
+2011,NC,North Carolina,ALL,all sectors,8.64,cents per kilowatt-hour
+2011,ND,North Dakota,ALL,all sectors,7.5,cents per kilowatt-hour
+2011,NE,Nebraska,ALL,all sectors,7.88,cents per kilowatt-hour
+2011,NEW,New England,ALL,all sectors,14.49,cents per kilowatt-hour
+2011,NH,New Hampshire,ALL,all sectors,14.74,cents per kilowatt-hour
+2011,NJ,New Jersey,ALL,all sectors,14.3,cents per kilowatt-hour
+2011,NM,New Mexico,ALL,all sectors,8.74,cents per kilowatt-hour
+2011,NV,Nevada,ALL,all sectors,8.97,cents per kilowatt-hour
+2011,NY,New York,ALL,all sectors,15.89,cents per kilowatt-hour
+2011,OH,Ohio,ALL,all sectors,9.03,cents per kilowatt-hour
+2011,OK,Oklahoma,ALL,all sectors,7.8,cents per kilowatt-hour
+2011,OR,Oregon,ALL,all sectors,8.04,cents per kilowatt-hour
+2011,PA,Pennsylvania,ALL,all sectors,10.45,cents per kilowatt-hour
+2011,PACC,Pacific Contiguous,ALL,all sectors,11.01,cents per kilowatt-hour
+2011,PACN,Pacific Noncontiguous,ALL,all sectors,25.57,cents per kilowatt-hour
+2011,RI,Rhode Island,ALL,all sectors,13.04,cents per kilowatt-hour
+2011,SAT,South Atlantic,ALL,all sectors,9.74,cents per kilowatt-hour
+2011,SC,South Carolina,ALL,all sectors,8.8,cents per kilowatt-hour
+2011,SD,South Dakota,ALL,all sectors,8.05,cents per kilowatt-hour
+2011,TN,Tennessee,ALL,all sectors,9.28,cents per kilowatt-hour
+2011,TX,Texas,ALL,all sectors,9,cents per kilowatt-hour
+2011,US,U.S. Total,ALL,all sectors,9.9,cents per kilowatt-hour
+2011,UT,Utah,ALL,all sectors,7.13,cents per kilowatt-hour
+2011,VA,Virginia,ALL,all sectors,8.84,cents per kilowatt-hour
+2011,VT,Vermont,ALL,all sectors,13.8,cents per kilowatt-hour
+2011,WA,Washington,ALL,all sectors,6.78,cents per kilowatt-hour
+2011,WI,Wisconsin,ALL,all sectors,10.21,cents per kilowatt-hour
+2011,WNC,West North Central,ALL,all sectors,8.26,cents per kilowatt-hour
+2011,WSC,West South Central,ALL,all sectors,8.54,cents per kilowatt-hour
+2011,WV,West Virginia,ALL,all sectors,7.88,cents per kilowatt-hour
+2011,WY,Wyoming,ALL,all sectors,6.58,cents per kilowatt-hour
+2012,AK,Alaska,ALL,all sectors,16.33,cents per kilowatt-hour
+2012,AL,Alabama,ALL,all sectors,9.18,cents per kilowatt-hour
+2012,AR,Arkansas,ALL,all sectors,7.62,cents per kilowatt-hour
+2012,AZ,Arizona,ALL,all sectors,9.81,cents per kilowatt-hour
+2012,CA,California,ALL,all sectors,13.53,cents per kilowatt-hour
+2012,CO,Colorado,ALL,all sectors,9.39,cents per kilowatt-hour
+2012,CT,Connecticut,ALL,all sectors,15.54,cents per kilowatt-hour
+2012,DC,District of Columbia,ALL,all sectors,11.85,cents per kilowatt-hour
+2012,DE,Delaware,ALL,all sectors,11.06,cents per kilowatt-hour
+2012,ENC,East North Central,ALL,all sectors,9.27,cents per kilowatt-hour
+2012,ESC,East South Central,ALL,all sectors,8.58,cents per kilowatt-hour
+2012,FL,Florida,ALL,all sectors,10.44,cents per kilowatt-hour
+2012,GA,Georgia,ALL,all sectors,9.37,cents per kilowatt-hour
+2012,HI,Hawaii,ALL,all sectors,34.04,cents per kilowatt-hour
+2012,IA,Iowa,ALL,all sectors,7.71,cents per kilowatt-hour
+2012,ID,Idaho,ALL,all sectors,6.92,cents per kilowatt-hour
+2012,IL,Illinois,ALL,all sectors,8.4,cents per kilowatt-hour
+2012,IN,Indiana,ALL,all sectors,8.29,cents per kilowatt-hour
+2012,KS,Kansas,ALL,all sectors,9.33,cents per kilowatt-hour
+2012,KY,Kentucky,ALL,all sectors,7.26,cents per kilowatt-hour
+2012,LA,Louisiana,ALL,all sectors,6.9,cents per kilowatt-hour
+2012,MA,Massachusetts,ALL,all sectors,13.79,cents per kilowatt-hour
+2012,MAT,Middle Atlantic,ALL,all sectors,12.75,cents per kilowatt-hour
+2012,MD,Maryland,ALL,all sectors,11.28,cents per kilowatt-hour
+2012,ME,Maine,ALL,all sectors,11.81,cents per kilowatt-hour
+2012,MI,Michigan,ALL,all sectors,10.98,cents per kilowatt-hour
+2012,MN,Minnesota,ALL,all sectors,8.86,cents per kilowatt-hour
+2012,MO,Missouri,ALL,all sectors,8.53,cents per kilowatt-hour
+2012,MS,Mississippi,ALL,all sectors,8.6,cents per kilowatt-hour
+2012,MT,Montana,ALL,all sectors,8.25,cents per kilowatt-hour
+2012,MTN,Mountain,ALL,all sectors,8.82,cents per kilowatt-hour
+2012,NC,North Carolina,ALL,all sectors,9.15,cents per kilowatt-hour
+2012,ND,North Dakota,ALL,all sectors,7.83,cents per kilowatt-hour
+2012,NE,Nebraska,ALL,all sectors,8.37,cents per kilowatt-hour
+2012,NEW,New England,ALL,all sectors,14.02,cents per kilowatt-hour
+2012,NH,New Hampshire,ALL,all sectors,14.19,cents per kilowatt-hour
+2012,NJ,New Jersey,ALL,all sectors,13.68,cents per kilowatt-hour
+2012,NM,New Mexico,ALL,all sectors,8.83,cents per kilowatt-hour
+2012,NV,Nevada,ALL,all sectors,8.95,cents per kilowatt-hour
+2012,NY,New York,ALL,all sectors,15.15,cents per kilowatt-hour
+2012,OH,Ohio,ALL,all sectors,9.12,cents per kilowatt-hour
+2012,OK,Oklahoma,ALL,all sectors,7.54,cents per kilowatt-hour
+2012,OR,Oregon,ALL,all sectors,8.21,cents per kilowatt-hour
+2012,PA,Pennsylvania,ALL,all sectors,9.91,cents per kilowatt-hour
+2012,PACC,Pacific Contiguous,ALL,all sectors,11.38,cents per kilowatt-hour
+2012,PACN,Pacific Noncontiguous,ALL,all sectors,26.96,cents per kilowatt-hour
+2012,RI,Rhode Island,ALL,all sectors,12.74,cents per kilowatt-hour
+2012,SAT,South Atlantic,ALL,all sectors,9.73,cents per kilowatt-hour
+2012,SC,South Carolina,ALL,all sectors,9.1,cents per kilowatt-hour
+2012,SD,South Dakota,ALL,all sectors,8.49,cents per kilowatt-hour
+2012,TN,Tennessee,ALL,all sectors,9.27,cents per kilowatt-hour
+2012,TX,Texas,ALL,all sectors,8.55,cents per kilowatt-hour
+2012,US,U.S. Total,ALL,all sectors,9.84,cents per kilowatt-hour
+2012,UT,Utah,ALL,all sectors,7.84,cents per kilowatt-hour
+2012,VA,Virginia,ALL,all sectors,9.07,cents per kilowatt-hour
+2012,VT,Vermont,ALL,all sectors,14.22,cents per kilowatt-hour
+2012,WA,Washington,ALL,all sectors,6.94,cents per kilowatt-hour
+2012,WI,Wisconsin,ALL,all sectors,10.28,cents per kilowatt-hour
+2012,WNC,West North Central,ALL,all sectors,8.54,cents per kilowatt-hour
+2012,WSC,West South Central,ALL,all sectors,8.11,cents per kilowatt-hour
+2012,WV,West Virginia,ALL,all sectors,8.14,cents per kilowatt-hour
+2012,WY,Wyoming,ALL,all sectors,7.19,cents per kilowatt-hour
+2013,AK,Alaska,ALL,all sectors,16.49,cents per kilowatt-hour
+2013,AL,Alabama,ALL,all sectors,9.02,cents per kilowatt-hour
+2013,AR,Arkansas,ALL,all sectors,7.93,cents per kilowatt-hour
+2013,AZ,Arizona,ALL,all sectors,10.14,cents per kilowatt-hour
+2013,CA,California,ALL,all sectors,14.3,cents per kilowatt-hour
+2013,CO,Colorado,ALL,all sectors,9.88,cents per kilowatt-hour
+2013,CT,Connecticut,ALL,all sectors,15.66,cents per kilowatt-hour
+2013,DC,District of Columbia,ALL,all sectors,11.85,cents per kilowatt-hour
+2013,DE,Delaware,ALL,all sectors,10.9,cents per kilowatt-hour
+2013,ENC,East North Central,ALL,all sectors,9.4,cents per kilowatt-hour
+2013,ESC,East South Central,ALL,all sectors,8.71,cents per kilowatt-hour
+2013,FL,Florida,ALL,all sectors,10.22,cents per kilowatt-hour
+2013,GA,Georgia,ALL,all sectors,9.69,cents per kilowatt-hour
+2013,HI,Hawaii,ALL,all sectors,33.26,cents per kilowatt-hour
+2013,IA,Iowa,ALL,all sectors,8.07,cents per kilowatt-hour
+2013,ID,Idaho,ALL,all sectors,7.57,cents per kilowatt-hour
+2013,IL,Illinois,ALL,all sectors,8.26,cents per kilowatt-hour
+2013,IN,Indiana,ALL,all sectors,8.73,cents per kilowatt-hour
+2013,KS,Kansas,ALL,all sectors,9.72,cents per kilowatt-hour
+2013,KY,Kentucky,ALL,all sectors,7.69,cents per kilowatt-hour
+2013,LA,Louisiana,ALL,all sectors,8.04,cents per kilowatt-hour
+2013,MA,Massachusetts,ALL,all sectors,14.51,cents per kilowatt-hour
+2013,MAT,Middle Atlantic,ALL,all sectors,12.85,cents per kilowatt-hour
+2013,MD,Maryland,ALL,all sectors,11.66,cents per kilowatt-hour
+2013,ME,Maine,ALL,all sectors,11.86,cents per kilowatt-hour
+2013,MI,Michigan,ALL,all sectors,11.21,cents per kilowatt-hour
+2013,MN,Minnesota,ALL,all sectors,9.41,cents per kilowatt-hour
+2013,MO,Missouri,ALL,all sectors,9.04,cents per kilowatt-hour
+2013,MS,Mississippi,ALL,all sectors,9.11,cents per kilowatt-hour
+2013,MT,Montana,ALL,all sectors,8.58,cents per kilowatt-hour
+2013,MTN,Mountain,ALL,all sectors,9.18,cents per kilowatt-hour
+2013,NC,North Carolina,ALL,all sectors,9.24,cents per kilowatt-hour
+2013,ND,North Dakota,ALL,all sectors,8.2,cents per kilowatt-hour
+2013,NE,Nebraska,ALL,all sectors,8.74,cents per kilowatt-hour
+2013,NEW,New England,ALL,all sectors,14.47,cents per kilowatt-hour
+2013,NH,New Hampshire,ALL,all sectors,14.3,cents per kilowatt-hour
+2013,NJ,New Jersey,ALL,all sectors,13.69,cents per kilowatt-hour
+2013,NM,New Mexico,ALL,all sectors,9.25,cents per kilowatt-hour
+2013,NV,Nevada,ALL,all sectors,9.03,cents per kilowatt-hour
+2013,NY,New York,ALL,all sectors,15.44,cents per kilowatt-hour
+2013,OH,Ohio,ALL,all sectors,9.2,cents per kilowatt-hour
+2013,OK,Oklahoma,ALL,all sectors,7.86,cents per kilowatt-hour
+2013,OR,Oregon,ALL,all sectors,8.44,cents per kilowatt-hour
+2013,PA,Pennsylvania,ALL,all sectors,9.81,cents per kilowatt-hour
+2013,PACC,Pacific Contiguous,ALL,all sectors,11.94,cents per kilowatt-hour
+2013,PACN,Pacific Noncontiguous,ALL,all sectors,26.59,cents per kilowatt-hour
+2013,RI,Rhode Island,ALL,all sectors,13.72,cents per kilowatt-hour
+2013,SAT,South Atlantic,ALL,all sectors,9.75,cents per kilowatt-hour
+2013,SC,South Carolina,ALL,all sectors,9.24,cents per kilowatt-hour
+2013,SD,South Dakota,ALL,all sectors,8.86,cents per kilowatt-hour
+2013,TN,Tennessee,ALL,all sectors,9.13,cents per kilowatt-hour
+2013,TX,Texas,ALL,all sectors,8.66,cents per kilowatt-hour
+2013,US,U.S. Total,ALL,all sectors,10.07,cents per kilowatt-hour
+2013,UT,Utah,ALL,all sectors,8.15,cents per kilowatt-hour
+2013,VA,Virginia,ALL,all sectors,8.96,cents per kilowatt-hour
+2013,VT,Vermont,ALL,all sectors,14.61,cents per kilowatt-hour
+2013,WA,Washington,ALL,all sectors,7.09,cents per kilowatt-hour
+2013,WI,Wisconsin,ALL,all sectors,10.51,cents per kilowatt-hour
+2013,WNC,West North Central,ALL,all sectors,8.98,cents per kilowatt-hour
+2013,WSC,West South Central,ALL,all sectors,8.42,cents per kilowatt-hour
+2013,WV,West Virginia,ALL,all sectors,7.91,cents per kilowatt-hour
+2013,WY,Wyoming,ALL,all sectors,7.55,cents per kilowatt-hour
+2014,AK,Alaska,ALL,all sectors,17.46,cents per kilowatt-hour
+2014,AL,Alabama,ALL,all sectors,9.27,cents per kilowatt-hour
+2014,AR,Arkansas,ALL,all sectors,7.9,cents per kilowatt-hour
+2014,AZ,Arizona,ALL,all sectors,10.18,cents per kilowatt-hour
+2014,CA,California,ALL,all sectors,15.15,cents per kilowatt-hour
+2014,CO,Colorado,ALL,all sectors,10.06,cents per kilowatt-hour
+2014,CT,Connecticut,ALL,all sectors,17.05,cents per kilowatt-hour
+2014,DC,District of Columbia,ALL,all sectors,12.11,cents per kilowatt-hour
+2014,DE,Delaware,ALL,all sectors,11.22,cents per kilowatt-hour
+2014,ENC,East North Central,ALL,all sectors,9.85,cents per kilowatt-hour
+2014,ESC,East South Central,ALL,all sectors,9.08,cents per kilowatt-hour
+2014,FL,Florida,ALL,all sectors,10.77,cents per kilowatt-hour
+2014,GA,Georgia,ALL,all sectors,10.03,cents per kilowatt-hour
+2014,HI,Hawaii,ALL,all sectors,33.43,cents per kilowatt-hour
+2014,IA,Iowa,ALL,all sectors,8.15,cents per kilowatt-hour
+2014,ID,Idaho,ALL,all sectors,7.93,cents per kilowatt-hour
+2014,IL,Illinois,ALL,all sectors,9.36,cents per kilowatt-hour
+2014,IN,Indiana,ALL,all sectors,9.06,cents per kilowatt-hour
+2014,KS,Kansas,ALL,all sectors,10.16,cents per kilowatt-hour
+2014,KY,Kentucky,ALL,all sectors,8.15,cents per kilowatt-hour
+2014,LA,Louisiana,ALL,all sectors,8.09,cents per kilowatt-hour
+2014,MA,Massachusetts,ALL,all sectors,15.35,cents per kilowatt-hour
+2014,MAT,Middle Atlantic,ALL,all sectors,13.41,cents per kilowatt-hour
+2014,MD,Maryland,ALL,all sectors,12.1,cents per kilowatt-hour
+2014,ME,Maine,ALL,all sectors,12.65,cents per kilowatt-hour
+2014,MI,Michigan,ALL,all sectors,11.03,cents per kilowatt-hour
+2014,MN,Minnesota,ALL,all sectors,9.52,cents per kilowatt-hour
+2014,MO,Missouri,ALL,all sectors,9.11,cents per kilowatt-hour
+2014,MS,Mississippi,ALL,all sectors,9.6,cents per kilowatt-hour
+2014,MT,Montana,ALL,all sectors,8.59,cents per kilowatt-hour
+2014,MTN,Mountain,ALL,all sectors,9.42,cents per kilowatt-hour
+2014,NC,North Carolina,ALL,all sectors,9.33,cents per kilowatt-hour
+2014,ND,North Dakota,ALL,all sectors,8.41,cents per kilowatt-hour
+2014,NE,Nebraska,ALL,all sectors,8.84,cents per kilowatt-hour
+2014,NEW,New England,ALL,all sectors,15.45,cents per kilowatt-hour
+2014,NH,New Hampshire,ALL,all sectors,15.22,cents per kilowatt-hour
+2014,NJ,New Jersey,ALL,all sectors,13.95,cents per kilowatt-hour
+2014,NM,New Mexico,ALL,all sectors,9.65,cents per kilowatt-hour
+2014,NV,Nevada,ALL,all sectors,9.73,cents per kilowatt-hour
+2014,NY,New York,ALL,all sectors,16.25,cents per kilowatt-hour
+2014,OH,Ohio,ALL,all sectors,9.73,cents per kilowatt-hour
+2014,OK,Oklahoma,ALL,all sectors,8.18,cents per kilowatt-hour
+2014,OR,Oregon,ALL,all sectors,8.68,cents per kilowatt-hour
+2014,PA,Pennsylvania,ALL,all sectors,10.28,cents per kilowatt-hour
+2014,PACC,Pacific Contiguous,ALL,all sectors,12.55,cents per kilowatt-hour
+2014,PACN,Pacific Noncontiguous,ALL,all sectors,27.13,cents per kilowatt-hour
+2014,RI,Rhode Island,ALL,all sectors,15.41,cents per kilowatt-hour
+2014,SAT,South Atlantic,ALL,all sectors,10.07,cents per kilowatt-hour
+2014,SC,South Carolina,ALL,all sectors,9.67,cents per kilowatt-hour
+2014,SD,South Dakota,ALL,all sectors,9.05,cents per kilowatt-hour
+2014,TN,Tennessee,ALL,all sectors,9.4,cents per kilowatt-hour
+2014,TX,Texas,ALL,all sectors,8.94,cents per kilowatt-hour
+2014,US,U.S. Total,ALL,all sectors,10.44,cents per kilowatt-hour
+2014,UT,Utah,ALL,all sectors,8.35,cents per kilowatt-hour
+2014,VA,Virginia,ALL,all sectors,9.17,cents per kilowatt-hour
+2014,VT,Vermont,ALL,all sectors,14.57,cents per kilowatt-hour
+2014,WA,Washington,ALL,all sectors,7.13,cents per kilowatt-hour
+2014,WI,Wisconsin,ALL,all sectors,10.57,cents per kilowatt-hour
+2014,WNC,West North Central,ALL,all sectors,9.12,cents per kilowatt-hour
+2014,WSC,West South Central,ALL,all sectors,8.65,cents per kilowatt-hour
+2014,WV,West Virginia,ALL,all sectors,7.65,cents per kilowatt-hour
+2014,WY,Wyoming,ALL,all sectors,7.76,cents per kilowatt-hour
+2015,AK,Alaska,ALL,all sectors,17.59,cents per kilowatt-hour
+2015,AL,Alabama,ALL,all sectors,9.33,cents per kilowatt-hour
+2015,AR,Arkansas,ALL,all sectors,8.19,cents per kilowatt-hour
+2015,AZ,Arizona,ALL,all sectors,10.34,cents per kilowatt-hour
+2015,CA,California,ALL,all sectors,15.42,cents per kilowatt-hour
+2015,CO,Colorado,ALL,all sectors,9.94,cents per kilowatt-hour
+2015,CT,Connecticut,ALL,all sectors,17.77,cents per kilowatt-hour
+2015,DC,District of Columbia,ALL,all sectors,12.07,cents per kilowatt-hour
+2015,DE,Delaware,ALL,all sectors,11.17,cents per kilowatt-hour
+2015,ENC,East North Central,ALL,all sectors,9.89,cents per kilowatt-hour
+2015,ESC,East South Central,ALL,all sectors,9.06,cents per kilowatt-hour
+2015,FL,Florida,ALL,all sectors,10.49,cents per kilowatt-hour
+2015,GA,Georgia,ALL,all sectors,9.62,cents per kilowatt-hour
+2015,HI,Hawaii,ALL,all sectors,26.17,cents per kilowatt-hour
+2015,IA,Iowa,ALL,all sectors,8.35,cents per kilowatt-hour
+2015,ID,Idaho,ALL,all sectors,8.09,cents per kilowatt-hour
+2015,IL,Illinois,ALL,all sectors,9.4,cents per kilowatt-hour
+2015,IN,Indiana,ALL,all sectors,8.99,cents per kilowatt-hour
+2015,KS,Kansas,ALL,all sectors,10.14,cents per kilowatt-hour
+2015,KY,Kentucky,ALL,all sectors,8.14,cents per kilowatt-hour
+2015,LA,Louisiana,ALL,all sectors,7.65,cents per kilowatt-hour
+2015,MA,Massachusetts,ALL,all sectors,16.9,cents per kilowatt-hour
+2015,MAT,Middle Atlantic,ALL,all sectors,13,cents per kilowatt-hour
+2015,MD,Maryland,ALL,all sectors,12.07,cents per kilowatt-hour
+2015,ME,Maine,ALL,all sectors,12.78,cents per kilowatt-hour
+2015,MI,Michigan,ALL,all sectors,10.76,cents per kilowatt-hour
+2015,MN,Minnesota,ALL,all sectors,9.53,cents per kilowatt-hour
+2015,MO,Missouri,ALL,all sectors,9.44,cents per kilowatt-hour
+2015,MS,Mississippi,ALL,all sectors,9.53,cents per kilowatt-hour
+2015,MT,Montana,ALL,all sectors,8.9,cents per kilowatt-hour
+2015,MTN,Mountain,ALL,all sectors,9.48,cents per kilowatt-hour
+2015,NC,North Carolina,ALL,all sectors,9.37,cents per kilowatt-hour
+2015,ND,North Dakota,ALL,all sectors,8.75,cents per kilowatt-hour
+2015,NE,Nebraska,ALL,all sectors,8.91,cents per kilowatt-hour
+2015,NEW,New England,ALL,all sectors,16.52,cents per kilowatt-hour
+2015,NH,New Hampshire,ALL,all sectors,16.02,cents per kilowatt-hour
+2015,NJ,New Jersey,ALL,all sectors,13.74,cents per kilowatt-hour
+2015,NM,New Mexico,ALL,all sectors,9.62,cents per kilowatt-hour
+2015,NV,Nevada,ALL,all sectors,9.48,cents per kilowatt-hour
+2015,NY,New York,ALL,all sectors,15.28,cents per kilowatt-hour
+2015,OH,Ohio,ALL,all sectors,9.98,cents per kilowatt-hour
+2015,OK,Oklahoma,ALL,all sectors,7.9,cents per kilowatt-hour
+2015,OR,Oregon,ALL,all sectors,8.75,cents per kilowatt-hour
+2015,PA,Pennsylvania,ALL,all sectors,10.31,cents per kilowatt-hour
+2015,PACC,Pacific Contiguous,ALL,all sectors,12.82,cents per kilowatt-hour
+2015,PACN,Pacific Noncontiguous,ALL,all sectors,22.8,cents per kilowatt-hour
+2015,RI,Rhode Island,ALL,all sectors,17.01,cents per kilowatt-hour
+2015,SAT,South Atlantic,ALL,all sectors,9.97,cents per kilowatt-hour
+2015,SC,South Carolina,ALL,all sectors,9.58,cents per kilowatt-hour
+2015,SD,South Dakota,ALL,all sectors,9.47,cents per kilowatt-hour
+2015,TN,Tennessee,ALL,all sectors,9.3,cents per kilowatt-hour
+2015,TX,Texas,ALL,all sectors,8.7,cents per kilowatt-hour
+2015,US,U.S. Total,ALL,all sectors,10.41,cents per kilowatt-hour
+2015,UT,Utah,ALL,all sectors,8.54,cents per kilowatt-hour
+2015,VA,Virginia,ALL,all sectors,9.31,cents per kilowatt-hour
+2015,VT,Vermont,ALL,all sectors,14.41,cents per kilowatt-hour
+2015,WA,Washington,ALL,all sectors,7.4,cents per kilowatt-hour
+2015,WI,Wisconsin,ALL,all sectors,10.73,cents per kilowatt-hour
+2015,WNC,West North Central,ALL,all sectors,9.29,cents per kilowatt-hour
+2015,WSC,West South Central,ALL,all sectors,8.41,cents per kilowatt-hour
+2015,WV,West Virginia,ALL,all sectors,8.11,cents per kilowatt-hour
+2015,WY,Wyoming,ALL,all sectors,7.97,cents per kilowatt-hour
+2016,AK,Alaska,ALL,all sectors,17.93,cents per kilowatt-hour
+2016,AL,Alabama,ALL,all sectors,9.56,cents per kilowatt-hour
+2016,AR,Arkansas,ALL,all sectors,8.13,cents per kilowatt-hour
+2016,AZ,Arizona,ALL,all sectors,10.33,cents per kilowatt-hour
+2016,CA,California,ALL,all sectors,15.23,cents per kilowatt-hour
+2016,CO,Colorado,ALL,all sectors,9.83,cents per kilowatt-hour
+2016,CT,Connecticut,ALL,all sectors,17.24,cents per kilowatt-hour
+2016,DC,District of Columbia,ALL,all sectors,11.73,cents per kilowatt-hour
+2016,DE,Delaware,ALL,all sectors,11.09,cents per kilowatt-hour
+2016,ENC,East North Central,ALL,all sectors,9.94,cents per kilowatt-hour
+2016,ESC,East South Central,ALL,all sectors,9.04,cents per kilowatt-hour
+2016,FL,Florida,ALL,all sectors,9.91,cents per kilowatt-hour
+2016,GA,Georgia,ALL,all sectors,9.59,cents per kilowatt-hour
+2016,HI,Hawaii,ALL,all sectors,23.87,cents per kilowatt-hour
+2016,IA,Iowa,ALL,all sectors,8.55,cents per kilowatt-hour
+2016,ID,Idaho,ALL,all sectors,8.08,cents per kilowatt-hour
+2016,IL,Illinois,ALL,all sectors,9.38,cents per kilowatt-hour
+2016,IN,Indiana,ALL,all sectors,9.22,cents per kilowatt-hour
+2016,KS,Kansas,ALL,all sectors,10.49,cents per kilowatt-hour
+2016,KY,Kentucky,ALL,all sectors,8.42,cents per kilowatt-hour
+2016,LA,Louisiana,ALL,all sectors,7.46,cents per kilowatt-hour
+2016,MA,Massachusetts,ALL,all sectors,16.48,cents per kilowatt-hour
+2016,MAT,Middle Atlantic,ALL,all sectors,12.56,cents per kilowatt-hour
+2016,MD,Maryland,ALL,all sectors,12.21,cents per kilowatt-hour
+2016,ME,Maine,ALL,all sectors,12.8,cents per kilowatt-hour
+2016,MI,Michigan,ALL,all sectors,11.05,cents per kilowatt-hour
+2016,MN,Minnesota,ALL,all sectors,9.99,cents per kilowatt-hour
+2016,MO,Missouri,ALL,all sectors,9.74,cents per kilowatt-hour
+2016,MS,Mississippi,ALL,all sectors,8.67,cents per kilowatt-hour
+2016,MT,Montana,ALL,all sectors,8.84,cents per kilowatt-hour
+2016,MTN,Mountain,ALL,all sectors,9.31,cents per kilowatt-hour
+2016,NC,North Carolina,ALL,all sectors,9.2,cents per kilowatt-hour
+2016,ND,North Dakota,ALL,all sectors,8.94,cents per kilowatt-hour
+2016,NE,Nebraska,ALL,all sectors,9.05,cents per kilowatt-hour
+2016,NEW,New England,ALL,all sectors,16.13,cents per kilowatt-hour
+2016,NH,New Hampshire,ALL,all sectors,15.66,cents per kilowatt-hour
+2016,NJ,New Jersey,ALL,all sectors,13.38,cents per kilowatt-hour
+2016,NM,New Mexico,ALL,all sectors,9.12,cents per kilowatt-hour
+2016,NV,Nevada,ALL,all sectors,8.38,cents per kilowatt-hour
+2016,NY,New York,ALL,all sectors,14.47,cents per kilowatt-hour
+2016,OH,Ohio,ALL,all sectors,9.84,cents per kilowatt-hour
+2016,OK,Oklahoma,ALL,all sectors,7.83,cents per kilowatt-hour
+2016,OR,Oregon,ALL,all sectors,8.83,cents per kilowatt-hour
+2016,PA,Pennsylvania,ALL,all sectors,10.19,cents per kilowatt-hour
+2016,PACC,Pacific Contiguous,ALL,all sectors,12.75,cents per kilowatt-hour
+2016,PACN,Pacific Noncontiguous,ALL,all sectors,21.53,cents per kilowatt-hour
+2016,RI,Rhode Island,ALL,all sectors,16.28,cents per kilowatt-hour
+2016,SAT,South Atlantic,ALL,all sectors,9.79,cents per kilowatt-hour
+2016,SC,South Carolina,ALL,all sectors,9.79,cents per kilowatt-hour
+2016,SD,South Dakota,ALL,all sectors,9.83,cents per kilowatt-hour
+2016,TN,Tennessee,ALL,all sectors,9.23,cents per kilowatt-hour
+2016,TX,Texas,ALL,all sectors,8.43,cents per kilowatt-hour
+2016,US,U.S. Total,ALL,all sectors,10.27,cents per kilowatt-hour
+2016,UT,Utah,ALL,all sectors,8.72,cents per kilowatt-hour
+2016,VA,Virginia,ALL,all sectors,9.09,cents per kilowatt-hour
+2016,VT,Vermont,ALL,all sectors,14.46,cents per kilowatt-hour
+2016,WA,Washington,ALL,all sectors,7.68,cents per kilowatt-hour
+2016,WI,Wisconsin,ALL,all sectors,10.67,cents per kilowatt-hour
+2016,WNC,West North Central,ALL,all sectors,9.59,cents per kilowatt-hour
+2016,WSC,West South Central,ALL,all sectors,8.19,cents per kilowatt-hour
+2016,WV,West Virginia,ALL,all sectors,8.98,cents per kilowatt-hour
+2016,WY,Wyoming,ALL,all sectors,8.19,cents per kilowatt-hour
+2017,AK,Alaska,ALL,all sectors,19.1,cents per kilowatt-hour
+2017,AL,Alabama,ALL,all sectors,9.83,cents per kilowatt-hour
+2017,AR,Arkansas,ALL,all sectors,8.26,cents per kilowatt-hour
+2017,AZ,Arizona,ALL,all sectors,10.64,cents per kilowatt-hour
+2017,CA,California,ALL,all sectors,16.06,cents per kilowatt-hour
+2017,CO,Colorado,ALL,all sectors,9.99,cents per kilowatt-hour
+2017,CT,Connecticut,ALL,all sectors,17.55,cents per kilowatt-hour
+2017,DC,District of Columbia,ALL,all sectors,11.8,cents per kilowatt-hour
+2017,DE,Delaware,ALL,all sectors,10.9,cents per kilowatt-hour
+2017,ENC,East North Central,ALL,all sectors,10.12,cents per kilowatt-hour
+2017,ESC,East South Central,ALL,all sectors,9.29,cents per kilowatt-hour
+2017,FL,Florida,ALL,all sectors,10.42,cents per kilowatt-hour
+2017,GA,Georgia,ALL,all sectors,9.83,cents per kilowatt-hour
+2017,HI,Hawaii,ALL,all sectors,26.05,cents per kilowatt-hour
+2017,IA,Iowa,ALL,all sectors,8.73,cents per kilowatt-hour
+2017,ID,Idaho,ALL,all sectors,8.26,cents per kilowatt-hour
+2017,IL,Illinois,ALL,all sectors,9.49,cents per kilowatt-hour
+2017,IN,Indiana,ALL,all sectors,9.77,cents per kilowatt-hour
+2017,KS,Kansas,ALL,all sectors,10.6,cents per kilowatt-hour
+2017,KY,Kentucky,ALL,all sectors,8.57,cents per kilowatt-hour
+2017,LA,Louisiana,ALL,all sectors,7.79,cents per kilowatt-hour
+2017,MA,Massachusetts,ALL,all sectors,17.12,cents per kilowatt-hour
+2017,MAT,Middle Atlantic,ALL,all sectors,12.63,cents per kilowatt-hour
+2017,MD,Maryland,ALL,all sectors,11.98,cents per kilowatt-hour
+2017,ME,Maine,ALL,all sectors,13.02,cents per kilowatt-hour
+2017,MI,Michigan,ALL,all sectors,11.28,cents per kilowatt-hour
+2017,MN,Minnesota,ALL,all sectors,10.27,cents per kilowatt-hour
+2017,MO,Missouri,ALL,all sectors,10.03,cents per kilowatt-hour
+2017,MS,Mississippi,ALL,all sectors,9.09,cents per kilowatt-hour
+2017,MT,Montana,ALL,all sectors,8.92,cents per kilowatt-hour
+2017,MTN,Mountain,ALL,all sectors,9.51,cents per kilowatt-hour
+2017,NC,North Carolina,ALL,all sectors,9.04,cents per kilowatt-hour
+2017,ND,North Dakota,ALL,all sectors,8.78,cents per kilowatt-hour
+2017,NE,Nebraska,ALL,all sectors,9.08,cents per kilowatt-hour
+2017,NEW,New England,ALL,all sectors,16.58,cents per kilowatt-hour
+2017,NH,New Hampshire,ALL,all sectors,16.17,cents per kilowatt-hour
+2017,NJ,New Jersey,ALL,all sectors,13.32,cents per kilowatt-hour
+2017,NM,New Mexico,ALL,all sectors,9.59,cents per kilowatt-hour
+2017,NV,Nevada,ALL,all sectors,8.76,cents per kilowatt-hour
+2017,NY,New York,ALL,all sectors,14.74,cents per kilowatt-hour
+2017,OH,Ohio,ALL,all sectors,9.84,cents per kilowatt-hour
+2017,OK,Oklahoma,ALL,all sectors,8.2,cents per kilowatt-hour
+2017,OR,Oregon,ALL,all sectors,8.81,cents per kilowatt-hour
+2017,PA,Pennsylvania,ALL,all sectors,10.13,cents per kilowatt-hour
+2017,PACC,Pacific Contiguous,ALL,all sectors,13.28,cents per kilowatt-hour
+2017,PACN,Pacific Noncontiguous,ALL,all sectors,23.28,cents per kilowatt-hour
+2017,RI,Rhode Island,ALL,all sectors,16.42,cents per kilowatt-hour
+2017,SAT,South Atlantic,ALL,all sectors,9.96,cents per kilowatt-hour
+2017,SC,South Carolina,ALL,all sectors,9.97,cents per kilowatt-hour
+2017,SD,South Dakota,ALL,all sectors,10.05,cents per kilowatt-hour
+2017,TN,Tennessee,ALL,all sectors,9.45,cents per kilowatt-hour
+2017,TX,Texas,ALL,all sectors,8.38,cents per kilowatt-hour
+2017,US,U.S. Total,ALL,all sectors,10.48,cents per kilowatt-hour
+2017,UT,Utah,ALL,all sectors,8.6,cents per kilowatt-hour
+2017,VA,Virginia,ALL,all sectors,9.18,cents per kilowatt-hour
+2017,VT,Vermont,ALL,all sectors,14.6,cents per kilowatt-hour
+2017,WA,Washington,ALL,all sectors,7.94,cents per kilowatt-hour
+2017,WI,Wisconsin,ALL,all sectors,10.76,cents per kilowatt-hour
+2017,WNC,West North Central,ALL,all sectors,9.77,cents per kilowatt-hour
+2017,WSC,West South Central,ALL,all sectors,8.26,cents per kilowatt-hour
+2017,WV,West Virginia,ALL,all sectors,9,cents per kilowatt-hour
+2017,WY,Wyoming,ALL,all sectors,8.28,cents per kilowatt-hour
+2018,AK,Alaska,ALL,all sectors,19.36,cents per kilowatt-hour
+2018,AL,Alabama,ALL,all sectors,9.63,cents per kilowatt-hour
+2018,AR,Arkansas,ALL,all sectors,7.78,cents per kilowatt-hour
+2018,AZ,Arizona,ALL,all sectors,10.85,cents per kilowatt-hour
+2018,CA,California,ALL,all sectors,16.58,cents per kilowatt-hour
+2018,CO,Colorado,ALL,all sectors,10.02,cents per kilowatt-hour
+2018,CT,Connecticut,ALL,all sectors,18.41,cents per kilowatt-hour
+2018,DC,District of Columbia,ALL,all sectors,12.03,cents per kilowatt-hour
+2018,DE,Delaware,ALL,all sectors,10.55,cents per kilowatt-hour
+2018,ENC,East North Central,ALL,all sectors,10.17,cents per kilowatt-hour
+2018,ESC,East South Central,ALL,all sectors,9.29,cents per kilowatt-hour
+2018,FL,Florida,ALL,all sectors,10.32,cents per kilowatt-hour
+2018,GA,Georgia,ALL,all sectors,9.62,cents per kilowatt-hour
+2018,HI,Hawaii,ALL,all sectors,29.18,cents per kilowatt-hour
+2018,IA,Iowa,ALL,all sectors,8.92,cents per kilowatt-hour
+2018,ID,Idaho,ALL,all sectors,8.17,cents per kilowatt-hour
+2018,IL,Illinois,ALL,all sectors,9.6,cents per kilowatt-hour
+2018,IN,Indiana,ALL,all sectors,9.75,cents per kilowatt-hour
+2018,KS,Kansas,ALL,all sectors,10.72,cents per kilowatt-hour
+2018,KY,Kentucky,ALL,all sectors,8.52,cents per kilowatt-hour
+2018,LA,Louisiana,ALL,all sectors,7.71,cents per kilowatt-hour
+2018,MA,Massachusetts,ALL,all sectors,18.5,cents per kilowatt-hour
+2018,MAT,Middle Atlantic,ALL,all sectors,12.63,cents per kilowatt-hour
+2018,MD,Maryland,ALL,all sectors,11.57,cents per kilowatt-hour
+2018,ME,Maine,ALL,all sectors,13.44,cents per kilowatt-hour
+2018,MI,Michigan,ALL,all sectors,11.4,cents per kilowatt-hour
+2018,MN,Minnesota,ALL,all sectors,10.37,cents per kilowatt-hour
+2018,MO,Missouri,ALL,all sectors,9.93,cents per kilowatt-hour
+2018,MS,Mississippi,ALL,all sectors,9.24,cents per kilowatt-hour
+2018,MT,Montana,ALL,all sectors,8.84,cents per kilowatt-hour
+2018,MTN,Mountain,ALL,all sectors,9.48,cents per kilowatt-hour
+2018,NC,North Carolina,ALL,all sectors,9.25,cents per kilowatt-hour
+2018,ND,North Dakota,ALL,all sectors,8.91,cents per kilowatt-hour
+2018,NE,Nebraska,ALL,all sectors,9.02,cents per kilowatt-hour
+2018,NEW,New England,ALL,all sectors,17.63,cents per kilowatt-hour
+2018,NH,New Hampshire,ALL,all sectors,17.01,cents per kilowatt-hour
+2018,NJ,New Jersey,ALL,all sectors,13.23,cents per kilowatt-hour
+2018,NM,New Mexico,ALL,all sectors,9.35,cents per kilowatt-hour
+2018,NV,Nevada,ALL,all sectors,8.67,cents per kilowatt-hour
+2018,NY,New York,ALL,all sectors,14.83,cents per kilowatt-hour
+2018,OH,Ohio,ALL,all sectors,9.94,cents per kilowatt-hour
+2018,OK,Oklahoma,ALL,all sectors,8.09,cents per kilowatt-hour
+2018,OR,Oregon,ALL,all sectors,8.85,cents per kilowatt-hour
+2018,PA,Pennsylvania,ALL,all sectors,10.1,cents per kilowatt-hour
+2018,PACC,Pacific Contiguous,ALL,all sectors,13.66,cents per kilowatt-hour
+2018,PACN,Pacific Noncontiguous,ALL,all sectors,25.35,cents per kilowatt-hour
+2018,RI,Rhode Island,ALL,all sectors,18.1,cents per kilowatt-hour
+2018,SAT,South Atlantic,ALL,all sectors,9.9,cents per kilowatt-hour
+2018,SC,South Carolina,ALL,all sectors,9.67,cents per kilowatt-hour
+2018,SD,South Dakota,ALL,all sectors,9.97,cents per kilowatt-hour
+2018,TN,Tennessee,ALL,all sectors,9.58,cents per kilowatt-hour
+2018,TX,Texas,ALL,all sectors,8.48,cents per kilowatt-hour
+2018,US,U.S. Total,ALL,all sectors,10.53,cents per kilowatt-hour
+2018,UT,Utah,ALL,all sectors,8.21,cents per kilowatt-hour
+2018,VA,Virginia,ALL,all sectors,9.48,cents per kilowatt-hour
+2018,VT,Vermont,ALL,all sectors,15.13,cents per kilowatt-hour
+2018,WA,Washington,ALL,all sectors,8,cents per kilowatt-hour
+2018,WI,Wisconsin,ALL,all sectors,10.58,cents per kilowatt-hour
+2018,WNC,West North Central,ALL,all sectors,9.81,cents per kilowatt-hour
+2018,WSC,West South Central,ALL,all sectors,8.27,cents per kilowatt-hour
+2018,WV,West Virginia,ALL,all sectors,8.72,cents per kilowatt-hour
+2018,WY,Wyoming,ALL,all sectors,8.09,cents per kilowatt-hour
+2019,AK,Alaska,ALL,all sectors,20.22,cents per kilowatt-hour
+2019,AL,Alabama,ALL,all sectors,9.83,cents per kilowatt-hour
+2019,AR,Arkansas,ALL,all sectors,8.22,cents per kilowatt-hour
+2019,AZ,Arizona,ALL,all sectors,10.52,cents per kilowatt-hour
+2019,CA,California,ALL,all sectors,16.89,cents per kilowatt-hour
+2019,CO,Colorado,ALL,all sectors,10.17,cents per kilowatt-hour
+2019,CT,Connecticut,ALL,all sectors,18.66,cents per kilowatt-hour
+2019,DC,District of Columbia,ALL,all sectors,12.27,cents per kilowatt-hour
+2019,DE,Delaware,ALL,all sectors,10.52,cents per kilowatt-hour
+2019,ENC,East North Central,ALL,all sectors,10.13,cents per kilowatt-hour
+2019,ESC,East South Central,ALL,all sectors,9.4,cents per kilowatt-hour
+2019,FL,Florida,ALL,all sectors,10.44,cents per kilowatt-hour
+2019,GA,Georgia,ALL,all sectors,9.86,cents per kilowatt-hour
+2019,HI,Hawaii,ALL,all sectors,28.72,cents per kilowatt-hour
+2019,IA,Iowa,ALL,all sectors,9.08,cents per kilowatt-hour
+2019,ID,Idaho,ALL,all sectors,7.89,cents per kilowatt-hour
+2019,IL,Illinois,ALL,all sectors,9.56,cents per kilowatt-hour
+2019,IN,Indiana,ALL,all sectors,9.91,cents per kilowatt-hour
+2019,KS,Kansas,ALL,all sectors,10.26,cents per kilowatt-hour
+2019,KY,Kentucky,ALL,all sectors,8.61,cents per kilowatt-hour
+2019,LA,Louisiana,ALL,all sectors,7.71,cents per kilowatt-hour
+2019,MA,Massachusetts,ALL,all sectors,18.4,cents per kilowatt-hour
+2019,MAT,Middle Atlantic,ALL,all sectors,12.35,cents per kilowatt-hour
+2019,MD,Maryland,ALL,all sectors,11.24,cents per kilowatt-hour
+2019,ME,Maine,ALL,all sectors,14.04,cents per kilowatt-hour
+2019,MI,Michigan,ALL,all sectors,11.56,cents per kilowatt-hour
+2019,MN,Minnesota,ALL,all sectors,10.33,cents per kilowatt-hour
+2019,MO,Missouri,ALL,all sectors,9.68,cents per kilowatt-hour
+2019,MS,Mississippi,ALL,all sectors,9.28,cents per kilowatt-hour
+2019,MT,Montana,ALL,all sectors,9.02,cents per kilowatt-hour
+2019,MTN,Mountain,ALL,all sectors,9.39,cents per kilowatt-hour
+2019,NC,North Carolina,ALL,all sectors,9.45,cents per kilowatt-hour
+2019,ND,North Dakota,ALL,all sectors,8.85,cents per kilowatt-hour
+2019,NE,Nebraska,ALL,all sectors,9.08,cents per kilowatt-hour
+2019,NEW,New England,ALL,all sectors,17.76,cents per kilowatt-hour
+2019,NH,New Hampshire,ALL,all sectors,17.15,cents per kilowatt-hour
+2019,NJ,New Jersey,ALL,all sectors,13.42,cents per kilowatt-hour
+2019,NM,New Mexico,ALL,all sectors,8.99,cents per kilowatt-hour
+2019,NV,Nevada,ALL,all sectors,8.78,cents per kilowatt-hour
+2019,NY,New York,ALL,all sectors,14.34,cents per kilowatt-hour
+2019,OH,Ohio,ALL,all sectors,9.58,cents per kilowatt-hour
+2019,OK,Oklahoma,ALL,all sectors,7.86,cents per kilowatt-hour
+2019,OR,Oregon,ALL,all sectors,8.81,cents per kilowatt-hour
+2019,PA,Pennsylvania,ALL,all sectors,9.81,cents per kilowatt-hour
+2019,PACC,Pacific Contiguous,ALL,all sectors,13.79,cents per kilowatt-hour
+2019,PACN,Pacific Noncontiguous,ALL,all sectors,25.48,cents per kilowatt-hour
+2019,RI,Rhode Island,ALL,all sectors,18.49,cents per kilowatt-hour
+2019,SAT,South Atlantic,ALL,all sectors,10.02,cents per kilowatt-hour
+2019,SC,South Carolina,ALL,all sectors,10.02,cents per kilowatt-hour
+2019,SD,South Dakota,ALL,all sectors,9.96,cents per kilowatt-hour
+2019,TN,Tennessee,ALL,all sectors,9.69,cents per kilowatt-hour
+2019,TX,Texas,ALL,all sectors,8.6,cents per kilowatt-hour
+2019,US,U.S. Total,ALL,all sectors,10.54,cents per kilowatt-hour
+2019,UT,Utah,ALL,all sectors,8.24,cents per kilowatt-hour
+2019,VA,Virginia,ALL,all sectors,9.52,cents per kilowatt-hour
+2019,VT,Vermont,ALL,all sectors,15.36,cents per kilowatt-hour
+2019,WA,Washington,ALL,all sectors,8.04,cents per kilowatt-hour
+2019,WI,Wisconsin,ALL,all sectors,10.66,cents per kilowatt-hour
+2019,WNC,West North Central,ALL,all sectors,9.69,cents per kilowatt-hour
+2019,WSC,West South Central,ALL,all sectors,8.36,cents per kilowatt-hour
+2019,WV,West Virginia,ALL,all sectors,8.49,cents per kilowatt-hour
+2019,WY,Wyoming,ALL,all sectors,8.1,cents per kilowatt-hour
+2020,AK,Alaska,ALL,all sectors,19.82,cents per kilowatt-hour
+2020,AL,Alabama,ALL,all sectors,9.84,cents per kilowatt-hour
+2020,AR,Arkansas,ALL,all sectors,8.32,cents per kilowatt-hour
+2020,AZ,Arizona,ALL,all sectors,10.44,cents per kilowatt-hour
+2020,CA,California,ALL,all sectors,18,cents per kilowatt-hour
+2020,CO,Colorado,ALL,all sectors,10.27,cents per kilowatt-hour
+2020,CT,Connecticut,ALL,all sectors,19.13,cents per kilowatt-hour
+2020,DC,District of Columbia,ALL,all sectors,11.9,cents per kilowatt-hour
+2020,DE,Delaware,ALL,all sectors,10.24,cents per kilowatt-hour
+2020,ENC,East North Central,ALL,all sectors,10.28,cents per kilowatt-hour
+2020,ESC,East South Central,ALL,all sectors,9.32,cents per kilowatt-hour
+2020,FL,Florida,ALL,all sectors,10.06,cents per kilowatt-hour
+2020,GA,Georgia,ALL,all sectors,9.93,cents per kilowatt-hour
+2020,HI,Hawaii,ALL,all sectors,27.55,cents per kilowatt-hour
+2020,IA,Iowa,ALL,all sectors,8.97,cents per kilowatt-hour
+2020,ID,Idaho,ALL,all sectors,7.99,cents per kilowatt-hour
+2020,IL,Illinois,ALL,all sectors,9.75,cents per kilowatt-hour
+2020,IN,Indiana,ALL,all sectors,9.92,cents per kilowatt-hour
+2020,KS,Kansas,ALL,all sectors,10.38,cents per kilowatt-hour
+2020,KY,Kentucky,ALL,all sectors,8.58,cents per kilowatt-hour
+2020,LA,Louisiana,ALL,all sectors,7.51,cents per kilowatt-hour
+2020,MA,Massachusetts,ALL,all sectors,18.19,cents per kilowatt-hour
+2020,MAT,Middle Atlantic,ALL,all sectors,12.56,cents per kilowatt-hour
+2020,MD,Maryland,ALL,all sectors,11.15,cents per kilowatt-hour
+2020,ME,Maine,ALL,all sectors,13.54,cents per kilowatt-hour
+2020,MI,Michigan,ALL,all sectors,12.21,cents per kilowatt-hour
+2020,MN,Minnesota,ALL,all sectors,10.57,cents per kilowatt-hour
+2020,MO,Missouri,ALL,all sectors,9.64,cents per kilowatt-hour
+2020,MS,Mississippi,ALL,all sectors,9.13,cents per kilowatt-hour
+2020,MT,Montana,ALL,all sectors,9.13,cents per kilowatt-hour
+2020,MTN,Mountain,ALL,all sectors,9.4,cents per kilowatt-hour
+2020,NC,North Carolina,ALL,all sectors,9.43,cents per kilowatt-hour
+2020,ND,North Dakota,ALL,all sectors,8.53,cents per kilowatt-hour
+2020,NE,Nebraska,ALL,all sectors,8.97,cents per kilowatt-hour
+2020,NEW,New England,ALL,all sectors,17.73,cents per kilowatt-hour
+2020,NH,New Hampshire,ALL,all sectors,16.63,cents per kilowatt-hour
+2020,NJ,New Jersey,ALL,all sectors,13.63,cents per kilowatt-hour
+2020,NM,New Mexico,ALL,all sectors,9.33,cents per kilowatt-hour
+2020,NV,Nevada,ALL,all sectors,8.33,cents per kilowatt-hour
+2020,NY,New York,ALL,all sectors,14.87,cents per kilowatt-hour
+2020,OH,Ohio,ALL,all sectors,9.44,cents per kilowatt-hour
+2020,OK,Oklahoma,ALL,all sectors,7.63,cents per kilowatt-hour
+2020,OR,Oregon,ALL,all sectors,8.82,cents per kilowatt-hour
+2020,PA,Pennsylvania,ALL,all sectors,9.7,cents per kilowatt-hour
+2020,PACC,Pacific Contiguous,ALL,all sectors,14.63,cents per kilowatt-hour
+2020,PACN,Pacific Noncontiguous,ALL,all sectors,24.44,cents per kilowatt-hour
+2020,RI,Rhode Island,ALL,all sectors,18.54,cents per kilowatt-hour
+2020,SAT,South Atlantic,ALL,all sectors,9.84,cents per kilowatt-hour
+2020,SC,South Carolina,ALL,all sectors,9.9,cents per kilowatt-hour
+2020,SD,South Dakota,ALL,all sectors,10.06,cents per kilowatt-hour
+2020,TN,Tennessee,ALL,all sectors,9.52,cents per kilowatt-hour
+2020,TX,Texas,ALL,all sectors,8.36,cents per kilowatt-hour
+2020,US,U.S. Total,ALL,all sectors,10.59,cents per kilowatt-hour
+2020,UT,Utah,ALL,all sectors,8.27,cents per kilowatt-hour
+2020,VA,Virginia,ALL,all sectors,9.16,cents per kilowatt-hour
+2020,VT,Vermont,ALL,all sectors,16.33,cents per kilowatt-hour
+2020,WA,Washington,ALL,all sectors,8.33,cents per kilowatt-hour
+2020,WI,Wisconsin,ALL,all sectors,10.82,cents per kilowatt-hour
+2020,WNC,West North Central,ALL,all sectors,9.69,cents per kilowatt-hour
+2020,WSC,West South Central,ALL,all sectors,8.17,cents per kilowatt-hour
+2020,WV,West Virginia,ALL,all sectors,8.75,cents per kilowatt-hour
+2020,WY,Wyoming,ALL,all sectors,8.27,cents per kilowatt-hour
+2021,AK,Alaska,ALL,all sectors,20.02,cents per kilowatt-hour
+2021,AL,Alabama,ALL,all sectors,10.18,cents per kilowatt-hour
+2021,AR,Arkansas,ALL,all sectors,9.1,cents per kilowatt-hour
+2021,AZ,Arizona,ALL,all sectors,10.73,cents per kilowatt-hour
+2021,CA,California,ALL,all sectors,19.65,cents per kilowatt-hour
+2021,CO,Colorado,ALL,all sectors,10.9,cents per kilowatt-hour
+2021,CT,Connecticut,ALL,all sectors,18.32,cents per kilowatt-hour
+2021,DC,District of Columbia,ALL,all sectors,12.81,cents per kilowatt-hour
+2021,DE,Delaware,ALL,all sectors,10.5,cents per kilowatt-hour
+2021,ENC,East North Central,ALL,all sectors,10.69,cents per kilowatt-hour
+2021,ESC,East South Central,ALL,all sectors,9.69,cents per kilowatt-hour
+2021,FL,Florida,ALL,all sectors,10.67,cents per kilowatt-hour
+2021,GA,Georgia,ALL,all sectors,10.43,cents per kilowatt-hour
+2021,HI,Hawaii,ALL,all sectors,30.31,cents per kilowatt-hour
+2021,IA,Iowa,ALL,all sectors,9.13,cents per kilowatt-hour
+2021,ID,Idaho,ALL,all sectors,8.17,cents per kilowatt-hour
+2021,IL,Illinois,ALL,all sectors,10.14,cents per kilowatt-hour
+2021,IN,Indiana,ALL,all sectors,10.36,cents per kilowatt-hour
+2021,KS,Kansas,ALL,all sectors,10.47,cents per kilowatt-hour
+2021,KY,Kentucky,ALL,all sectors,9.12,cents per kilowatt-hour
+2021,LA,Louisiana,ALL,all sectors,8.82,cents per kilowatt-hour
+2021,MA,Massachusetts,ALL,all sectors,19.06,cents per kilowatt-hour
+2021,MAT,Middle Atlantic,ALL,all sectors,13.22,cents per kilowatt-hour
+2021,MD,Maryland,ALL,all sectors,11.48,cents per kilowatt-hour
+2021,ME,Maine,ALL,all sectors,13.96,cents per kilowatt-hour
+2021,MI,Michigan,ALL,all sectors,12.93,cents per kilowatt-hour
+2021,MN,Minnesota,ALL,all sectors,11.08,cents per kilowatt-hour
+2021,MO,Missouri,ALL,all sectors,9.85,cents per kilowatt-hour
+2021,MS,Mississippi,ALL,all sectors,9.5,cents per kilowatt-hour
+2021,MT,Montana,ALL,all sectors,9.5,cents per kilowatt-hour
+2021,MTN,Mountain,ALL,all sectors,9.7,cents per kilowatt-hour
+2021,NC,North Carolina,ALL,all sectors,9.29,cents per kilowatt-hour
+2021,ND,North Dakota,ALL,all sectors,8.65,cents per kilowatt-hour
+2021,NE,Nebraska,ALL,all sectors,8.84,cents per kilowatt-hour
+2021,NEW,New England,ALL,all sectors,18.03,cents per kilowatt-hour
+2021,NH,New Hampshire,ALL,all sectors,17.37,cents per kilowatt-hour
+2021,NJ,New Jersey,ALL,all sectors,14.01,cents per kilowatt-hour
+2021,NM,New Mexico,ALL,all sectors,9.79,cents per kilowatt-hour
+2021,NV,Nevada,ALL,all sectors,8.58,cents per kilowatt-hour
+2021,NY,New York,ALL,all sectors,16.11,cents per kilowatt-hour
+2021,OH,Ohio,ALL,all sectors,9.76,cents per kilowatt-hour
+2021,OK,Oklahoma,ALL,all sectors,8.52,cents per kilowatt-hour
+2021,OR,Oregon,ALL,all sectors,8.95,cents per kilowatt-hour
+2021,PA,Pennsylvania,ALL,all sectors,9.97,cents per kilowatt-hour
+2021,PACC,Pacific Contiguous,ALL,all sectors,15.7,cents per kilowatt-hour
+2021,PACN,Pacific Noncontiguous,ALL,all sectors,26.19,cents per kilowatt-hour
+2021,RI,Rhode Island,ALL,all sectors,18.44,cents per kilowatt-hour
+2021,SAT,South Atlantic,ALL,all sectors,10.12,cents per kilowatt-hour
+2021,SC,South Carolina,ALL,all sectors,9.96,cents per kilowatt-hour
+2021,SD,South Dakota,ALL,all sectors,10.43,cents per kilowatt-hour
+2021,TN,Tennessee,ALL,all sectors,9.78,cents per kilowatt-hour
+2021,TX,Texas,ALL,all sectors,9.14,cents per kilowatt-hour
+2021,US,U.S. Total,ALL,all sectors,11.1,cents per kilowatt-hour
+2021,UT,Utah,ALL,all sectors,8.34,cents per kilowatt-hour
+2021,VA,Virginia,ALL,all sectors,9.14,cents per kilowatt-hour
+2021,VT,Vermont,ALL,all sectors,16.34,cents per kilowatt-hour
+2021,WA,Washington,ALL,all sectors,8.75,cents per kilowatt-hour
+2021,WI,Wisconsin,ALL,all sectors,11.01,cents per kilowatt-hour
+2021,WNC,West North Central,ALL,all sectors,9.9,cents per kilowatt-hour
+2021,WSC,West South Central,ALL,all sectors,9.03,cents per kilowatt-hour
+2021,WV,West Virginia,ALL,all sectors,8.87,cents per kilowatt-hour
+2021,WY,Wyoming,ALL,all sectors,8.25,cents per kilowatt-hour
+2022,AK,Alaska,ALL,all sectors,20.73,cents per kilowatt-hour
+2022,AL,Alabama,ALL,all sectors,11.59,cents per kilowatt-hour
+2022,AR,Arkansas,ALL,all sectors,9.91,cents per kilowatt-hour
+2022,AZ,Arizona,ALL,all sectors,11.31,cents per kilowatt-hour
+2022,CA,California,ALL,all sectors,22.33,cents per kilowatt-hour
+2022,CO,Colorado,ALL,all sectors,11.75,cents per kilowatt-hour
+2022,CT,Connecticut,ALL,all sectors,21.08,cents per kilowatt-hour
+2022,DC,District of Columbia,ALL,all sectors,14.94,cents per kilowatt-hour
+2022,DE,Delaware,ALL,all sectors,11.83,cents per kilowatt-hour
+2022,ENC,East North Central,ALL,all sectors,11.77,cents per kilowatt-hour
+2022,ESC,East South Central,ALL,all sectors,10.91,cents per kilowatt-hour
+2022,FL,Florida,ALL,all sectors,12.51,cents per kilowatt-hour
+2022,GA,Georgia,ALL,all sectors,12,cents per kilowatt-hour
+2022,HI,Hawaii,ALL,all sectors,39.72,cents per kilowatt-hour
+2022,IA,Iowa,ALL,all sectors,9.57,cents per kilowatt-hour
+2022,ID,Idaho,ALL,all sectors,8.51,cents per kilowatt-hour
+2022,IL,Illinois,ALL,all sectors,11.94,cents per kilowatt-hour
+2022,IN,Indiana,ALL,all sectors,11.66,cents per kilowatt-hour
+2022,KS,Kansas,ALL,all sectors,11.47,cents per kilowatt-hour
+2022,KY,Kentucky,ALL,all sectors,10.51,cents per kilowatt-hour
+2022,LA,Louisiana,ALL,all sectors,10.41,cents per kilowatt-hour
+2022,MA,Massachusetts,ALL,all sectors,21.27,cents per kilowatt-hour
+2022,MAT,Middle Atlantic,ALL,all sectors,15.02,cents per kilowatt-hour
+2022,MD,Maryland,ALL,all sectors,13.32,cents per kilowatt-hour
+2022,ME,Maine,ALL,all sectors,17.44,cents per kilowatt-hour
+2022,MI,Michigan,ALL,all sectors,13.2,cents per kilowatt-hour
+2022,MN,Minnesota,ALL,all sectors,12.04,cents per kilowatt-hour
+2022,MO,Missouri,ALL,all sectors,10.26,cents per kilowatt-hour
+2022,MS,Mississippi,ALL,all sectors,10.36,cents per kilowatt-hour
+2022,MT,Montana,ALL,all sectors,9.97,cents per kilowatt-hour
+2022,MTN,Mountain,ALL,all sectors,10.46,cents per kilowatt-hour
+2022,NC,North Carolina,ALL,all sectors,9.6,cents per kilowatt-hour
+2022,ND,North Dakota,ALL,all sectors,8.42,cents per kilowatt-hour
+2022,NE,Nebraska,ALL,all sectors,8.83,cents per kilowatt-hour
+2022,NEW,New England,ALL,all sectors,20.47,cents per kilowatt-hour
+2022,NH,New Hampshire,ALL,all sectors,21.07,cents per kilowatt-hour
+2022,NJ,New Jersey,ALL,all sectors,14.8,cents per kilowatt-hour
+2022,NM,New Mexico,ALL,all sectors,10.02,cents per kilowatt-hour
+2022,NV,Nevada,ALL,all sectors,10.94,cents per kilowatt-hour
+2022,NY,New York,ALL,all sectors,18.33,cents per kilowatt-hour
+2022,OH,Ohio,ALL,all sectors,10.64,cents per kilowatt-hour
+2022,OK,Oklahoma,ALL,all sectors,10.05,cents per kilowatt-hour
+2022,OR,Oregon,ALL,all sectors,9.26,cents per kilowatt-hour
+2022,PA,Pennsylvania,ALL,all sectors,11.86,cents per kilowatt-hour
+2022,PACC,Pacific Contiguous,ALL,all sectors,17.46,cents per kilowatt-hour
+2022,PACN,Pacific Noncontiguous,ALL,all sectors,32.14,cents per kilowatt-hour
+2022,RI,Rhode Island,ALL,all sectors,19.3,cents per kilowatt-hour
+2022,SAT,South Atlantic,ALL,all sectors,11.48,cents per kilowatt-hour
+2022,SC,South Carolina,ALL,all sectors,10.74,cents per kilowatt-hour
+2022,SD,South Dakota,ALL,all sectors,10.44,cents per kilowatt-hour
+2022,TN,Tennessee,ALL,all sectors,10.89,cents per kilowatt-hour
+2022,TX,Texas,ALL,all sectors,10.16,cents per kilowatt-hour
+2022,US,U.S. Total,ALL,all sectors,12.36,cents per kilowatt-hour
+2022,UT,Utah,ALL,all sectors,8.8,cents per kilowatt-hour
+2022,VA,Virginia,ALL,all sectors,10.75,cents per kilowatt-hour
+2022,VT,Vermont,ALL,all sectors,16.99,cents per kilowatt-hour
+2022,WA,Washington,ALL,all sectors,9.05,cents per kilowatt-hour
+2022,WI,Wisconsin,ALL,all sectors,11.95,cents per kilowatt-hour
+2022,WNC,West North Central,ALL,all sectors,10.38,cents per kilowatt-hour
+2022,WSC,West South Central,ALL,all sectors,10.16,cents per kilowatt-hour
+2022,WV,West Virginia,ALL,all sectors,9.74,cents per kilowatt-hour
+2022,WY,Wyoming,ALL,all sectors,8.24,cents per kilowatt-hour
+2023,AK,Alaska,ALL,all sectors,21.41,cents per kilowatt-hour
+2023,AL,Alabama,ALL,all sectors,11.47,cents per kilowatt-hour
+2023,AR,Arkansas,ALL,all sectors,9.73,cents per kilowatt-hour
+2023,AZ,Arizona,ALL,all sectors,12.19,cents per kilowatt-hour
+2023,CA,California,ALL,all sectors,24.87,cents per kilowatt-hour
+2023,CO,Colorado,ALL,all sectors,11.76,cents per kilowatt-hour
+2023,CT,Connecticut,ALL,all sectors,24.24,cents per kilowatt-hour
+2023,DC,District of Columbia,ALL,all sectors,16.5,cents per kilowatt-hour
+2023,DE,Delaware,ALL,all sectors,12.85,cents per kilowatt-hour
+2023,ENC,East North Central,ALL,all sectors,11.98,cents per kilowatt-hour
+2023,ESC,East South Central,ALL,all sectors,10.78,cents per kilowatt-hour
+2023,FL,Florida,ALL,all sectors,13.53,cents per kilowatt-hour
+2023,GA,Georgia,ALL,all sectors,11.06,cents per kilowatt-hour
+2023,HI,Hawaii,ALL,all sectors,38.6,cents per kilowatt-hour
+2023,IA,Iowa,ALL,all sectors,9.42,cents per kilowatt-hour
+2023,ID,Idaho,ALL,all sectors,9.08,cents per kilowatt-hour
+2023,IL,Illinois,ALL,all sectors,11.75,cents per kilowatt-hour
+2023,IN,Indiana,ALL,all sectors,11.49,cents per kilowatt-hour
+2023,KS,Kansas,ALL,all sectors,10.8,cents per kilowatt-hour
+2023,KY,Kentucky,ALL,all sectors,9.96,cents per kilowatt-hour
+2023,LA,Louisiana,ALL,all sectors,8.91,cents per kilowatt-hour
+2023,MA,Massachusetts,ALL,all sectors,23.21,cents per kilowatt-hour
+2023,MAT,Middle Atlantic,ALL,all sectors,15.4,cents per kilowatt-hour
+2023,MD,Maryland,ALL,all sectors,14.34,cents per kilowatt-hour
+2023,ME,Maine,ALL,all sectors,20.84,cents per kilowatt-hour
+2023,MI,Michigan,ALL,all sectors,13.68,cents per kilowatt-hour
+2023,MN,Minnesota,ALL,all sectors,12.21,cents per kilowatt-hour
+2023,MO,Missouri,ALL,all sectors,10.87,cents per kilowatt-hour
+2023,MS,Mississippi,ALL,all sectors,10.95,cents per kilowatt-hour
+2023,MT,Montana,ALL,all sectors,10.97,cents per kilowatt-hour
+2023,MTN,Mountain,ALL,all sectors,11.07,cents per kilowatt-hour
+2023,NC,North Carolina,ALL,all sectors,10.61,cents per kilowatt-hour
+2023,ND,North Dakota,ALL,all sectors,8.03,cents per kilowatt-hour
+2023,NE,Nebraska,ALL,all sectors,9.14,cents per kilowatt-hour
+2023,NEW,New England,ALL,all sectors,22.81,cents per kilowatt-hour
+2023,NH,New Hampshire,ALL,all sectors,22.96,cents per kilowatt-hour
+2023,NJ,New Jersey,ALL,all sectors,15.27,cents per kilowatt-hour
+2023,NM,New Mexico,ALL,all sectors,9.47,cents per kilowatt-hour
+2023,NV,Nevada,ALL,all sectors,13.09,cents per kilowatt-hour
+2023,NY,New York,ALL,all sectors,18.28,cents per kilowatt-hour
+2023,OH,Ohio,ALL,all sectors,11.04,cents per kilowatt-hour
+2023,OK,Oklahoma,ALL,all sectors,9.3,cents per kilowatt-hour
+2023,OR,Oregon,ALL,all sectors,10.32,cents per kilowatt-hour
+2023,PA,Pennsylvania,ALL,all sectors,12.57,cents per kilowatt-hour
+2023,PACC,Pacific Contiguous,ALL,all sectors,19.15,cents per kilowatt-hour
+2023,PACN,Pacific Noncontiguous,ALL,all sectors,31.67,cents per kilowatt-hour
+2023,RI,Rhode Island,ALL,all sectors,21.62,cents per kilowatt-hour
+2023,SAT,South Atlantic,ALL,all sectors,11.88,cents per kilowatt-hour
+2023,SC,South Carolina,ALL,all sectors,10.5,cents per kilowatt-hour
+2023,SD,South Dakota,ALL,all sectors,10.49,cents per kilowatt-hour
+2023,TN,Tennessee,ALL,all sectors,10.69,cents per kilowatt-hour
+2023,TX,Texas,ALL,all sectors,10.04,cents per kilowatt-hour
+2023,US,U.S. Total,ALL,all sectors,12.68,cents per kilowatt-hour
+2023,UT,Utah,ALL,all sectors,9.03,cents per kilowatt-hour
+2023,VA,Virginia,ALL,all sectors,10.68,cents per kilowatt-hour
+2023,VT,Vermont,ALL,all sectors,17.53,cents per kilowatt-hour
+2023,WA,Washington,ALL,all sectors,9.58,cents per kilowatt-hour
+2023,WI,Wisconsin,ALL,all sectors,12.72,cents per kilowatt-hour
+2023,WNC,West North Central,ALL,all sectors,10.44,cents per kilowatt-hour
+2023,WSC,West South Central,ALL,all sectors,9.79,cents per kilowatt-hour
+2023,WV,West Virginia,ALL,all sectors,10.26,cents per kilowatt-hour
+2023,WY,Wyoming,ALL,all sectors,8.39,cents per kilowatt-hour

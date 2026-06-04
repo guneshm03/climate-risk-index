@@ -1,0 +1,1427 @@
+period,stateid,stateDescription,sectorid,sectorName,sales,sales-units
+2001,AK,Alaska,ALL,all sectors,5454.08,million kilowatt hours
+2001,AL,Alabama,ALL,all sectors,79358.258,million kilowatt hours
+2001,AR,Arkansas,ALL,all sectors,41732.449,million kilowatt hours
+2001,AZ,Arizona,ALL,all sectors,62274.304,million kilowatt hours
+2001,CA,California,ALL,all sectors,247758.778,million kilowatt hours
+2001,CO,Colorado,ALL,all sectors,44236.038,million kilowatt hours
+2001,CT,Connecticut,ALL,all sectors,30540.758,million kilowatt hours
+2001,DC,District of Columbia,ALL,all sectors,10880.472,million kilowatt hours
+2001,DE,Delaware,ALL,all sectors,11378.626,million kilowatt hours
+2001,ENC,East North Central,ALL,all sectors,557192.871,million kilowatt hours
+2001,ESC,East South Central,ALL,all sectors,299751.34,million kilowatt hours
+2001,FL,Florida,ALL,all sectors,200752.133,million kilowatt hours
+2001,GA,Georgia,ALL,all sectors,117790.473,million kilowatt hours
+2001,HI,Hawaii,ALL,all sectors,9784.563,million kilowatt hours
+2001,IA,Iowa,ALL,all sectors,39443.755,million kilowatt hours
+2001,ID,Idaho,ALL,all sectors,21096.017,million kilowatt hours
+2001,IL,Illinois,ALL,all sectors,136033.549,million kilowatt hours
+2001,IN,Indiana,ALL,all sectors,97733.968,million kilowatt hours
+2001,KS,Kansas,ALL,all sectors,35846.951,million kilowatt hours
+2001,KY,Kentucky,ALL,all sectors,79975.499,million kilowatt hours
+2001,LA,Louisiana,ALL,all sectors,74692.751,million kilowatt hours
+2001,MA,Massachusetts,ALL,all sectors,52496.075,million kilowatt hours
+2001,MAT,Middle Atlantic,ALL,all sectors,352630.083,million kilowatt hours
+2001,MD,Maryland,ALL,all sectors,61640.02,million kilowatt hours
+2001,ME,Maine,ALL,all sectors,12151.997,million kilowatt hours
+2001,MI,Michigan,ALL,all sectors,102409.347,million kilowatt hours
+2001,MN,Minnesota,ALL,all sectors,60686.852,million kilowatt hours
+2001,MO,Missouri,ALL,all sectors,73213.157,million kilowatt hours
+2001,MS,Mississippi,ALL,all sectors,44286.865,million kilowatt hours
+2001,MT,Montana,ALL,all sectors,11446.658,million kilowatt hours
+2001,MTN,Mountain,ALL,all sectors,222113.717,million kilowatt hours
+2001,NC,North Carolina,ALL,all sectors,119026.943,million kilowatt hours
+2001,ND,North Dakota,ALL,all sectors,9809.757,million kilowatt hours
+2001,NE,Nebraska,ALL,all sectors,24722.64,million kilowatt hours
+2001,NEW,New England,ALL,all sectors,118482.744,million kilowatt hours
+2001,NH,New Hampshire,ALL,all sectors,10315.551,million kilowatt hours
+2001,NJ,New Jersey,ALL,all sectors,73177.39,million kilowatt hours
+2001,NM,New Mexico,ALL,all sectors,18726.594,million kilowatt hours
+2001,NV,Nevada,ALL,all sectors,28167.293,million kilowatt hours
+2001,NY,New York,ALL,all sectors,144180.76,million kilowatt hours
+2001,OH,Ohio,ALL,all sectors,155797.714,million kilowatt hours
+2001,OK,Oklahoma,ALL,all sectors,49666.725,million kilowatt hours
+2001,OR,Oregon,ALL,all sectors,45884.83,million kilowatt hours
+2001,PA,Pennsylvania,ALL,all sectors,135271.933,million kilowatt hours
+2001,PACC,Pacific Contiguous,ALL,all sectors,372138.855,million kilowatt hours
+2001,PACN,Pacific Noncontiguous,ALL,all sectors,15238.643,million kilowatt hours
+2001,RI,Rhode Island,ALL,all sectors,7392.917,million kilowatt hours
+2001,SAT,South Atlantic,ALL,all sectors,720423.641,million kilowatt hours
+2001,SC,South Carolina,ALL,all sectors,74832.367,million kilowatt hours
+2001,SD,South Dakota,ALL,all sectors,8626.999,million kilowatt hours
+2001,TN,Tennessee,ALL,all sectors,96130.718,million kilowatt hours
+2001,TX,Texas,ALL,all sectors,318044.174,million kilowatt hours
+2001,US,U.S. Total,ALL,all sectors,3394458.104,million kilowatt hours
+2001,UT,Utah,ALL,all sectors,23217.308,million kilowatt hours
+2001,VA,Virginia,ALL,all sectors,96453.175,million kilowatt hours
+2001,VT,Vermont,ALL,all sectors,5585.446,million kilowatt hours
+2001,WA,Washington,ALL,all sectors,78495.247,million kilowatt hours
+2001,WI,Wisconsin,ALL,all sectors,65218.293,million kilowatt hours
+2001,WNC,West North Central,ALL,all sectors,252350.111,million kilowatt hours
+2001,WSC,West South Central,ALL,all sectors,484136.099,million kilowatt hours
+2001,WV,West Virginia,ALL,all sectors,27669.432,million kilowatt hours
+2001,WY,Wyoming,ALL,all sectors,12949.505,million kilowatt hours
+2002,AK,Alaska,ALL,all sectors,5465.489,million kilowatt hours
+2002,AL,Alabama,ALL,all sectors,83067.078,million kilowatt hours
+2002,AR,Arkansas,ALL,all sectors,42449.558,million kilowatt hours
+2002,AZ,Arizona,ALL,all sectors,62600.737,million kilowatt hours
+2002,CA,California,ALL,all sectors,235213.332,million kilowatt hours
+2002,CO,Colorado,ALL,all sectors,45936.696,million kilowatt hours
+2002,CT,Connecticut,ALL,all sectors,31005.489,million kilowatt hours
+2002,DC,District of Columbia,ALL,all sectors,11128.743,million kilowatt hours
+2002,DE,Delaware,ALL,all sectors,12018.734,million kilowatt hours
+2002,ENC,East North Central,ALL,all sectors,564995.777,million kilowatt hours
+2002,ESC,East South Central,ALL,all sectors,314018.79,million kilowatt hours
+2002,FL,Florida,ALL,all sectors,210473.53,million kilowatt hours
+2002,GA,Georgia,ALL,all sectors,123789.078,million kilowatt hours
+2002,HI,Hawaii,ALL,all sectors,9891.638,million kilowatt hours
+2002,IA,Iowa,ALL,all sectors,40897.543,million kilowatt hours
+2002,ID,Idaho,ALL,all sectors,20699.666,million kilowatt hours
+2002,IL,Illinois,ALL,all sectors,138447.313,million kilowatt hours
+2002,IN,Indiana,ALL,all sectors,101428.55,million kilowatt hours
+2002,KS,Kansas,ALL,all sectors,36713.54,million kilowatt hours
+2002,KY,Kentucky,ALL,all sectors,87266.835,million kilowatt hours
+2002,LA,Louisiana,ALL,all sectors,79260.989,million kilowatt hours
+2002,MA,Massachusetts,ALL,all sectors,53707.537,million kilowatt hours
+2002,MAT,Middle Atlantic,ALL,all sectors,361862.606,million kilowatt hours
+2002,MD,Maryland,ALL,all sectors,68379.906,million kilowatt hours
+2002,ME,Maine,ALL,all sectors,11441.358,million kilowatt hours
+2002,MI,Michigan,ALL,all sectors,104713.52,million kilowatt hours
+2002,MN,Minnesota,ALL,all sectors,62162.361,million kilowatt hours
+2002,MO,Missouri,ALL,all sectors,75000.629,million kilowatt hours
+2002,MS,Mississippi,ALL,all sectors,45451.85,million kilowatt hours
+2002,MT,Montana,ALL,all sectors,12831.388,million kilowatt hours
+2002,MTN,Mountain,ALL,all sectors,226620.924,million kilowatt hours
+2002,NC,North Carolina,ALL,all sectors,122686.468,million kilowatt hours
+2002,ND,North Dakota,ALL,all sectors,10219.353,million kilowatt hours
+2002,NE,Nebraska,ALL,all sectors,25661.061,million kilowatt hours
+2002,NEW,New England,ALL,all sectors,119727.733,million kilowatt hours
+2002,NH,New Hampshire,ALL,all sectors,10383.387,million kilowatt hours
+2002,NJ,New Jersey,ALL,all sectors,74602.62,million kilowatt hours
+2002,NM,New Mexico,ALL,all sectors,19206.917,million kilowatt hours
+2002,NV,Nevada,ALL,all sectors,29204.272,million kilowatt hours
+2002,NY,New York,ALL,all sectors,147440.116,million kilowatt hours
+2002,OH,Ohio,ALL,all sectors,153407.098,million kilowatt hours
+2002,OK,Oklahoma,ALL,all sectors,49485.466,million kilowatt hours
+2002,OR,Oregon,ALL,all sectors,45255.173,million kilowatt hours
+2002,PA,Pennsylvania,ALL,all sectors,139819.87,million kilowatt hours
+2002,PACC,Pacific Contiguous,ALL,all sectors,355872.361,million kilowatt hours
+2002,PACN,Pacific Noncontiguous,ALL,all sectors,15357.127,million kilowatt hours
+2002,RI,Rhode Island,ALL,all sectors,7560.699,million kilowatt hours
+2002,SAT,South Atlantic,ALL,all sectors,755377.543,million kilowatt hours
+2002,SC,South Carolina,ALL,all sectors,77819.392,million kilowatt hours
+2002,SD,South Dakota,ALL,all sectors,8936.801,million kilowatt hours
+2002,TN,Tennessee,ALL,all sectors,98233.027,million kilowatt hours
+2002,TX,Texas,ALL,all sectors,320845.849,million kilowatt hours
+2002,US,U.S. Total,ALL,all sectors,3465466.011,million kilowatt hours
+2002,UT,Utah,ALL,all sectors,23267.188,million kilowatt hours
+2002,VA,Virginia,ALL,all sectors,100618.57,million kilowatt hours
+2002,VT,Vermont,ALL,all sectors,5629.263,million kilowatt hours
+2002,WA,Washington,ALL,all sectors,75403.856,million kilowatt hours
+2002,WI,Wisconsin,ALL,all sectors,66999.296,million kilowatt hours
+2002,WNC,West North Central,ALL,all sectors,259591.288,million kilowatt hours
+2002,WSC,West South Central,ALL,all sectors,492041.862,million kilowatt hours
+2002,WV,West Virginia,ALL,all sectors,28463.122,million kilowatt hours
+2002,WY,Wyoming,ALL,all sectors,12874.06,million kilowatt hours
+2003,AK,Alaska,ALL,all sectors,5563.682,million kilowatt hours
+2003,AL,Alabama,ALL,all sectors,83844.22,million kilowatt hours
+2003,AR,Arkansas,ALL,all sectors,43108.259,million kilowatt hours
+2003,AZ,Arizona,ALL,all sectors,64079.56,million kilowatt hours
+2003,CA,California,ALL,all sectors,243221.316,million kilowatt hours
+2003,CO,Colorado,ALL,all sectors,46494.645,million kilowatt hours
+2003,CT,Connecticut,ALL,all sectors,31830.218,million kilowatt hours
+2003,DC,District of Columbia,ALL,all sectors,10946.383,million kilowatt hours
+2003,DE,Delaware,ALL,all sectors,12599.59,million kilowatt hours
+2003,ENC,East North Central,ALL,all sectors,565023.595,million kilowatt hours
+2003,ESC,East South Central,ALL,all sectors,312063.54,million kilowatt hours
+2003,FL,Florida,ALL,all sectors,217378.622,million kilowatt hours
+2003,GA,Georgia,ALL,all sectors,123676.657,million kilowatt hours
+2003,HI,Hawaii,ALL,all sectors,10390.836,million kilowatt hours
+2003,IA,Iowa,ALL,all sectors,41207.284,million kilowatt hours
+2003,ID,Idaho,ALL,all sectors,21218.685,million kilowatt hours
+2003,IL,Illinois,ALL,all sectors,136247.891,million kilowatt hours
+2003,IN,Indiana,ALL,all sectors,100467.779,million kilowatt hours
+2003,KS,Kansas,ALL,all sectors,36735.39,million kilowatt hours
+2003,KY,Kentucky,ALL,all sectors,85219.631,million kilowatt hours
+2003,LA,Louisiana,ALL,all sectors,77769.322,million kilowatt hours
+2003,MA,Massachusetts,ALL,all sectors,55514.357,million kilowatt hours
+2003,MAT,Middle Atlantic,ALL,all sectors,360796.343,million kilowatt hours
+2003,MD,Maryland,ALL,all sectors,71258.583,million kilowatt hours
+2003,ME,Maine,ALL,all sectors,11971.837,million kilowatt hours
+2003,MI,Michigan,ALL,all sectors,108877.193,million kilowatt hours
+2003,MN,Minnesota,ALL,all sectors,63087.339,million kilowatt hours
+2003,MO,Missouri,ALL,all sectors,74239.888,million kilowatt hours
+2003,MS,Mississippi,ALL,all sectors,45543.881,million kilowatt hours
+2003,MT,Montana,ALL,all sectors,12824.66,million kilowatt hours
+2003,MTN,Mountain,ALL,all sectors,231193.887,million kilowatt hours
+2003,NC,North Carolina,ALL,all sectors,121335.121,million kilowatt hours
+2003,ND,North Dakota,ALL,all sectors,10461.108,million kilowatt hours
+2003,NE,Nebraska,ALL,all sectors,25856.566,million kilowatt hours
+2003,NEW,New England,ALL,all sectors,123438.009,million kilowatt hours
+2003,NH,New Hampshire,ALL,all sectors,10972.542,million kilowatt hours
+2003,NJ,New Jersey,ALL,all sectors,76382.512,million kilowatt hours
+2003,NM,New Mexico,ALL,all sectors,19330.491,million kilowatt hours
+2003,NV,Nevada,ALL,all sectors,30131.66,million kilowatt hours
+2003,NY,New York,ALL,all sectors,144044.703,million kilowatt hours
+2003,OH,Ohio,ALL,all sectors,152189.238,million kilowatt hours
+2003,OK,Oklahoma,ALL,all sectors,50428.168,million kilowatt hours
+2003,OR,Oregon,ALL,all sectors,45194.73,million kilowatt hours
+2003,PA,Pennsylvania,ALL,all sectors,140369.128,million kilowatt hours
+2003,PACC,Pacific Contiguous,ALL,all sectors,366549.547,million kilowatt hours
+2003,PACN,Pacific Noncontiguous,ALL,all sectors,15954.518,million kilowatt hours
+2003,RI,Rhode Island,ALL,all sectors,7796.626,million kilowatt hours
+2003,SAT,South Atlantic,ALL,all sectors,764055.778,million kilowatt hours
+2003,SC,South Carolina,ALL,all sectors,77054.098,million kilowatt hours
+2003,SD,South Dakota,ALL,all sectors,9079.99,million kilowatt hours
+2003,TN,Tennessee,ALL,all sectors,97455.808,million kilowatt hours
+2003,TX,Texas,ALL,all sectors,322685.955,million kilowatt hours
+2003,US,U.S. Total,ALL,all sectors,3493734.486,million kilowatt hours
+2003,UT,Utah,ALL,all sectors,23860.35,million kilowatt hours
+2003,VA,Virginia,ALL,all sectors,101509.731,million kilowatt hours
+2003,VT,Vermont,ALL,all sectors,5352.429,million kilowatt hours
+2003,WA,Washington,ALL,all sectors,78133.501,million kilowatt hours
+2003,WI,Wisconsin,ALL,all sectors,67241.494,million kilowatt hours
+2003,WNC,West North Central,ALL,all sectors,260667.565,million kilowatt hours
+2003,WSC,West South Central,ALL,all sectors,493991.704,million kilowatt hours
+2003,WV,West Virginia,ALL,all sectors,28296.993,million kilowatt hours
+2003,WY,Wyoming,ALL,all sectors,13253.836,million kilowatt hours
+2004,AK,Alaska,ALL,all sectors,5788.484,million kilowatt hours
+2004,AL,Alabama,ALL,all sectors,86870.519,million kilowatt hours
+2004,AR,Arkansas,ALL,all sectors,43672.36,million kilowatt hours
+2004,AZ,Arizona,ALL,all sectors,66933.251,million kilowatt hours
+2004,CA,California,ALL,all sectors,252025.973,million kilowatt hours
+2004,CO,Colorado,ALL,all sectors,46723.841,million kilowatt hours
+2004,CT,Connecticut,ALL,all sectors,32214.61,million kilowatt hours
+2004,DC,District of Columbia,ALL,all sectors,11414.847,million kilowatt hours
+2004,DE,Delaware,ALL,all sectors,11761.153,million kilowatt hours
+2004,ENC,East North Central,ALL,all sectors,571151.082,million kilowatt hours
+2004,ESC,East South Central,ALL,all sectors,319084.878,million kilowatt hours
+2004,FL,Florida,ALL,all sectors,218584.494,million kilowatt hours
+2004,GA,Georgia,ALL,all sectors,129465.784,million kilowatt hours
+2004,HI,Hawaii,ALL,all sectors,10731.52,million kilowatt hours
+2004,IA,Iowa,ALL,all sectors,40902.773,million kilowatt hours
+2004,ID,Idaho,ALL,all sectors,21808.674,million kilowatt hours
+2004,IL,Illinois,ALL,all sectors,139253.956,million kilowatt hours
+2004,IN,Indiana,ALL,all sectors,103094.263,million kilowatt hours
+2004,KS,Kansas,ALL,all sectors,37126.54,million kilowatt hours
+2004,KY,Kentucky,ALL,all sectors,86521.156,million kilowatt hours
+2004,LA,Louisiana,ALL,all sectors,79737.112,million kilowatt hours
+2004,MA,Massachusetts,ALL,all sectors,56142.019,million kilowatt hours
+2004,MAT,Middle Atlantic,ALL,all sectors,366176.369,million kilowatt hours
+2004,MD,Maryland,ALL,all sectors,66891.7,million kilowatt hours
+2004,ME,Maine,ALL,all sectors,12367.668,million kilowatt hours
+2004,MI,Michigan,ALL,all sectors,106606.04,million kilowatt hours
+2004,MN,Minnesota,ALL,all sectors,63340.315,million kilowatt hours
+2004,MO,Missouri,ALL,all sectors,74054.296,million kilowatt hours
+2004,MS,Mississippi,ALL,all sectors,46032.538,million kilowatt hours
+2004,MT,Montana,ALL,all sectors,12956.782,million kilowatt hours
+2004,MTN,Mountain,ALL,all sectors,237631.806,million kilowatt hours
+2004,NC,North Carolina,ALL,all sectors,125656.807,million kilowatt hours
+2004,ND,North Dakota,ALL,all sectors,10516.4,million kilowatt hours
+2004,NE,Nebraska,ALL,all sectors,25875.93,million kilowatt hours
+2004,NEW,New England,ALL,all sectors,125248.953,million kilowatt hours
+2004,NH,New Hampshire,ALL,all sectors,10973.309,million kilowatt hours
+2004,NJ,New Jersey,ALL,all sectors,77593.167,million kilowatt hours
+2004,NM,New Mexico,ALL,all sectors,19845.735,million kilowatt hours
+2004,NV,Nevada,ALL,all sectors,31312.306,million kilowatt hours
+2004,NY,New York,ALL,all sectors,145081.709,million kilowatt hours
+2004,OH,Ohio,ALL,all sectors,154221.114,million kilowatt hours
+2004,OK,Oklahoma,ALL,all sectors,50942.042,million kilowatt hours
+2004,OR,Oregon,ALL,all sectors,45636.448,million kilowatt hours
+2004,PA,Pennsylvania,ALL,all sectors,143501.493,million kilowatt hours
+2004,PACC,Pacific Contiguous,ALL,all sectors,377644.029,million kilowatt hours
+2004,PACN,Pacific Noncontiguous,ALL,all sectors,16520.004,million kilowatt hours
+2004,RI,Rhode Island,ALL,all sectors,7887.575,million kilowatt hours
+2004,SAT,South Atlantic,ALL,all sectors,778025.91,million kilowatt hours
+2004,SC,South Carolina,ALL,all sectors,79908.34,million kilowatt hours
+2004,SD,South Dakota,ALL,all sectors,9213.844,million kilowatt hours
+2004,TN,Tennessee,ALL,all sectors,99660.665,million kilowatt hours
+2004,TX,Texas,ALL,all sectors,320614.84,million kilowatt hours
+2004,US,U.S. Total,ALL,all sectors,3547479.483,million kilowatt hours
+2004,UT,Utah,ALL,all sectors,24511.704,million kilowatt hours
+2004,VA,Virginia,ALL,all sectors,105424.173,million kilowatt hours
+2004,VT,Vermont,ALL,all sectors,5663.772,million kilowatt hours
+2004,WA,Washington,ALL,all sectors,79981.608,million kilowatt hours
+2004,WI,Wisconsin,ALL,all sectors,67975.709,million kilowatt hours
+2004,WNC,West North Central,ALL,all sectors,261030.098,million kilowatt hours
+2004,WSC,West South Central,ALL,all sectors,494966.354,million kilowatt hours
+2004,WV,West Virginia,ALL,all sectors,28918.612,million kilowatt hours
+2004,WY,Wyoming,ALL,all sectors,13539.513,million kilowatt hours
+2005,AK,Alaska,ALL,all sectors,5912.571,million kilowatt hours
+2005,AL,Alabama,ALL,all sectors,89201.62,million kilowatt hours
+2005,AR,Arkansas,ALL,all sectors,46164.923,million kilowatt hours
+2005,AZ,Arizona,ALL,all sectors,69390.686,million kilowatt hours
+2005,CA,California,ALL,all sectors,254249.507,million kilowatt hours
+2005,CO,Colorado,ALL,all sectors,48353.236,million kilowatt hours
+2005,CT,Connecticut,ALL,all sectors,33095.029,million kilowatt hours
+2005,DC,District of Columbia,ALL,all sectors,11816.207,million kilowatt hours
+2005,DE,Delaware,ALL,all sectors,12136.788,million kilowatt hours
+2005,ENC,East North Central,ALL,all sectors,592491.674,million kilowatt hours
+2005,ESC,East South Central,ALL,all sectors,328359.571,million kilowatt hours
+2005,FL,Florida,ALL,all sectors,224977.011,million kilowatt hours
+2005,GA,Georgia,ALL,all sectors,132265.452,million kilowatt hours
+2005,HI,Hawaii,ALL,all sectors,10538.91,million kilowatt hours
+2005,IA,Iowa,ALL,all sectors,42756.808,million kilowatt hours
+2005,ID,Idaho,ALL,all sectors,21852.681,million kilowatt hours
+2005,IL,Illinois,ALL,all sectors,144986.215,million kilowatt hours
+2005,IN,Indiana,ALL,all sectors,106548.91,million kilowatt hours
+2005,KS,Kansas,ALL,all sectors,39024.283,million kilowatt hours
+2005,KY,Kentucky,ALL,all sectors,89351.466,million kilowatt hours
+2005,LA,Louisiana,ALL,all sectors,77389.17,million kilowatt hours
+2005,MA,Massachusetts,ALL,all sectors,57227.588,million kilowatt hours
+2005,MAT,Middle Atlantic,ALL,all sectors,380317.324,million kilowatt hours
+2005,MD,Maryland,ALL,all sectors,68365.385,million kilowatt hours
+2005,ME,Maine,ALL,all sectors,12362.879,million kilowatt hours
+2005,MI,Michigan,ALL,all sectors,110444.563,million kilowatt hours
+2005,MN,Minnesota,ALL,all sectors,66019.053,million kilowatt hours
+2005,MO,Missouri,ALL,all sectors,80940.494,million kilowatt hours
+2005,MS,Mississippi,ALL,all sectors,45901.064,million kilowatt hours
+2005,MT,Montana,ALL,all sectors,13478.838,million kilowatt hours
+2005,MTN,Mountain,ALL,all sectors,245353.247,million kilowatt hours
+2005,NC,North Carolina,ALL,all sectors,128335.377,million kilowatt hours
+2005,ND,North Dakota,ALL,all sectors,10839.99,million kilowatt hours
+2005,NE,Nebraska,ALL,all sectors,26975.944,million kilowatt hours
+2005,NEW,New England,ALL,all sectors,127862.289,million kilowatt hours
+2005,NH,New Hampshire,ALL,all sectors,11244.628,million kilowatt hours
+2005,NJ,New Jersey,ALL,all sectors,81896.813,million kilowatt hours
+2005,NM,New Mexico,ALL,all sectors,20638.951,million kilowatt hours
+2005,NV,Nevada,ALL,all sectors,32500.63,million kilowatt hours
+2005,NY,New York,ALL,all sectors,150147.571,million kilowatt hours
+2005,OH,Ohio,ALL,all sectors,160176.303,million kilowatt hours
+2005,OK,Oklahoma,ALL,all sectors,53707.102,million kilowatt hours
+2005,OR,Oregon,ALL,all sectors,46419.245,million kilowatt hours
+2005,PA,Pennsylvania,ALL,all sectors,148272.94,million kilowatt hours
+2005,PACC,Pacific Contiguous,ALL,all sectors,384093.952,million kilowatt hours
+2005,PACN,Pacific Noncontiguous,ALL,all sectors,16451.481,million kilowatt hours
+2005,RI,Rhode Island,ALL,all sectors,8049.112,million kilowatt hours
+2005,SAT,South Atlantic,ALL,all sectors,798151.929,million kilowatt hours
+2005,SC,South Carolina,ALL,all sectors,81254.088,million kilowatt hours
+2005,SD,South Dakota,ALL,all sectors,9811.017,million kilowatt hours
+2005,TN,Tennessee,ALL,all sectors,103905.421,million kilowatt hours
+2005,TX,Texas,ALL,all sectors,334258.262,million kilowatt hours
+2005,US,U.S. Total,ALL,all sectors,3660968.513,million kilowatt hours
+2005,UT,Utah,ALL,all sectors,25000.498,million kilowatt hours
+2005,VA,Virginia,ALL,all sectors,108849.552,million kilowatt hours
+2005,VT,Vermont,ALL,all sectors,5883.053,million kilowatt hours
+2005,WA,Washington,ALL,all sectors,83425.2,million kilowatt hours
+2005,WI,Wisconsin,ALL,all sectors,70335.683,million kilowatt hours
+2005,WNC,West North Central,ALL,all sectors,276367.589,million kilowatt hours
+2005,WSC,West South Central,ALL,all sectors,511519.457,million kilowatt hours
+2005,WV,West Virginia,ALL,all sectors,30152.069,million kilowatt hours
+2005,WY,Wyoming,ALL,all sectors,14137.727,million kilowatt hours
+2006,AK,Alaska,ALL,all sectors,6182.291,million kilowatt hours
+2006,AL,Alabama,ALL,all sectors,90677.695,million kilowatt hours
+2006,AR,Arkansas,ALL,all sectors,46635.624,million kilowatt hours
+2006,AZ,Arizona,ALL,all sectors,73252.776,million kilowatt hours
+2006,CA,California,ALL,all sectors,262958.528,million kilowatt hours
+2006,CO,Colorado,ALL,all sectors,49733.698,million kilowatt hours
+2006,CT,Connecticut,ALL,all sectors,31677.453,million kilowatt hours
+2006,DC,District of Columbia,ALL,all sectors,11396.424,million kilowatt hours
+2006,DE,Delaware,ALL,all sectors,11554.672,million kilowatt hours
+2006,ENC,East North Central,ALL,all sectors,579379.585,million kilowatt hours
+2006,ESC,East South Central,ALL,all sectors,330289.311,million kilowatt hours
+2006,FL,Florida,ALL,all sectors,228219.544,million kilowatt hours
+2006,GA,Georgia,ALL,all sectors,134834.168,million kilowatt hours
+2006,HI,Hawaii,ALL,all sectors,10567.912,million kilowatt hours
+2006,IA,Iowa,ALL,all sectors,43336.835,million kilowatt hours
+2006,ID,Idaho,ALL,all sectors,22761.749,million kilowatt hours
+2006,IL,Illinois,ALL,all sectors,142447.811,million kilowatt hours
+2006,IN,Indiana,ALL,all sectors,105664.484,million kilowatt hours
+2006,KS,Kansas,ALL,all sectors,39751.302,million kilowatt hours
+2006,KY,Kentucky,ALL,all sectors,88743.435,million kilowatt hours
+2006,LA,Louisiana,ALL,all sectors,77467.748,million kilowatt hours
+2006,MA,Massachusetts,ALL,all sectors,55850.09,million kilowatt hours
+2006,MAT,Middle Atlantic,ALL,all sectors,368069.324,million kilowatt hours
+2006,MD,Maryland,ALL,all sectors,63173.143,million kilowatt hours
+2006,ME,Maine,ALL,all sectors,12284.768,million kilowatt hours
+2006,MI,Michigan,ALL,all sectors,108017.697,million kilowatt hours
+2006,MN,Minnesota,ALL,all sectors,66769.931,million kilowatt hours
+2006,MO,Missouri,ALL,all sectors,82015.23,million kilowatt hours
+2006,MS,Mississippi,ALL,all sectors,46936.437,million kilowatt hours
+2006,MT,Montana,ALL,all sectors,13814.98,million kilowatt hours
+2006,MTN,Mountain,ALL,all sectors,256896.748,million kilowatt hours
+2006,NC,North Carolina,ALL,all sectors,126698.979,million kilowatt hours
+2006,ND,North Dakota,ALL,all sectors,11245.238,million kilowatt hours
+2006,NE,Nebraska,ALL,all sectors,27276.292,million kilowatt hours
+2006,NEW,New England,ALL,all sectors,124500.809,million kilowatt hours
+2006,NH,New Hampshire,ALL,all sectors,11094.343,million kilowatt hours
+2006,NJ,New Jersey,ALL,all sectors,79680.947,million kilowatt hours
+2006,NM,New Mexico,ALL,all sectors,21434.957,million kilowatt hours
+2006,NV,Nevada,ALL,all sectors,34586.26,million kilowatt hours
+2006,NY,New York,ALL,all sectors,142238.019,million kilowatt hours
+2006,OH,Ohio,ALL,all sectors,153428.844,million kilowatt hours
+2006,OK,Oklahoma,ALL,all sectors,54905.314,million kilowatt hours
+2006,OR,Oregon,ALL,all sectors,48069.265,million kilowatt hours
+2006,PA,Pennsylvania,ALL,all sectors,146150.358,million kilowatt hours
+2006,PACC,Pacific Contiguous,ALL,all sectors,396061.128,million kilowatt hours
+2006,PACN,Pacific Noncontiguous,ALL,all sectors,16750.203,million kilowatt hours
+2006,RI,Rhode Island,ALL,all sectors,7799.126,million kilowatt hours
+2006,SAT,South Atlantic,ALL,all sectors,795787.618,million kilowatt hours
+2006,SC,South Carolina,ALL,all sectors,80877.321,million kilowatt hours
+2006,SD,South Dakota,ALL,all sectors,10056.387,million kilowatt hours
+2006,TN,Tennessee,ALL,all sectors,103931.744,million kilowatt hours
+2006,TX,Texas,ALL,all sectors,342724.213,million kilowatt hours
+2006,US,U.S. Total,ALL,all sectors,3669918.84,million kilowatt hours
+2006,UT,Utah,ALL,all sectors,26365.716,million kilowatt hours
+2006,VA,Virginia,ALL,all sectors,106721.241,million kilowatt hours
+2006,VT,Vermont,ALL,all sectors,5795.029,million kilowatt hours
+2006,WA,Washington,ALL,all sectors,85033.335,million kilowatt hours
+2006,WI,Wisconsin,ALL,all sectors,69820.749,million kilowatt hours
+2006,WNC,West North Central,ALL,all sectors,280451.215,million kilowatt hours
+2006,WSC,West South Central,ALL,all sectors,521732.899,million kilowatt hours
+2006,WV,West Virginia,ALL,all sectors,32312.126,million kilowatt hours
+2006,WY,Wyoming,ALL,all sectors,14946.612,million kilowatt hours
+2007,AK,Alaska,ALL,all sectors,6326.61,million kilowatt hours
+2007,AL,Alabama,ALL,all sectors,91828.464,million kilowatt hours
+2007,AR,Arkansas,ALL,all sectors,47054.891,million kilowatt hours
+2007,AZ,Arizona,ALL,all sectors,77193.206,million kilowatt hours
+2007,CA,California,ALL,all sectors,264234.911,million kilowatt hours
+2007,CO,Colorado,ALL,all sectors,51299.156,million kilowatt hours
+2007,CT,Connecticut,ALL,all sectors,34129.107,million kilowatt hours
+2007,DC,District of Columbia,ALL,all sectors,12110.185,million kilowatt hours
+2007,DE,Delaware,ALL,all sectors,11868.81,million kilowatt hours
+2007,ENC,East North Central,ALL,all sectors,597844.177,million kilowatt hours
+2007,ESC,East South Central,ALL,all sectors,339102.679,million kilowatt hours
+2007,FL,Florida,ALL,all sectors,231084.6,million kilowatt hours
+2007,GA,Georgia,ALL,all sectors,137453.878,million kilowatt hours
+2007,HI,Hawaii,ALL,all sectors,10585.299,million kilowatt hours
+2007,IA,Iowa,ALL,all sectors,45269.523,million kilowatt hours
+2007,ID,Idaho,ALL,all sectors,23755.186,million kilowatt hours
+2007,IL,Illinois,ALL,all sectors,146055.151,million kilowatt hours
+2007,IN,Indiana,ALL,all sectors,109420.15,million kilowatt hours
+2007,KS,Kansas,ALL,all sectors,40165.977,million kilowatt hours
+2007,KY,Kentucky,ALL,all sectors,92404.1,million kilowatt hours
+2007,LA,Louisiana,ALL,all sectors,79566.937,million kilowatt hours
+2007,MA,Massachusetts,ALL,all sectors,57138.822,million kilowatt hours
+2007,MAT,Middle Atlantic,ALL,all sectors,381684.807,million kilowatt hours
+2007,MD,Maryland,ALL,all sectors,65390.66,million kilowatt hours
+2007,ME,Maine,ALL,all sectors,11860.202,million kilowatt hours
+2007,MI,Michigan,ALL,all sectors,109296.749,million kilowatt hours
+2007,MN,Minnesota,ALL,all sectors,68231.182,million kilowatt hours
+2007,MO,Missouri,ALL,all sectors,85532.85,million kilowatt hours
+2007,MS,Mississippi,ALL,all sectors,48153.181,million kilowatt hours
+2007,MT,Montana,ALL,all sectors,15531.985,million kilowatt hours
+2007,MTN,Mountain,ALL,all sectors,269011.328,million kilowatt hours
+2007,NC,North Carolina,ALL,all sectors,131880.754,million kilowatt hours
+2007,ND,North Dakota,ALL,all sectors,11905.695,million kilowatt hours
+2007,NE,Nebraska,ALL,all sectors,28248.4,million kilowatt hours
+2007,NEW,New England,ALL,all sectors,128241.015,million kilowatt hours
+2007,NH,New Hampshire,ALL,all sectors,11235.856,million kilowatt hours
+2007,NJ,New Jersey,ALL,all sectors,81934.334,million kilowatt hours
+2007,NM,New Mexico,ALL,all sectors,22267.394,million kilowatt hours
+2007,NV,Nevada,ALL,all sectors,35643.402,million kilowatt hours
+2007,NY,New York,ALL,all sectors,148177.523,million kilowatt hours
+2007,OH,Ohio,ALL,all sectors,161770.827,million kilowatt hours
+2007,OK,Oklahoma,ALL,all sectors,55193.2,million kilowatt hours
+2007,OR,Oregon,ALL,all sectors,48696.965,million kilowatt hours
+2007,PA,Pennsylvania,ALL,all sectors,151572.95,million kilowatt hours
+2007,PACC,Pacific Contiguous,ALL,all sectors,398673.823,million kilowatt hours
+2007,PACN,Pacific Noncontiguous,ALL,all sectors,16911.909,million kilowatt hours
+2007,RI,Rhode Island,ALL,all sectors,8013.022,million kilowatt hours
+2007,SAT,South Atlantic,ALL,all sectors,817490.436,million kilowatt hours
+2007,SC,South Carolina,ALL,all sectors,81948.158,million kilowatt hours
+2007,SD,South Dakota,ALL,all sectors,10603.301,million kilowatt hours
+2007,TN,Tennessee,ALL,all sectors,106716.934,million kilowatt hours
+2007,TX,Texas,ALL,all sectors,343828.582,million kilowatt hours
+2007,US,U.S. Total,ALL,all sectors,3764560.712,million kilowatt hours
+2007,UT,Utah,ALL,all sectors,27785.447,million kilowatt hours
+2007,VA,Virginia,ALL,all sectors,111569.552,million kilowatt hours
+2007,VT,Vermont,ALL,all sectors,5864.006,million kilowatt hours
+2007,WA,Washington,ALL,all sectors,85741.947,million kilowatt hours
+2007,WI,Wisconsin,ALL,all sectors,71301.3,million kilowatt hours
+2007,WNC,West North Central,ALL,all sectors,289956.928,million kilowatt hours
+2007,WSC,West South Central,ALL,all sectors,525643.61,million kilowatt hours
+2007,WV,West Virginia,ALL,all sectors,34183.839,million kilowatt hours
+2007,WY,Wyoming,ALL,all sectors,15535.552,million kilowatt hours
+2008,AK,Alaska,ALL,all sectors,6325.94399,million kilowatt hours
+2008,AL,Alabama,ALL,all sectors,89707.27901,million kilowatt hours
+2008,AR,Arkansas,ALL,all sectors,46134.68101,million kilowatt hours
+2008,AZ,Arizona,ALL,all sectors,76267.91602,million kilowatt hours
+2008,CA,California,ALL,all sectors,268155.21898,million kilowatt hours
+2008,CO,Colorado,ALL,all sectors,52142.47301,million kilowatt hours
+2008,CT,Connecticut,ALL,all sectors,30956.544,million kilowatt hours
+2008,DC,District of Columbia,ALL,all sectors,11616.234,million kilowatt hours
+2008,DE,Delaware,ALL,all sectors,11748.783,million kilowatt hours
+2008,ENC,East North Central,ALL,all sectors,586892.52302,million kilowatt hours
+2008,ESC,East South Central,ALL,all sectors,335026.70699,million kilowatt hours
+2008,FL,Florida,ALL,all sectors,226172.795,million kilowatt hours
+2008,GA,Georgia,ALL,all sectors,135173.514,million kilowatt hours
+2008,HI,Hawaii,ALL,all sectors,10390.279,million kilowatt hours
+2008,IA,Iowa,ALL,all sectors,45488.06998,million kilowatt hours
+2008,ID,Idaho,ALL,all sectors,23901.49001,million kilowatt hours
+2008,IL,Illinois,ALL,all sectors,144619.914,million kilowatt hours
+2008,IN,Indiana,ALL,all sectors,106980.704,million kilowatt hours
+2008,KS,Kansas,ALL,all sectors,39965.06107,million kilowatt hours
+2008,KY,Kentucky,ALL,all sectors,93428.41398,million kilowatt hours
+2008,LA,Louisiana,ALL,all sectors,78725.77399,million kilowatt hours
+2008,MA,Massachusetts,ALL,all sectors,55884.10499,million kilowatt hours
+2008,MAT,Middle Atlantic,ALL,all sectors,374973.06801,million kilowatt hours
+2008,MD,Maryland,ALL,all sectors,63325.77699,million kilowatt hours
+2008,ME,Maine,ALL,all sectors,11673.673,million kilowatt hours
+2008,MI,Michigan,ALL,all sectors,105781.27101,million kilowatt hours
+2008,MN,Minnesota,ALL,all sectors,68794.13798,million kilowatt hours
+2008,MO,Missouri,ALL,all sectors,84381.67599,million kilowatt hours
+2008,MS,Mississippi,ALL,all sectors,47721.23501,million kilowatt hours
+2008,MT,Montana,ALL,all sectors,15326.39999,million kilowatt hours
+2008,MTN,Mountain,ALL,all sectors,269750.64303,million kilowatt hours
+2008,NC,North Carolina,ALL,all sectors,130069.25701,million kilowatt hours
+2008,ND,North Dakota,ALL,all sectors,12416.07401,million kilowatt hours
+2008,NE,Nebraska,ALL,all sectors,28821.02103,million kilowatt hours
+2008,NEW,New England,ALL,all sectors,123051.40899,million kilowatt hours
+2008,NH,New Hampshire,ALL,all sectors,10977.289,million kilowatt hours
+2008,NJ,New Jersey,ALL,all sectors,80519.543,million kilowatt hours
+2008,NM,New Mexico,ALL,all sectors,22038.108,million kilowatt hours
+2008,NV,Nevada,ALL,all sectors,35192.496,million kilowatt hours
+2008,NY,New York,ALL,all sectors,144052.936,million kilowatt hours
+2008,OH,Ohio,ALL,all sectors,159388.80701,million kilowatt hours
+2008,OK,Oklahoma,ALL,all sectors,56278.86606,million kilowatt hours
+2008,OR,Oregon,ALL,all sectors,49187.47698,million kilowatt hours
+2008,PA,Pennsylvania,ALL,all sectors,150400.589,million kilowatt hours
+2008,PACC,Pacific Contiguous,ALL,all sectors,404675.57997,million kilowatt hours
+2008,PACN,Pacific Noncontiguous,ALL,all sectors,16716.22299,million kilowatt hours
+2008,RI,Rhode Island,ALL,all sectors,7818.594,million kilowatt hours
+2008,SAT,South Atlantic,ALL,all sectors,803084.372,million kilowatt hours
+2008,SC,South Carolina,ALL,all sectors,80650.572,million kilowatt hours
+2008,SD,South Dakota,ALL,all sectors,10974.086,million kilowatt hours
+2008,TN,Tennessee,ALL,all sectors,104169.77899,million kilowatt hours
+2008,TX,Texas,ALL,all sectors,347814.64702,million kilowatt hours
+2008,US,U.S. Total,ALL,all sectors,3733964.61911,million kilowatt hours
+2008,UT,Utah,ALL,all sectors,28191.51101,million kilowatt hours
+2008,VA,Virginia,ALL,all sectors,110106.33701,million kilowatt hours
+2008,VT,Vermont,ALL,all sectors,5741.204,million kilowatt hours
+2008,WA,Washington,ALL,all sectors,87332.884,million kilowatt hours
+2008,WI,Wisconsin,ALL,all sectors,70121.82701,million kilowatt hours
+2008,WNC,West North Central,ALL,all sectors,290840.12605,million kilowatt hours
+2008,WSC,West South Central,ALL,all sectors,528953.96808,million kilowatt hours
+2008,WV,West Virginia,ALL,all sectors,34221.103,million kilowatt hours
+2008,WY,Wyoming,ALL,all sectors,16690.24899,million kilowatt hours
+2009,AK,Alaska,ALL,all sectors,6270.17098,million kilowatt hours
+2009,AL,Alabama,ALL,all sectors,82844.60198,million kilowatt hours
+2009,AR,Arkansas,ALL,all sectors,43173.10399,million kilowatt hours
+2009,AZ,Arizona,ALL,all sectors,73432.92901,million kilowatt hours
+2009,CA,California,ALL,all sectors,259583.67598,million kilowatt hours
+2009,CO,Colorado,ALL,all sectors,51035.906,million kilowatt hours
+2009,CT,Connecticut,ALL,all sectors,29715.764,million kilowatt hours
+2009,DC,District of Columbia,ALL,all sectors,11434.375,million kilowatt hours
+2009,DE,Delaware,ALL,all sectors,11257.778,million kilowatt hours
+2009,ENC,East North Central,ALL,all sectors,546707.52501,million kilowatt hours
+2009,ESC,East South Central,ALL,all sectors,312700.35698,million kilowatt hours
+2009,FL,Florida,ALL,all sectors,224750.322,million kilowatt hours
+2009,GA,Georgia,ALL,all sectors,130765.50499,million kilowatt hours
+2009,HI,Hawaii,ALL,all sectors,10126.185,million kilowatt hours
+2009,IA,Iowa,ALL,all sectors,43641.19499,million kilowatt hours
+2009,ID,Idaho,ALL,all sectors,22753.779,million kilowatt hours
+2009,IL,Illinois,ALL,all sectors,136688.466,million kilowatt hours
+2009,IN,Indiana,ALL,all sectors,99311.81302,million kilowatt hours
+2009,KS,Kansas,ALL,all sectors,38243.34399,million kilowatt hours
+2009,KY,Kentucky,ALL,all sectors,88896.75699,million kilowatt hours
+2009,LA,Louisiana,ALL,all sectors,78669.582,million kilowatt hours
+2009,MA,Massachusetts,ALL,all sectors,54359.198,million kilowatt hours
+2009,MAT,Middle Atlantic,ALL,all sectors,359561.68799,million kilowatt hours
+2009,MD,Maryland,ALL,all sectors,62589.143,million kilowatt hours
+2009,ME,Maine,ALL,all sectors,11282.967,million kilowatt hours
+2009,MI,Michigan,ALL,all sectors,98121.014,million kilowatt hours
+2009,MN,Minnesota,ALL,all sectors,64004.463,million kilowatt hours
+2009,MO,Missouri,ALL,all sectors,79897.30002,million kilowatt hours
+2009,MS,Mississippi,ALL,all sectors,46049.154,million kilowatt hours
+2009,MT,Montana,ALL,all sectors,14353.775,million kilowatt hours
+2009,MTN,Mountain,ALL,all sectors,261655.816,million kilowatt hours
+2009,NC,North Carolina,ALL,all sectors,127657.97902,million kilowatt hours
+2009,ND,North Dakota,ALL,all sectors,12648.57999,million kilowatt hours
+2009,NE,Nebraska,ALL,all sectors,28452.194,million kilowatt hours
+2009,NEW,New England,ALL,all sectors,119170.564,million kilowatt hours
+2009,NH,New Hampshire,ALL,all sectors,10698.493,million kilowatt hours
+2009,NJ,New Jersey,ALL,all sectors,75779.853,million kilowatt hours
+2009,NM,New Mexico,ALL,all sectors,21647.13601,million kilowatt hours
+2009,NV,Nevada,ALL,all sectors,34283.65399,million kilowatt hours
+2009,NY,New York,ALL,all sectors,140034.397,million kilowatt hours
+2009,OH,Ohio,ALL,all sectors,146299.79301,million kilowatt hours
+2009,OK,Oklahoma,ALL,all sectors,54544.58,million kilowatt hours
+2009,OR,Oregon,ALL,all sectors,47566.89702,million kilowatt hours
+2009,PA,Pennsylvania,ALL,all sectors,143747.43799,million kilowatt hours
+2009,PACC,Pacific Contiguous,ALL,all sectors,397360.57499,million kilowatt hours
+2009,PACN,Pacific Noncontiguous,ALL,all sectors,16396.35598,million kilowatt hours
+2009,RI,Rhode Island,ALL,all sectors,7617.629,million kilowatt hours
+2009,SAT,South Atlantic,ALL,all sectors,783606.373,million kilowatt hours
+2009,SC,South Carolina,ALL,all sectors,76417.47899,million kilowatt hours
+2009,SD,South Dakota,ALL,all sectors,11010.118,million kilowatt hours
+2009,TN,Tennessee,ALL,all sectors,94909.84401,million kilowatt hours
+2009,TX,Texas,ALL,all sectors,345351.41997,million kilowatt hours
+2009,US,U.S. Total,ALL,all sectors,3596795.13389,million kilowatt hours
+2009,UT,Utah,ALL,all sectors,27586.69999,million kilowatt hours
+2009,VA,Virginia,ALL,all sectors,108462.463,million kilowatt hours
+2009,VT,Vermont,ALL,all sectors,5496.513,million kilowatt hours
+2009,WA,Washington,ALL,all sectors,90210.00198,million kilowatt hours
+2009,WI,Wisconsin,ALL,all sectors,66286.43898,million kilowatt hours
+2009,WNC,West North Central,ALL,all sectors,277897.19399,million kilowatt hours
+2009,WSC,West South Central,ALL,all sectors,521738.68596,million kilowatt hours
+2009,WV,West Virginia,ALL,all sectors,30271.329,million kilowatt hours
+2009,WY,Wyoming,ALL,all sectors,16561.93701,million kilowatt hours
+2010,AK,Alaska,ALL,all sectors,6247.03802,million kilowatt hours
+2010,AL,Alabama,ALL,all sectors,90862.645,million kilowatt hours
+2010,AR,Arkansas,ALL,all sectors,48194.285,million kilowatt hours
+2010,AZ,Arizona,ALL,all sectors,72833.03,million kilowatt hours
+2010,CA,California,ALL,all sectors,258530.892,million kilowatt hours
+2010,CO,Colorado,ALL,all sectors,52917.786,million kilowatt hours
+2010,CT,Connecticut,ALL,all sectors,30391.766,million kilowatt hours
+2010,DC,District of Columbia,ALL,all sectors,11876.995,million kilowatt hours
+2010,DE,Delaware,ALL,all sectors,11605.932,million kilowatt hours
+2010,ENC,East North Central,ALL,all sectors,577302.10399,million kilowatt hours
+2010,ESC,East South Central,ALL,all sectors,337640.774,million kilowatt hours
+2010,FL,Florida,ALL,all sectors,231209.61399,million kilowatt hours
+2010,GA,Georgia,ALL,all sectors,140671.57999,million kilowatt hours
+2010,HI,Hawaii,ALL,all sectors,10016.509,million kilowatt hours
+2010,IA,Iowa,ALL,all sectors,45445.26901,million kilowatt hours
+2010,ID,Idaho,ALL,all sectors,22797.66803,million kilowatt hours
+2010,IL,Illinois,ALL,all sectors,144760.674,million kilowatt hours
+2010,IN,Indiana,ALL,all sectors,105994.37597,million kilowatt hours
+2010,KS,Kansas,ALL,all sectors,40420.675,million kilowatt hours
+2010,KY,Kentucky,ALL,all sectors,93569.42598,million kilowatt hours
+2010,LA,Louisiana,ALL,all sectors,85079.69198,million kilowatt hours
+2010,MA,Massachusetts,ALL,all sectors,57123.422,million kilowatt hours
+2010,MAT,Middle Atlantic,ALL,all sectors,372766.96803,million kilowatt hours
+2010,MD,Maryland,ALL,all sectors,65335.498,million kilowatt hours
+2010,ME,Maine,ALL,all sectors,11531.568,million kilowatt hours
+2010,MI,Michigan,ALL,all sectors,103649.21904,million kilowatt hours
+2010,MN,Minnesota,ALL,all sectors,67799.70606,million kilowatt hours
+2010,MO,Missouri,ALL,all sectors,86085.11697,million kilowatt hours
+2010,MS,Mississippi,ALL,all sectors,49687.166,million kilowatt hours
+2010,MT,Montana,ALL,all sectors,13771.45301,million kilowatt hours
+2010,MTN,Mountain,ALL,all sectors,263678.33504,million kilowatt hours
+2010,NC,North Carolina,ALL,all sectors,136414.94702,million kilowatt hours
+2010,ND,North Dakota,ALL,all sectors,12956.26301,million kilowatt hours
+2010,NE,Nebraska,ALL,all sectors,29849.46004,million kilowatt hours
+2010,NEW,New England,ALL,all sectors,123330.89001,million kilowatt hours
+2010,NH,New Hampshire,ALL,all sectors,10890.074,million kilowatt hours
+2010,NJ,New Jersey,ALL,all sectors,79179.42701,million kilowatt hours
+2010,NM,New Mexico,ALL,all sectors,22428.34401,million kilowatt hours
+2010,NV,Nevada,ALL,all sectors,33772.595,million kilowatt hours
+2010,NY,New York,ALL,all sectors,144623.57302,million kilowatt hours
+2010,OH,Ohio,ALL,all sectors,154145.41794,million kilowatt hours
+2010,OK,Oklahoma,ALL,all sectors,57845.98002,million kilowatt hours
+2010,OR,Oregon,ALL,all sectors,46025.94503,million kilowatt hours
+2010,PA,Pennsylvania,ALL,all sectors,148963.968,million kilowatt hours
+2010,PACC,Pacific Contiguous,ALL,all sectors,394936.80705,million kilowatt hours
+2010,PACN,Pacific Noncontiguous,ALL,all sectors,16263.54703,million kilowatt hours
+2010,RI,Rhode Island,ALL,all sectors,7799.227,million kilowatt hours
+2010,SAT,South Atlantic,ALL,all sectors,825431.79698,million kilowatt hours
+2010,SC,South Carolina,ALL,all sectors,82479.29299,million kilowatt hours
+2010,SD,South Dakota,ALL,all sectors,11356.14901,million kilowatt hours
+2010,TN,Tennessee,ALL,all sectors,103521.53701,million kilowatt hours
+2010,TX,Texas,ALL,all sectors,358457.54999,million kilowatt hours
+2010,US,U.S. Total,ALL,all sectors,3754841.36823,million kilowatt hours
+2010,UT,Utah,ALL,all sectors,28044.00099,million kilowatt hours
+2010,VA,Virginia,ALL,all sectors,113806.135,million kilowatt hours
+2010,VT,Vermont,ALL,all sectors,5594.83302,million kilowatt hours
+2010,WA,Washington,ALL,all sectors,90379.97002,million kilowatt hours
+2010,WI,Wisconsin,ALL,all sectors,68752.41704,million kilowatt hours
+2010,WNC,West North Central,ALL,all sectors,293912.6391,million kilowatt hours
+2010,WSC,West South Central,ALL,all sectors,549577.507,million kilowatt hours
+2010,WV,West Virginia,ALL,all sectors,32031.803,million kilowatt hours
+2010,WY,Wyoming,ALL,all sectors,17113.45801,million kilowatt hours
+2011,AK,Alaska,ALL,all sectors,6319.53995,million kilowatt hours
+2011,AL,Alabama,ALL,all sectors,88995.36899,million kilowatt hours
+2011,AR,Arkansas,ALL,all sectors,47927.829,million kilowatt hours
+2011,AZ,Arizona,ALL,all sectors,74943.645,million kilowatt hours
+2011,CA,California,ALL,all sectors,261941.70001,million kilowatt hours
+2011,CO,Colorado,ALL,all sectors,53458.28502,million kilowatt hours
+2011,CT,Connecticut,ALL,all sectors,29858.993,million kilowatt hours
+2011,DC,District of Columbia,ALL,all sectors,11562.055,million kilowatt hours
+2011,DE,Delaware,ALL,all sectors,11483.29599,million kilowatt hours
+2011,ENC,East North Central,ALL,all sectors,577115.19603,million kilowatt hours
+2011,ESC,East South Central,ALL,all sectors,328604.59599,million kilowatt hours
+2011,FL,Florida,ALL,all sectors,225090.42199,million kilowatt hours
+2011,GA,Georgia,ALL,all sectors,136371.149,million kilowatt hours
+2011,HI,Hawaii,ALL,all sectors,9961.653,million kilowatt hours
+2011,IA,Iowa,ALL,all sectors,45654.87701,million kilowatt hours
+2011,ID,Idaho,ALL,all sectors,23271.724,million kilowatt hours
+2011,IL,Illinois,ALL,all sectors,142885.56702,million kilowatt hours
+2011,IN,Indiana,ALL,all sectors,105818.13897,million kilowatt hours
+2011,KS,Kansas,ALL,all sectors,40760.39897,million kilowatt hours
+2011,KY,Kentucky,ALL,all sectors,89538.341,million kilowatt hours
+2011,LA,Louisiana,ALL,all sectors,86369.08101,million kilowatt hours
+2011,MA,Massachusetts,ALL,all sectors,55569.912,million kilowatt hours
+2011,MAT,Middle Atlantic,ALL,all sectors,369663.60904,million kilowatt hours
+2011,MD,Maryland,ALL,all sectors,63599.711,million kilowatt hours
+2011,ME,Maine,ALL,all sectors,11415.345,million kilowatt hours
+2011,MI,Michigan,ALL,all sectors,105053.558,million kilowatt hours
+2011,MN,Minnesota,ALL,all sectors,68532.708,million kilowatt hours
+2011,MO,Missouri,ALL,all sectors,84254.84101,million kilowatt hours
+2011,MS,Mississippi,ALL,all sectors,49337.557,million kilowatt hours
+2011,MT,Montana,ALL,all sectors,13788.081,million kilowatt hours
+2011,MTN,Mountain,ALL,all sectors,268696.58704,million kilowatt hours
+2011,NC,North Carolina,ALL,all sectors,131084.93302,million kilowatt hours
+2011,ND,North Dakota,ALL,all sectors,13737.01599,million kilowatt hours
+2011,NE,Nebraska,ALL,all sectors,29676.08402,million kilowatt hours
+2011,NEW,New England,ALL,all sectors,120995.46099,million kilowatt hours
+2011,NH,New Hampshire,ALL,all sectors,10868.60699,million kilowatt hours
+2011,NJ,New Jersey,ALL,all sectors,76859.76201,million kilowatt hours
+2011,NM,New Mexico,ALL,all sectors,23041.66501,million kilowatt hours
+2011,NV,Nevada,ALL,all sectors,33916.479,million kilowatt hours
+2011,NY,New York,ALL,all sectors,144046.60902,million kilowatt hours
+2011,OH,Ohio,ALL,all sectors,154746.31002,million kilowatt hours
+2011,OK,Oklahoma,ALL,all sectors,59846.79402,million kilowatt hours
+2011,OR,Oregon,ALL,all sectors,47171.44599,million kilowatt hours
+2011,PA,Pennsylvania,ALL,all sectors,148757.23801,million kilowatt hours
+2011,PACC,Pacific Contiguous,ALL,all sectors,402838.06299,million kilowatt hours
+2011,PACN,Pacific Noncontiguous,ALL,all sectors,16281.19295,million kilowatt hours
+2011,RI,Rhode Island,ALL,all sectors,7732.42,million kilowatt hours
+2011,SAT,South Atlantic,ALL,all sectors,801147.12998,million kilowatt hours
+2011,SC,South Carolina,ALL,all sectors,80488.54601,million kilowatt hours
+2011,SD,South Dakota,ALL,all sectors,11679.60002,million kilowatt hours
+2011,TN,Tennessee,ALL,all sectors,100733.329,million kilowatt hours
+2011,TX,Texas,ALL,all sectors,376065.11599,million kilowatt hours
+2011,US,U.S. Total,ALL,all sectors,3749846.18003,million kilowatt hours
+2011,UT,Utah,ALL,all sectors,28858.94601,million kilowatt hours
+2011,VA,Virginia,ALL,all sectors,110228.26499,million kilowatt hours
+2011,VT,Vermont,ALL,all sectors,5550.184,million kilowatt hours
+2011,WA,Washington,ALL,all sectors,93724.917,million kilowatt hours
+2011,WI,Wisconsin,ALL,all sectors,68611.62202,million kilowatt hours
+2011,WNC,West North Central,ALL,all sectors,294295.52501,million kilowatt hours
+2011,WSC,West South Central,ALL,all sectors,570208.82002,million kilowatt hours
+2011,WV,West Virginia,ALL,all sectors,31238.753,million kilowatt hours
+2011,WY,Wyoming,ALL,all sectors,17417.76201,million kilowatt hours
+2012,AK,Alaska,ALL,all sectors,6416.41098,million kilowatt hours
+2012,AL,Alabama,ALL,all sectors,86182.54801,million kilowatt hours
+2012,AR,Arkansas,ALL,all sectors,46859.56698,million kilowatt hours
+2012,AZ,Arizona,ALL,all sectors,75063.343,million kilowatt hours
+2012,CA,California,ALL,all sectors,259538.03802,million kilowatt hours
+2012,CO,Colorado,ALL,all sectors,53685.29703,million kilowatt hours
+2012,CT,Connecticut,ALL,all sectors,29492.33801,million kilowatt hours
+2012,DC,District of Columbia,ALL,all sectors,11258.845,million kilowatt hours
+2012,DE,Delaware,ALL,all sectors,11519.33101,million kilowatt hours
+2012,ENC,East North Central,ALL,all sectors,574808.57391,million kilowatt hours
+2012,ESC,East South Central,ALL,all sectors,320000.18496,million kilowatt hours
+2012,FL,Florida,ALL,all sectors,220674.33302,million kilowatt hours
+2012,GA,Georgia,ALL,all sectors,130978.87202,million kilowatt hours
+2012,HI,Hawaii,ALL,all sectors,9639.157,million kilowatt hours
+2012,IA,Iowa,ALL,all sectors,45709.09996,million kilowatt hours
+2012,ID,Idaho,ALL,all sectors,23711.859,million kilowatt hours
+2012,IL,Illinois,ALL,all sectors,143540.004,million kilowatt hours
+2012,IN,Indiana,ALL,all sectors,105173.42503,million kilowatt hours
+2012,KS,Kansas,ALL,all sectors,40293.47599,million kilowatt hours
+2012,KY,Kentucky,ALL,all sectors,89048.48998,million kilowatt hours
+2012,LA,Louisiana,ALL,all sectors,84730.743,million kilowatt hours
+2012,MA,Massachusetts,ALL,all sectors,55313.32401,million kilowatt hours
+2012,MAT,Middle Atlantic,ALL,all sectors,362925.309,million kilowatt hours
+2012,MD,Maryland,ALL,all sectors,61813.55201,million kilowatt hours
+2012,ME,Maine,ALL,all sectors,11561.059,million kilowatt hours
+2012,MI,Michigan,ALL,all sectors,104818.19095,million kilowatt hours
+2012,MN,Minnesota,ALL,all sectors,67988.53489,million kilowatt hours
+2012,MO,Missouri,ALL,all sectors,82435.35898,million kilowatt hours
+2012,MS,Mississippi,ALL,all sectors,48387.675,million kilowatt hours
+2012,MT,Montana,ALL,all sectors,13863.38298,million kilowatt hours
+2012,MTN,Mountain,ALL,all sectors,271377.08999,million kilowatt hours
+2012,NC,North Carolina,ALL,all sectors,128084.893,million kilowatt hours
+2012,ND,North Dakota,ALL,all sectors,14716.95598,million kilowatt hours
+2012,NE,Nebraska,ALL,all sectors,30827.93898,million kilowatt hours
+2012,NEW,New England,ALL,all sectors,120456.08001,million kilowatt hours
+2012,NH,New Hampshire,ALL,all sectors,10870.261,million kilowatt hours
+2012,NJ,New Jersey,ALL,all sectors,75052.91399,million kilowatt hours
+2012,NM,New Mexico,ALL,all sectors,23178.568,million kilowatt hours
+2012,NV,Nevada,ALL,all sectors,35179.91801,million kilowatt hours
+2012,NY,New York,ALL,all sectors,143162.66801,million kilowatt hours
+2012,OH,Ohio,ALL,all sectors,152456.86402,million kilowatt hours
+2012,OK,Oklahoma,ALL,all sectors,59340.62402,million kilowatt hours
+2012,OR,Oregon,ALL,all sectors,46688.85597,million kilowatt hours
+2012,PA,Pennsylvania,ALL,all sectors,144709.72701,million kilowatt hours
+2012,PACC,Pacific Contiguous,ALL,all sectors,398563.33495,million kilowatt hours
+2012,PACN,Pacific Noncontiguous,ALL,all sectors,16055.56798,million kilowatt hours
+2012,RI,Rhode Island,ALL,all sectors,7708.334,million kilowatt hours
+2012,SAT,South Atlantic,ALL,all sectors,780723.00504,million kilowatt hours
+2012,SC,South Carolina,ALL,all sectors,77780.953,million kilowatt hours
+2012,SD,South Dakota,ALL,all sectors,11734.20999,million kilowatt hours
+2012,TN,Tennessee,ALL,all sectors,96381.47197,million kilowatt hours
+2012,TX,Texas,ALL,all sectors,365104.13099,million kilowatt hours
+2012,US,U.S. Total,ALL,all sectors,3694649.78562,million kilowatt hours
+2012,UT,Utah,ALL,all sectors,29723.368,million kilowatt hours
+2012,VA,Virginia,ALL,all sectors,107794.98501,million kilowatt hours
+2012,VT,Vermont,ALL,all sectors,5510.764,million kilowatt hours
+2012,WA,Washington,ALL,all sectors,92336.44097,million kilowatt hours
+2012,WI,Wisconsin,ALL,all sectors,68820.08991,million kilowatt hours
+2012,WNC,West North Central,ALL,all sectors,293705.57479,million kilowatt hours
+2012,WSC,West South Central,ALL,all sectors,556035.06499,million kilowatt hours
+2012,WV,West Virginia,ALL,all sectors,30817.24099,million kilowatt hours
+2012,WY,Wyoming,ALL,all sectors,16971.35399,million kilowatt hours
+2013,AK,Alaska,ALL,all sectors,6268.212,million kilowatt hours
+2013,AL,Alabama,ALL,all sectors,87852.10702,million kilowatt hours
+2013,AR,Arkansas,ALL,all sectors,46683.034,million kilowatt hours
+2013,AZ,Arizona,ALL,all sectors,75662.03702,million kilowatt hours
+2013,CA,California,ALL,all sectors,261332.45899,million kilowatt hours
+2013,CO,Colorado,ALL,all sectors,53441.64901,million kilowatt hours
+2013,CT,Connecticut,ALL,all sectors,29824.516,million kilowatt hours
+2013,DC,District of Columbia,ALL,all sectors,11085.519,million kilowatt hours
+2013,DE,Delaware,ALL,all sectors,11347.856,million kilowatt hours
+2013,ENC,East North Central,ALL,all sectors,569761.64298,million kilowatt hours
+2013,ESC,East South Central,ALL,all sectors,318341.95201,million kilowatt hours
+2013,FL,Florida,ALL,all sectors,221919.51398,million kilowatt hours
+2013,GA,Georgia,ALL,all sectors,130497.47001,million kilowatt hours
+2013,HI,Hawaii,ALL,all sectors,9503.164,million kilowatt hours
+2013,IA,Iowa,ALL,all sectors,46705.21594,million kilowatt hours
+2013,ID,Idaho,ALL,all sectors,24208.056,million kilowatt hours
+2013,IL,Illinois,ALL,all sectors,141804.88801,million kilowatt hours
+2013,IN,Indiana,ALL,all sectors,105487.38895,million kilowatt hours
+2013,KS,Kansas,ALL,all sectors,39847.39707,million kilowatt hours
+2013,KY,Kentucky,ALL,all sectors,84763.84199,million kilowatt hours
+2013,LA,Louisiana,ALL,all sectors,85807.932,million kilowatt hours
+2013,MA,Massachusetts,ALL,all sectors,55265.07402,million kilowatt hours
+2013,MAT,Middle Atlantic,ALL,all sectors,368791.28898,million kilowatt hours
+2013,MD,Maryland,ALL,all sectors,61899.478,million kilowatt hours
+2013,ME,Maine,ALL,all sectors,11855.047,million kilowatt hours
+2013,MI,Michigan,ALL,all sectors,103038.30501,million kilowatt hours
+2013,MN,Minnesota,ALL,all sectors,68644.10298,million kilowatt hours
+2013,MO,Missouri,ALL,all sectors,83406.95701,million kilowatt hours
+2013,MS,Mississippi,ALL,all sectors,48781.99,million kilowatt hours
+2013,MT,Montana,ALL,all sectors,14045.17398,million kilowatt hours
+2013,MTN,Mountain,ALL,all sectors,273160.70505,million kilowatt hours
+2013,NC,North Carolina,ALL,all sectors,129779.90503,million kilowatt hours
+2013,ND,North Dakota,ALL,all sectors,16032.96699,million kilowatt hours
+2013,NE,Nebraska,ALL,all sectors,30700.605,million kilowatt hours
+2013,NEW,New England,ALL,all sectors,121356.74701,million kilowatt hours
+2013,NH,New Hampshire,ALL,all sectors,11043.27599,million kilowatt hours
+2013,NJ,New Jersey,ALL,all sectors,74642.399,million kilowatt hours
+2013,NM,New Mexico,ALL,all sectors,23065.026,million kilowatt hours
+2013,NV,Nevada,ALL,all sectors,35211.21501,million kilowatt hours
+2013,NY,New York,ALL,all sectors,147895.127,million kilowatt hours
+2013,OH,Ohio,ALL,all sectors,150307.01803,million kilowatt hours
+2013,OK,Oklahoma,ALL,all sectors,59929.17199,million kilowatt hours
+2013,OR,Oregon,ALL,all sectors,47640.97802,million kilowatt hours
+2013,PA,Pennsylvania,ALL,all sectors,146253.76298,million kilowatt hours
+2013,PACC,Pacific Contiguous,ALL,all sectors,401856.15998,million kilowatt hours
+2013,PACN,Pacific Noncontiguous,ALL,all sectors,15771.376,million kilowatt hours
+2013,RI,Rhode Island,ALL,all sectors,7781.122,million kilowatt hours
+2013,SAT,South Atlantic,ALL,all sectors,787043.51302,million kilowatt hours
+2013,SC,South Carolina,ALL,all sectors,78602.094,million kilowatt hours
+2013,SD,South Dakota,ALL,all sectors,12209.79897,million kilowatt hours
+2013,TN,Tennessee,ALL,all sectors,96944.013,million kilowatt hours
+2013,TX,Texas,ALL,all sectors,378817.25403,million kilowatt hours
+2013,US,U.S. Total,ALL,all sectors,3724867.82101,million kilowatt hours
+2013,UT,Utah,ALL,all sectors,30474.03402,million kilowatt hours
+2013,VA,Virginia,ALL,all sectors,110511.82701,million kilowatt hours
+2013,VT,Vermont,ALL,all sectors,5587.712,million kilowatt hours
+2013,WA,Washington,ALL,all sectors,92882.72298,million kilowatt hours
+2013,WI,Wisconsin,ALL,all sectors,69124.04299,million kilowatt hours
+2013,WNC,West North Central,ALL,all sectors,297547.04397,million kilowatt hours
+2013,WSC,West South Central,ALL,all sectors,571237.39202,million kilowatt hours
+2013,WV,West Virginia,ALL,all sectors,31399.85,million kilowatt hours
+2013,WY,Wyoming,ALL,all sectors,17053.514,million kilowatt hours
+2014,AK,Alaska,ALL,all sectors,6164.812,million kilowatt hours
+2014,AL,Alabama,ALL,all sectors,90493.72702,million kilowatt hours
+2014,AR,Arkansas,ALL,all sectors,47080.30101,million kilowatt hours
+2014,AZ,Arizona,ALL,all sectors,76297.68499,million kilowatt hours
+2014,CA,California,ALL,all sectors,262584.78602,million kilowatt hours
+2014,CO,Colorado,ALL,all sectors,53396.52101,million kilowatt hours
+2014,CT,Connecticut,ALL,all sectors,29354.46,million kilowatt hours
+2014,DC,District of Columbia,ALL,all sectors,11193.589,million kilowatt hours
+2014,DE,Delaware,ALL,all sectors,11338.47699,million kilowatt hours
+2014,ENC,East North Central,ALL,all sectors,571971.35707,million kilowatt hours
+2014,ESC,East South Central,ALL,all sectors,318960.51197,million kilowatt hours
+2014,FL,Florida,ALL,all sectors,226078.111,million kilowatt hours
+2014,GA,Georgia,ALL,all sectors,135789.932,million kilowatt hours
+2014,HI,Hawaii,ALL,all sectors,9475.452,million kilowatt hours
+2014,IA,Iowa,ALL,all sectors,47201.85298,million kilowatt hours
+2014,ID,Idaho,ALL,all sectors,23233.28401,million kilowatt hours
+2014,IL,Illinois,ALL,all sectors,141540.28703,million kilowatt hours
+2014,IN,Indiana,ALL,all sectors,106942.50403,million kilowatt hours
+2014,KS,Kansas,ALL,all sectors,40561.606,million kilowatt hours
+2014,KY,Kentucky,ALL,all sectors,78838.92398,million kilowatt hours
+2014,LA,Louisiana,ALL,all sectors,90628.31601,million kilowatt hours
+2014,MA,Massachusetts,ALL,all sectors,54469.292,million kilowatt hours
+2014,MAT,Middle Atlantic,ALL,all sectors,367925.689,million kilowatt hours
+2014,MD,Maryland,ALL,all sectors,61683.86901,million kilowatt hours
+2014,ME,Maine,ALL,all sectors,12002.66101,million kilowatt hours
+2014,MI,Michigan,ALL,all sectors,103314.09801,million kilowatt hours
+2014,MN,Minnesota,ALL,all sectors,68719.36702,million kilowatt hours
+2014,MO,Missouri,ALL,all sectors,83878.39692,million kilowatt hours
+2014,MS,Mississippi,ALL,all sectors,49408.63098,million kilowatt hours
+2014,MT,Montana,ALL,all sectors,14102.39199,million kilowatt hours
+2014,MTN,Mountain,ALL,all sectors,272397.80404,million kilowatt hours
+2014,NC,North Carolina,ALL,all sectors,133132.77596,million kilowatt hours
+2014,ND,North Dakota,ALL,all sectors,18239.73201,million kilowatt hours
+2014,NE,Nebraska,ALL,all sectors,30222.16801,million kilowatt hours
+2014,NEW,New England,ALL,all sectors,119983.45899,million kilowatt hours
+2014,NH,New Hampshire,ALL,all sectors,10944.081,million kilowatt hours
+2014,NJ,New Jersey,ALL,all sectors,73866.07801,million kilowatt hours
+2014,NM,New Mexico,ALL,all sectors,23115.222,million kilowatt hours
+2014,NV,Nevada,ALL,all sectors,35075.60601,million kilowatt hours
+2014,NY,New York,ALL,all sectors,147371.91299,million kilowatt hours
+2014,OH,Ohio,ALL,all sectors,150679.71301,million kilowatt hours
+2014,OK,Oklahoma,ALL,all sectors,61573.37402,million kilowatt hours
+2014,OR,Oregon,ALL,all sectors,47334.95301,million kilowatt hours
+2014,PA,Pennsylvania,ALL,all sectors,146687.698,million kilowatt hours
+2014,PACC,Pacific Contiguous,ALL,all sectors,402060.51602,million kilowatt hours
+2014,PACN,Pacific Noncontiguous,ALL,all sectors,15640.264,million kilowatt hours
+2014,RI,Rhode Island,ALL,all sectors,7643.104,million kilowatt hours
+2014,SAT,South Atlantic,ALL,all sectors,805631.00593,million kilowatt hours
+2014,SC,South Carolina,ALL,all sectors,81619.765,million kilowatt hours
+2014,SD,South Dakota,ALL,all sectors,12354.726,million kilowatt hours
+2014,TN,Tennessee,ALL,all sectors,100219.23,million kilowatt hours
+2014,TX,Texas,ALL,all sectors,389669.82,million kilowatt hours
+2014,US,U.S. Total,ALL,all sectors,3764700.267,million kilowatt hours
+2014,UT,Utah,ALL,all sectors,30043.01902,million kilowatt hours
+2014,VA,Virginia,ALL,all sectors,112098.38099,million kilowatt hours
+2014,VT,Vermont,ALL,all sectors,5569.86099,million kilowatt hours
+2014,WA,Washington,ALL,all sectors,92140.77699,million kilowatt hours
+2014,WI,Wisconsin,ALL,all sectors,69494.75499,million kilowatt hours
+2014,WNC,West North Central,ALL,all sectors,301177.84894,million kilowatt hours
+2014,WSC,West South Central,ALL,all sectors,588951.81104,million kilowatt hours
+2014,WV,West Virginia,ALL,all sectors,32696.106,million kilowatt hours
+2014,WY,Wyoming,ALL,all sectors,17134.07502,million kilowatt hours
+2015,AK,Alaska,ALL,all sectors,6159.204,million kilowatt hours
+2015,AL,Alabama,ALL,all sectors,88845.543,million kilowatt hours
+2015,AR,Arkansas,ALL,all sectors,46465.15402,million kilowatt hours
+2015,AZ,Arizona,ALL,all sectors,77349.41596,million kilowatt hours
+2015,CA,California,ALL,all sectors,261170.43699,million kilowatt hours
+2015,CO,Colorado,ALL,all sectors,54116.04599,million kilowatt hours
+2015,CT,Connecticut,ALL,all sectors,29476.15501,million kilowatt hours
+2015,DC,District of Columbia,ALL,all sectors,11291.23301,million kilowatt hours
+2015,DE,Delaware,ALL,all sectors,11498.205,million kilowatt hours
+2015,ENC,East North Central,ALL,all sectors,563526.56484,million kilowatt hours
+2015,ESC,East South Central,ALL,all sectors,313207.80997,million kilowatt hours
+2015,FL,Florida,ALL,all sectors,235599.39798,million kilowatt hours
+2015,GA,Georgia,ALL,all sectors,135878.215,million kilowatt hours
+2015,HI,Hawaii,ALL,all sectors,9511.352,million kilowatt hours
+2015,IA,Iowa,ALL,all sectors,47147.29285,million kilowatt hours
+2015,ID,Idaho,ALL,all sectors,23058.81399,million kilowatt hours
+2015,IL,Illinois,ALL,all sectors,138619.97,million kilowatt hours
+2015,IN,Indiana,ALL,all sectors,104514.51798,million kilowatt hours
+2015,KS,Kansas,ALL,all sectors,39849.127,million kilowatt hours
+2015,KY,Kentucky,ALL,all sectors,76038.62998,million kilowatt hours
+2015,LA,Louisiana,ALL,all sectors,91676.48901,million kilowatt hours
+2015,MA,Massachusetts,ALL,all sectors,54621.08801,million kilowatt hours
+2015,MAT,Middle Atlantic,ALL,all sectors,370747.30605,million kilowatt hours
+2015,MD,Maryland,ALL,all sectors,61781.71901,million kilowatt hours
+2015,ME,Maine,ALL,all sectors,11888.168,million kilowatt hours
+2015,MI,Michigan,ALL,all sectors,102479.92097,million kilowatt hours
+2015,MN,Minnesota,ALL,all sectors,66579.23387,million kilowatt hours
+2015,MO,Missouri,ALL,all sectors,81504.081,million kilowatt hours
+2015,MS,Mississippi,ALL,all sectors,48691.52902,million kilowatt hours
+2015,MT,Montana,ALL,all sectors,14206.911,million kilowatt hours
+2015,MTN,Mountain,ALL,all sectors,274961.54193,million kilowatt hours
+2015,NC,North Carolina,ALL,all sectors,133847.52299,million kilowatt hours
+2015,ND,North Dakota,ALL,all sectors,18128.94799,million kilowatt hours
+2015,NE,Nebraska,ALL,all sectors,29495.07292,million kilowatt hours
+2015,NEW,New England,ALL,all sectors,120170.38702,million kilowatt hours
+2015,NH,New Hampshire,ALL,all sectors,10999.149,million kilowatt hours
+2015,NJ,New Jersey,ALL,all sectors,75489.62301,million kilowatt hours
+2015,NM,New Mexico,ALL,all sectors,23093.55301,million kilowatt hours
+2015,NV,Nevada,ALL,all sectors,36019.69,million kilowatt hours
+2015,NY,New York,ALL,all sectors,148913.65506,million kilowatt hours
+2015,OH,Ohio,ALL,all sectors,149213.22396,million kilowatt hours
+2015,OK,Oklahoma,ALL,all sectors,61336.38499,million kilowatt hours
+2015,OR,Oregon,ALL,all sectors,47263.97396,million kilowatt hours
+2015,PA,Pennsylvania,ALL,all sectors,146344.02799,million kilowatt hours
+2015,PACC,Pacific Contiguous,ALL,all sectors,398550.49692,million kilowatt hours
+2015,PACN,Pacific Noncontiguous,ALL,all sectors,15670.55601,million kilowatt hours
+2015,RI,Rhode Island,ALL,all sectors,7664.718,million kilowatt hours
+2015,SAT,South Atlantic,ALL,all sectors,815536.60998,million kilowatt hours
+2015,SC,South Carolina,ALL,all sectors,81328.246,million kilowatt hours
+2015,SD,South Dakota,ALL,all sectors,12101.979,million kilowatt hours
+2015,TN,Tennessee,ALL,all sectors,99632.10797,million kilowatt hours
+2015,TX,Texas,ALL,all sectors,392337.35401,million kilowatt hours
+2015,US,U.S. Total,ALL,all sectors,3758992.38936,million kilowatt hours
+2015,UT,Utah,ALL,all sectors,30192.34999,million kilowatt hours
+2015,VA,Virginia,ALL,all sectors,112009.04499,million kilowatt hours
+2015,VT,Vermont,ALL,all sectors,5521.10901,million kilowatt hours
+2015,WA,Washington,ALL,all sectors,90116.08597,million kilowatt hours
+2015,WI,Wisconsin,ALL,all sectors,68698.93192,million kilowatt hours
+2015,WNC,West North Central,ALL,all sectors,294805.73463,million kilowatt hours
+2015,WSC,West South Central,ALL,all sectors,591815.38202,million kilowatt hours
+2015,WV,West Virginia,ALL,all sectors,32303.026,million kilowatt hours
+2015,WY,Wyoming,ALL,all sectors,16924.76199,million kilowatt hours
+2016,AK,Alaska,ALL,all sectors,6123.20202,million kilowatt hours
+2016,AL,Alabama,ALL,all sectors,88225.141,million kilowatt hours
+2016,AR,Arkansas,ALL,all sectors,46188.438,million kilowatt hours
+2016,AZ,Arizona,ALL,all sectors,78237.82802,million kilowatt hours
+2016,CA,California,ALL,all sectors,256846.63497,million kilowatt hours
+2016,CO,Colorado,ALL,all sectors,54802.03698,million kilowatt hours
+2016,CT,Connecticut,ALL,all sectors,28931.087,million kilowatt hours
+2016,DC,District of Columbia,ALL,all sectors,11394.003,million kilowatt hours
+2016,DE,Delaware,ALL,all sectors,11258.438,million kilowatt hours
+2016,ENC,East North Central,ALL,all sectors,569557.17701,million kilowatt hours
+2016,ESC,East South Central,ALL,all sectors,312587.31901,million kilowatt hours
+2016,FL,Florida,ALL,all sectors,235721.822,million kilowatt hours
+2016,GA,Georgia,ALL,all sectors,138112.239,million kilowatt hours
+2016,HI,Hawaii,ALL,all sectors,9445.389,million kilowatt hours
+2016,IA,Iowa,ALL,all sectors,48431.19301,million kilowatt hours
+2016,ID,Idaho,ALL,all sectors,23062.96099,million kilowatt hours
+2016,IL,Illinois,ALL,all sectors,141050.40899,million kilowatt hours
+2016,IN,Indiana,ALL,all sectors,103704.82099,million kilowatt hours
+2016,KS,Kansas,ALL,all sectors,40810.17399,million kilowatt hours
+2016,KY,Kentucky,ALL,all sectors,74553.575,million kilowatt hours
+2016,LA,Louisiana,ALL,all sectors,91452.659,million kilowatt hours
+2016,MA,Massachusetts,ALL,all sectors,53475.888,million kilowatt hours
+2016,MAT,Middle Atlantic,ALL,all sectors,368490.09199,million kilowatt hours
+2016,MD,Maryland,ALL,all sectors,61353.91101,million kilowatt hours
+2016,ME,Maine,ALL,all sectors,11448.951,million kilowatt hours
+2016,MI,Michigan,ALL,all sectors,104467.81301,million kilowatt hours
+2016,MN,Minnesota,ALL,all sectors,66546.49198,million kilowatt hours
+2016,MO,Missouri,ALL,all sectors,78618.05597,million kilowatt hours
+2016,MS,Mississippi,ALL,all sectors,49050.16399,million kilowatt hours
+2016,MT,Montana,ALL,all sectors,14100.60102,million kilowatt hours
+2016,MTN,Mountain,ALL,all sectors,276122.00804,million kilowatt hours
+2016,NC,North Carolina,ALL,all sectors,134404.31899,million kilowatt hours
+2016,ND,North Dakota,ALL,all sectors,18520.18799,million kilowatt hours
+2016,NE,Nebraska,ALL,all sectors,30199.35404,million kilowatt hours
+2016,NEW,New England,ALL,all sectors,117801.602,million kilowatt hours
+2016,NH,New Hampshire,ALL,all sectors,10904.95599,million kilowatt hours
+2016,NJ,New Jersey,ALL,all sectors,75359.37099,million kilowatt hours
+2016,NM,New Mexico,ALL,all sectors,23039.54701,million kilowatt hours
+2016,NV,Nevada,ALL,all sectors,36144.63,million kilowatt hours
+2016,NY,New York,ALL,all sectors,147803.03801,million kilowatt hours
+2016,OH,Ohio,ALL,all sectors,150597.79604,million kilowatt hours
+2016,OK,Oklahoma,ALL,all sectors,61516.554,million kilowatt hours
+2016,OR,Oregon,ALL,all sectors,47349.34999,million kilowatt hours
+2016,PA,Pennsylvania,ALL,all sectors,145327.68299,million kilowatt hours
+2016,PACC,Pacific Contiguous,ALL,all sectors,393081.30096,million kilowatt hours
+2016,PACN,Pacific Noncontiguous,ALL,all sectors,15568.59102,million kilowatt hours
+2016,RI,Rhode Island,ALL,all sectors,7524.27,million kilowatt hours
+2016,SAT,South Atlantic,ALL,all sectors,816179.09299,million kilowatt hours
+2016,SC,South Carolina,ALL,all sectors,79577.54999,million kilowatt hours
+2016,SD,South Dakota,ALL,all sectors,12129.53002,million kilowatt hours
+2016,TN,Tennessee,ALL,all sectors,100758.43902,million kilowatt hours
+2016,TX,Texas,ALL,all sectors,398661.80878,million kilowatt hours
+2016,US,U.S. Total,ALL,all sectors,3762461.6298,million kilowatt hours
+2016,UT,Utah,ALL,all sectors,30179.53403,million kilowatt hours
+2016,VA,Virginia,ALL,all sectors,112280.66501,million kilowatt hours
+2016,VT,Vermont,ALL,all sectors,5516.45001,million kilowatt hours
+2016,WA,Washington,ALL,all sectors,88885.316,million kilowatt hours
+2016,WI,Wisconsin,ALL,all sectors,69736.33799,million kilowatt hours
+2016,WNC,West North Central,ALL,all sectors,295254.98699,million kilowatt hours
+2016,WSC,West South Central,ALL,all sectors,597819.45979,million kilowatt hours
+2016,WV,West Virginia,ALL,all sectors,32076.14599,million kilowatt hours
+2016,WY,Wyoming,ALL,all sectors,16554.87,million kilowatt hours
+2017,AK,Alaska,ALL,all sectors,6185.799,million kilowatt hours
+2017,AL,Alabama,ALL,all sectors,86241.73001,million kilowatt hours
+2017,AR,Arkansas,ALL,all sectors,46085.95101,million kilowatt hours
+2017,AZ,Arizona,ALL,all sectors,77646.26201,million kilowatt hours
+2017,CA,California,ALL,all sectors,257267.93701,million kilowatt hours
+2017,CO,Colorado,ALL,all sectors,54830.186,million kilowatt hours
+2017,CT,Connecticut,ALL,all sectors,28135.52999,million kilowatt hours
+2017,DC,District of Columbia,ALL,all sectors,10916.446,million kilowatt hours
+2017,DE,Delaware,ALL,all sectors,11128.60301,million kilowatt hours
+2017,ENC,East North Central,ALL,all sectors,553784.31099,million kilowatt hours
+2017,ESC,East South Central,ALL,all sectors,303944.78898,million kilowatt hours
+2017,FL,Florida,ALL,all sectors,233154.549,million kilowatt hours
+2017,GA,Georgia,ALL,all sectors,133456.62,million kilowatt hours
+2017,HI,Hawaii,ALL,all sectors,9324.20101,million kilowatt hours
+2017,IA,Iowa,ALL,all sectors,48921.99695,million kilowatt hours
+2017,ID,Idaho,ALL,all sectors,23793.78999,million kilowatt hours
+2017,IL,Illinois,ALL,all sectors,137196.31001,million kilowatt hours
+2017,IN,Indiana,ALL,all sectors,98965.968,million kilowatt hours
+2017,KS,Kansas,ALL,all sectors,40287.78698,million kilowatt hours
+2017,KY,Kentucky,ALL,all sectors,72634.38698,million kilowatt hours
+2017,LA,Louisiana,ALL,all sectors,91205.935,million kilowatt hours
+2017,MA,Massachusetts,ALL,all sectors,52513.32101,million kilowatt hours
+2017,MAT,Middle Atlantic,ALL,all sectors,361366.269,million kilowatt hours
+2017,MD,Maryland,ALL,all sectors,59303.885,million kilowatt hours
+2017,ME,Maine,ALL,all sectors,11213.674,million kilowatt hours
+2017,MI,Michigan,ALL,all sectors,101899.09299,million kilowatt hours
+2017,MN,Minnesota,ALL,all sectors,67152.57997,million kilowatt hours
+2017,MO,Missouri,ALL,all sectors,76461.41902,million kilowatt hours
+2017,MS,Mississippi,ALL,all sectors,47828.787,million kilowatt hours
+2017,MT,Montana,ALL,all sectors,14709.65602,million kilowatt hours
+2017,MTN,Mountain,ALL,all sectors,278014.35202,million kilowatt hours
+2017,NC,North Carolina,ALL,all sectors,131421.31898,million kilowatt hours
+2017,ND,North Dakota,ALL,all sectors,20140.42599,million kilowatt hours
+2017,NE,Nebraska,ALL,all sectors,30359.00702,million kilowatt hours
+2017,NEW,New England,ALL,all sectors,115458.11898,million kilowatt hours
+2017,NH,New Hampshire,ALL,all sectors,10787.26099,million kilowatt hours
+2017,NJ,New Jersey,ALL,all sectors,73382.94,million kilowatt hours
+2017,NM,New Mexico,ALL,all sectors,23009.58399,million kilowatt hours
+2017,NV,Nevada,ALL,all sectors,36657.786,million kilowatt hours
+2017,NY,New York,ALL,all sectors,144992.43302,million kilowatt hours
+2017,OH,Ohio,ALL,all sectors,146643.83102,million kilowatt hours
+2017,OK,Oklahoma,ALL,all sectors,60492.12799,million kilowatt hours
+2017,OR,Oregon,ALL,all sectors,50043.81603,million kilowatt hours
+2017,PA,Pennsylvania,ALL,all sectors,142990.89598,million kilowatt hours
+2017,PACC,Pacific Contiguous,ALL,all sectors,399259.92504,million kilowatt hours
+2017,PACN,Pacific Noncontiguous,ALL,all sectors,15510.00001,million kilowatt hours
+2017,RI,Rhode Island,ALL,all sectors,7384.671,million kilowatt hours
+2017,SAT,South Atlantic,ALL,all sectors,800716.93001,million kilowatt hours
+2017,SC,South Carolina,ALL,all sectors,78096.757,million kilowatt hours
+2017,SD,South Dakota,ALL,all sectors,12313.67503,million kilowatt hours
+2017,TN,Tennessee,ALL,all sectors,97239.88499,million kilowatt hours
+2017,TX,Texas,ALL,all sectors,401880.37401,million kilowatt hours
+2017,US,U.S. Total,ALL,all sectors,3723355.97399,million kilowatt hours
+2017,UT,Utah,ALL,all sectors,30589.02102,million kilowatt hours
+2017,VA,Virginia,ALL,all sectors,111529.73201,million kilowatt hours
+2017,VT,Vermont,ALL,all sectors,5423.662,million kilowatt hours
+2017,WA,Washington,ALL,all sectors,91948.17201,million kilowatt hours
+2017,WI,Wisconsin,ALL,all sectors,69079.10897,million kilowatt hours
+2017,WNC,West North Central,ALL,all sectors,295636.89095,million kilowatt hours
+2017,WSC,West South Central,ALL,all sectors,599664.38801,million kilowatt hours
+2017,WV,West Virginia,ALL,all sectors,31709.019,million kilowatt hours
+2017,WY,Wyoming,ALL,all sectors,16778.06699,million kilowatt hours
+2018,AK,Alaska,ALL,all sectors,5972.46698,million kilowatt hours
+2018,AL,Alabama,ALL,all sectors,90280.456,million kilowatt hours
+2018,AR,Arkansas,ALL,all sectors,49602.70798,million kilowatt hours
+2018,AZ,Arizona,ALL,all sectors,78346.30199,million kilowatt hours
+2018,CA,California,ALL,all sectors,255224.27197,million kilowatt hours
+2018,CO,Colorado,ALL,all sectors,56450.48002,million kilowatt hours
+2018,CT,Connecticut,ALL,all sectors,28833.925,million kilowatt hours
+2018,DC,District of Columbia,ALL,all sectors,11357.91,million kilowatt hours
+2018,DE,Delaware,ALL,all sectors,11773.1,million kilowatt hours
+2018,ENC,East North Central,ALL,all sectors,575593.396,million kilowatt hours
+2018,ESC,East South Central,ALL,all sectors,320192.34294,million kilowatt hours
+2018,FL,Florida,ALL,all sectors,238565.391,million kilowatt hours
+2018,GA,Georgia,ALL,all sectors,139866.07398,million kilowatt hours
+2018,HI,Hawaii,ALL,all sectors,9337.161,million kilowatt hours
+2018,IA,Iowa,ALL,all sectors,51210.655,million kilowatt hours
+2018,ID,Idaho,ALL,all sectors,23753.50799,million kilowatt hours
+2018,IL,Illinois,ALL,all sectors,142654.80801,million kilowatt hours
+2018,IN,Indiana,ALL,all sectors,104194.376,million kilowatt hours
+2018,KS,Kansas,ALL,all sectors,42036.97904,million kilowatt hours
+2018,KY,Kentucky,ALL,all sectors,76610.63597,million kilowatt hours
+2018,LA,Louisiana,ALL,all sectors,94186.07201,million kilowatt hours
+2018,MA,Massachusetts,ALL,all sectors,53285.02903,million kilowatt hours
+2018,MAT,Middle Atlantic,ALL,all sectors,374923.344,million kilowatt hours
+2018,MD,Maryland,ALL,all sectors,62086.45499,million kilowatt hours
+2018,ME,Maine,ALL,all sectors,12354.819,million kilowatt hours
+2018,MI,Michigan,ALL,all sectors,104869.49602,million kilowatt hours
+2018,MN,Minnesota,ALL,all sectors,68708.38199,million kilowatt hours
+2018,MO,Missouri,ALL,all sectors,82055.835,million kilowatt hours
+2018,MS,Mississippi,ALL,all sectors,50390.06798,million kilowatt hours
+2018,MT,Montana,ALL,all sectors,14838.84499,million kilowatt hours
+2018,MTN,Mountain,ALL,all sectors,283325.09497,million kilowatt hours
+2018,NC,North Carolina,ALL,all sectors,138287.404,million kilowatt hours
+2018,ND,North Dakota,ALL,all sectors,20669.50599,million kilowatt hours
+2018,NE,Nebraska,ALL,all sectors,30939.49201,million kilowatt hours
+2018,NEW,New England,ALL,all sectors,118634.34401,million kilowatt hours
+2018,NH,New Hampshire,ALL,all sectors,11046.28399,million kilowatt hours
+2018,NJ,New Jersey,ALL,all sectors,76016.762,million kilowatt hours
+2018,NM,New Mexico,ALL,all sectors,24048.61099,million kilowatt hours
+2018,NV,Nevada,ALL,all sectors,37780.26301,million kilowatt hours
+2018,NY,New York,ALL,all sectors,149929.851,million kilowatt hours
+2018,OH,Ohio,ALL,all sectors,152915.16698,million kilowatt hours
+2018,OK,Oklahoma,ALL,all sectors,64575.31599,million kilowatt hours
+2018,OR,Oregon,ALL,all sectors,49325.90401,million kilowatt hours
+2018,PA,Pennsylvania,ALL,all sectors,148976.73101,million kilowatt hours
+2018,PACC,Pacific Contiguous,ALL,all sectors,394555.96696,million kilowatt hours
+2018,PACN,Pacific Noncontiguous,ALL,all sectors,15309.62798,million kilowatt hours
+2018,RI,Rhode Island,ALL,all sectors,7583.339,million kilowatt hours
+2018,SAT,South Atlantic,ALL,all sectors,835390.63299,million kilowatt hours
+2018,SC,South Carolina,ALL,all sectors,81641.13799,million kilowatt hours
+2018,SD,South Dakota,ALL,all sectors,12856.93799,million kilowatt hours
+2018,TN,Tennessee,ALL,all sectors,102911.18299,million kilowatt hours
+2018,TX,Texas,ALL,all sectors,424418.628,million kilowatt hours
+2018,US,U.S. Total,ALL,all sectors,3859185.26084,million kilowatt hours
+2018,UT,Utah,ALL,all sectors,31242.408,million kilowatt hours
+2018,VA,Virginia,ALL,all sectors,118166.34802,million kilowatt hours
+2018,VT,Vermont,ALL,all sectors,5530.94799,million kilowatt hours
+2018,WA,Washington,ALL,all sectors,90005.79099,million kilowatt hours
+2018,WI,Wisconsin,ALL,all sectors,70959.54899,million kilowatt hours
+2018,WNC,West North Central,ALL,all sectors,308477.78702,million kilowatt hours
+2018,WSC,West South Central,ALL,all sectors,632782.72398,million kilowatt hours
+2018,WV,West Virginia,ALL,all sectors,33646.813,million kilowatt hours
+2018,WY,Wyoming,ALL,all sectors,16864.67799,million kilowatt hours
+2019,AK,Alaska,ALL,all sectors,5818.80503,million kilowatt hours
+2019,AL,Alabama,ALL,all sectors,88095.11201,million kilowatt hours
+2019,AR,Arkansas,ALL,all sectors,48093.03199,million kilowatt hours
+2019,AZ,Arizona,ALL,all sectors,77929.17002,million kilowatt hours
+2019,CA,California,ALL,all sectors,250378.71,million kilowatt hours
+2019,CO,Colorado,ALL,all sectors,56520.82299,million kilowatt hours
+2019,CT,Connecticut,ALL,all sectors,27899.996,million kilowatt hours
+2019,DC,District of Columbia,ALL,all sectors,11028.403,million kilowatt hours
+2019,DE,Delaware,ALL,all sectors,11469.42199,million kilowatt hours
+2019,ENC,East North Central,ALL,all sectors,559352.43704,million kilowatt hours
+2019,ESC,East South Central,ALL,all sectors,312220.62,million kilowatt hours
+2019,FL,Florida,ALL,all sectors,240347.95505,million kilowatt hours
+2019,GA,Georgia,ALL,all sectors,139300.98999,million kilowatt hours
+2019,HI,Hawaii,ALL,all sectors,9452.88701,million kilowatt hours
+2019,IA,Iowa,ALL,all sectors,51043.14802,million kilowatt hours
+2019,ID,Idaho,ALL,all sectors,23985.275,million kilowatt hours
+2019,IL,Illinois,ALL,all sectors,138319.48099,million kilowatt hours
+2019,IN,Indiana,ALL,all sectors,102104.20303,million kilowatt hours
+2019,KS,Kansas,ALL,all sectors,41159.62798,million kilowatt hours
+2019,KY,Kentucky,ALL,all sectors,75345.382,million kilowatt hours
+2019,LA,Louisiana,ALL,all sectors,93128.52501,million kilowatt hours
+2019,MA,Massachusetts,ALL,all sectors,51336.59799,million kilowatt hours
+2019,MAT,Middle Atlantic,ALL,all sectors,365097.43195,million kilowatt hours
+2019,MD,Maryland,ALL,all sectors,60720.658,million kilowatt hours
+2019,ME,Maine,ALL,all sectors,11732.04,million kilowatt hours
+2019,MI,Michigan,ALL,all sectors,101249.29298,million kilowatt hours
+2019,MN,Minnesota,ALL,all sectors,66965.594,million kilowatt hours
+2019,MO,Missouri,ALL,all sectors,78857.77499,million kilowatt hours
+2019,MS,Mississippi,ALL,all sectors,48951.026,million kilowatt hours
+2019,MT,Montana,ALL,all sectors,15321.27098,million kilowatt hours
+2019,MTN,Mountain,ALL,all sectors,283525.12003,million kilowatt hours
+2019,NC,North Carolina,ALL,all sectors,136435.53101,million kilowatt hours
+2019,ND,North Dakota,ALL,all sectors,21559.25501,million kilowatt hours
+2019,NE,Nebraska,ALL,all sectors,30383.19001,million kilowatt hours
+2019,NEW,New England,ALL,all sectors,114457.86999,million kilowatt hours
+2019,NH,New Hampshire,ALL,all sectors,10711.65701,million kilowatt hours
+2019,NJ,New Jersey,ALL,all sectors,73916.70397,million kilowatt hours
+2019,NM,New Mexico,ALL,all sectors,24880.134,million kilowatt hours
+2019,NV,Nevada,ALL,all sectors,36982.38601,million kilowatt hours
+2019,NY,New York,ALL,all sectors,145600.34501,million kilowatt hours
+2019,OH,Ohio,ALL,all sectors,148521.92005,million kilowatt hours
+2019,OK,Oklahoma,ALL,all sectors,64795.946,million kilowatt hours
+2019,OR,Oregon,ALL,all sectors,50404.38599,million kilowatt hours
+2019,PA,Pennsylvania,ALL,all sectors,145580.38298,million kilowatt hours
+2019,PACC,Pacific Contiguous,ALL,all sectors,391835.89197,million kilowatt hours
+2019,PACN,Pacific Noncontiguous,ALL,all sectors,15271.69204,million kilowatt hours
+2019,RI,Rhode Island,ALL,all sectors,7349.915,million kilowatt hours
+2019,SAT,South Atlantic,ALL,all sectors,831190.97203,million kilowatt hours
+2019,SC,South Carolina,ALL,all sectors,80205.62,million kilowatt hours
+2019,SD,South Dakota,ALL,all sectors,12868.93098,million kilowatt hours
+2019,TN,Tennessee,ALL,all sectors,99829.09999,million kilowatt hours
+2019,TX,Texas,ALL,all sectors,429343.40401,million kilowatt hours
+2019,US,U.S. Total,ALL,all sectors,3811150.46304,million kilowatt hours
+2019,UT,Utah,ALL,all sectors,31142.56502,million kilowatt hours
+2019,VA,Virginia,ALL,all sectors,118435.37999,million kilowatt hours
+2019,VT,Vermont,ALL,all sectors,5427.66399,million kilowatt hours
+2019,WA,Washington,ALL,all sectors,91052.79598,million kilowatt hours
+2019,WI,Wisconsin,ALL,all sectors,69157.53999,million kilowatt hours
+2019,WNC,West North Central,ALL,all sectors,302837.52098,million kilowatt hours
+2019,WSC,West South Central,ALL,all sectors,635360.90701,million kilowatt hours
+2019,WV,West Virginia,ALL,all sectors,33247.013,million kilowatt hours
+2019,WY,Wyoming,ALL,all sectors,16763.49601,million kilowatt hours
+2020,AK,Alaska,ALL,all sectors,5917.57699,million kilowatt hours
+2020,AL,Alabama,ALL,all sectors,83395.60502,million kilowatt hours
+2020,AR,Arkansas,ALL,all sectors,45851.00301,million kilowatt hours
+2020,AZ,Arizona,ALL,all sectors,81960.07401,million kilowatt hours
+2020,CA,California,ALL,all sectors,250174.67203,million kilowatt hours
+2020,CO,Colorado,ALL,all sectors,56050.26399,million kilowatt hours
+2020,CT,Connecticut,ALL,all sectors,27113.673,million kilowatt hours
+2020,DC,District of Columbia,ALL,all sectors,9785.775,million kilowatt hours
+2020,DE,Delaware,ALL,all sectors,11129.05101,million kilowatt hours
+2020,ENC,East North Central,ALL,all sectors,536700.48688,million kilowatt hours
+2020,ESC,East South Central,ALL,all sectors,296681.93199,million kilowatt hours
+2020,FL,Florida,ALL,all sectors,242440.17099,million kilowatt hours
+2020,GA,Georgia,ALL,all sectors,133470.14198,million kilowatt hours
+2020,HI,Hawaii,ALL,all sectors,8796.76099,million kilowatt hours
+2020,IA,Iowa,ALL,all sectors,50639.86205,million kilowatt hours
+2020,ID,Idaho,ALL,all sectors,24461.35199,million kilowatt hours
+2020,IL,Illinois,ALL,all sectors,132469.277,million kilowatt hours
+2020,IN,Indiana,ALL,all sectors,97155.74401,million kilowatt hours
+2020,KS,Kansas,ALL,all sectors,39483.94599,million kilowatt hours
+2020,KY,Kentucky,ALL,all sectors,71800.39901,million kilowatt hours
+2020,LA,Louisiana,ALL,all sectors,89126.68501,million kilowatt hours
+2020,MA,Massachusetts,ALL,all sectors,50009.34104,million kilowatt hours
+2020,MAT,Middle Atlantic,ALL,all sectors,352125.68998,million kilowatt hours
+2020,MD,Maryland,ALL,all sectors,57629.04001,million kilowatt hours
+2020,ME,Maine,ALL,all sectors,11346.74,million kilowatt hours
+2020,MI,Michigan,ALL,all sectors,97011.9058,million kilowatt hours
+2020,MN,Minnesota,ALL,all sectors,64054.60602,million kilowatt hours
+2020,MO,Missouri,ALL,all sectors,75725.71197,million kilowatt hours
+2020,MS,Mississippi,ALL,all sectors,46482.03998,million kilowatt hours
+2020,MT,Montana,ALL,all sectors,14584.179,million kilowatt hours
+2020,MTN,Mountain,ALL,all sectors,287061.098,million kilowatt hours
+2020,NC,North Carolina,ALL,all sectors,130390.97999,million kilowatt hours
+2020,ND,North Dakota,ALL,all sectors,21819.45199,million kilowatt hours
+2020,NE,Nebraska,ALL,all sectors,31171.53602,million kilowatt hours
+2020,NEW,New England,ALL,all sectors,111846.28204,million kilowatt hours
+2020,NH,New Hampshire,ALL,all sectors,10693.52901,million kilowatt hours
+2020,NJ,New Jersey,ALL,all sectors,71998.22099,million kilowatt hours
+2020,NM,New Mexico,ALL,all sectors,24777.15501,million kilowatt hours
+2020,NV,Nevada,ALL,all sectors,38233.89901,million kilowatt hours
+2020,NY,New York,ALL,all sectors,140406.63199,million kilowatt hours
+2020,OH,Ohio,ALL,all sectors,142615.19902,million kilowatt hours
+2020,OK,Oklahoma,ALL,all sectors,62299.30498,million kilowatt hours
+2020,OR,Oregon,ALL,all sectors,51019.31301,million kilowatt hours
+2020,PA,Pennsylvania,ALL,all sectors,139720.83699,million kilowatt hours
+2020,PACC,Pacific Contiguous,ALL,all sectors,387900.12903,million kilowatt hours
+2020,PACN,Pacific Noncontiguous,ALL,all sectors,14714.33798,million kilowatt hours
+2020,RI,Rhode Island,ALL,all sectors,7351.541,million kilowatt hours
+2020,SAT,South Atlantic,ALL,all sectors,810913.30596,million kilowatt hours
+2020,SC,South Carolina,ALL,all sectors,76737.17599,million kilowatt hours
+2020,SD,South Dakota,ALL,all sectors,12695.84499,million kilowatt hours
+2020,TN,Tennessee,ALL,all sectors,95003.88798,million kilowatt hours
+2020,TX,Texas,ALL,all sectors,426863.26697,million kilowatt hours
+2020,US,U.S. Total,ALL,all sectors,3717674.48088,million kilowatt hours
+2020,UT,Utah,ALL,all sectors,31663.15699,million kilowatt hours
+2020,VA,Virginia,ALL,all sectors,117254.388,million kilowatt hours
+2020,VT,Vermont,ALL,all sectors,5331.45801,million kilowatt hours
+2020,WA,Washington,ALL,all sectors,86706.144,million kilowatt hours
+2020,WI,Wisconsin,ALL,all sectors,67448.36105,million kilowatt hours
+2020,WNC,West North Central,ALL,all sectors,295590.95903,million kilowatt hours
+2020,WSC,West South Central,ALL,all sectors,624140.25997,million kilowatt hours
+2020,WV,West Virginia,ALL,all sectors,32076.583,million kilowatt hours
+2020,WY,Wyoming,ALL,all sectors,15331.018,million kilowatt hours
+2021,AK,Alaska,ALL,all sectors,5969.339,million kilowatt hours
+2021,AL,Alabama,ALL,all sectors,85585.166,million kilowatt hours
+2021,AR,Arkansas,ALL,all sectors,48663.14201,million kilowatt hours
+2021,AZ,Arizona,ALL,all sectors,81219.99,million kilowatt hours
+2021,CA,California,ALL,all sectors,247249.865,million kilowatt hours
+2021,CO,Colorado,ALL,all sectors,56351.209,million kilowatt hours
+2021,CT,Connecticut,ALL,all sectors,27737.606,million kilowatt hours
+2021,DC,District of Columbia,ALL,all sectors,10083.372,million kilowatt hours
+2021,DE,Delaware,ALL,all sectors,11479.65499,million kilowatt hours
+2021,ENC,East North Central,ALL,all sectors,552386.63994,million kilowatt hours
+2021,ESC,East South Central,ALL,all sectors,307738.653,million kilowatt hours
+2021,FL,Florida,ALL,all sectors,241562.08201,million kilowatt hours
+2021,GA,Georgia,ALL,all sectors,137363.95204,million kilowatt hours
+2021,HI,Hawaii,ALL,all sectors,8936.482,million kilowatt hours
+2021,IA,Iowa,ALL,all sectors,52893.26902,million kilowatt hours
+2021,ID,Idaho,ALL,all sectors,25285.616,million kilowatt hours
+2021,IL,Illinois,ALL,all sectors,135688.833,million kilowatt hours
+2021,IN,Indiana,ALL,all sectors,99740.04599,million kilowatt hours
+2021,KS,Kansas,ALL,all sectors,40491.78604,million kilowatt hours
+2021,KY,Kentucky,ALL,all sectors,74516.98602,million kilowatt hours
+2021,LA,Louisiana,ALL,all sectors,90819.34601,million kilowatt hours
+2021,MA,Massachusetts,ALL,all sectors,50798.38799,million kilowatt hours
+2021,MAT,Middle Atlantic,ALL,all sectors,357834.39814,million kilowatt hours
+2021,MD,Maryland,ALL,all sectors,59303.974,million kilowatt hours
+2021,ME,Maine,ALL,all sectors,11584.674,million kilowatt hours
+2021,MI,Michigan,ALL,all sectors,99813.28097,million kilowatt hours
+2021,MN,Minnesota,ALL,all sectors,66589.16797,million kilowatt hours
+2021,MO,Missouri,ALL,all sectors,77763.04101,million kilowatt hours
+2021,MS,Mississippi,ALL,all sectors,48015.36399,million kilowatt hours
+2021,MT,Montana,ALL,all sectors,14961.561,million kilowatt hours
+2021,MTN,Mountain,ALL,all sectors,290706.5,million kilowatt hours
+2021,NC,North Carolina,ALL,all sectors,135693.07701,million kilowatt hours
+2021,ND,North Dakota,ALL,all sectors,22863.10699,million kilowatt hours
+2021,NE,Nebraska,ALL,all sectors,32341.17002,million kilowatt hours
+2021,NEW,New England,ALL,all sectors,113798.63599,million kilowatt hours
+2021,NH,New Hampshire,ALL,all sectors,10867.26799,million kilowatt hours
+2021,NJ,New Jersey,ALL,all sectors,73070.46599,million kilowatt hours
+2021,NM,New Mexico,ALL,all sectors,25393.74299,million kilowatt hours
+2021,NV,Nevada,ALL,all sectors,39032.042,million kilowatt hours
+2021,NY,New York,ALL,all sectors,141423.77816,million kilowatt hours
+2021,OH,Ohio,ALL,all sectors,147717.86495,million kilowatt hours
+2021,OK,Oklahoma,ALL,all sectors,64525.137,million kilowatt hours
+2021,OR,Oregon,ALL,all sectors,54135.20501,million kilowatt hours
+2021,PA,Pennsylvania,ALL,all sectors,143340.15399,million kilowatt hours
+2021,PACC,Pacific Contiguous,ALL,all sectors,389583.73801,million kilowatt hours
+2021,PACN,Pacific Noncontiguous,ALL,all sectors,14905.821,million kilowatt hours
+2021,RI,Rhode Island,ALL,all sectors,7398.00399,million kilowatt hours
+2021,SAT,South Atlantic,ALL,all sectors,833301.43204,million kilowatt hours
+2021,SC,South Carolina,ALL,all sectors,79792.13601,million kilowatt hours
+2021,SD,South Dakota,ALL,all sectors,13041.39102,million kilowatt hours
+2021,TN,Tennessee,ALL,all sectors,99621.13698,million kilowatt hours
+2021,TX,Texas,ALL,all sectors,435627.87798,million kilowatt hours
+2021,US,U.S. Total,ALL,all sectors,3805874.25317,million kilowatt hours
+2021,UT,Utah,ALL,all sectors,32677.62701,million kilowatt hours
+2021,VA,Virginia,ALL,all sectors,125245.19598,million kilowatt hours
+2021,VT,Vermont,ALL,all sectors,5412.69602,million kilowatt hours
+2021,WA,Washington,ALL,all sectors,88198.668,million kilowatt hours
+2021,WI,Wisconsin,ALL,all sectors,69426.61502,million kilowatt hours
+2021,WNC,West North Central,ALL,all sectors,305982.93206,million kilowatt hours
+2021,WSC,West South Central,ALL,all sectors,639635.50299,million kilowatt hours
+2021,WV,West Virginia,ALL,all sectors,32777.98802,million kilowatt hours
+2021,WY,Wyoming,ALL,all sectors,15784.712,million kilowatt hours
+2022,AK,Alaska,ALL,all sectors,6002.08,million kilowatt hours
+2022,AL,Alabama,ALL,all sectors,87027.54499,million kilowatt hours
+2022,AR,Arkansas,ALL,all sectors,48997.66299,million kilowatt hours
+2022,AZ,Arizona,ALL,all sectors,84196.51702,million kilowatt hours
+2022,CA,California,ALL,all sectors,251869.136,million kilowatt hours
+2022,CO,Colorado,ALL,all sectors,56763.04099,million kilowatt hours
+2022,CT,Connecticut,ALL,all sectors,27767.146,million kilowatt hours
+2022,DC,District of Columbia,ALL,all sectors,10241.534,million kilowatt hours
+2022,DE,Delaware,ALL,all sectors,11539.27099,million kilowatt hours
+2022,ENC,East North Central,ALL,all sectors,555930.861,million kilowatt hours
+2022,ESC,East South Central,ALL,all sectors,313457.87099,million kilowatt hours
+2022,FL,Florida,ALL,all sectors,248820.80301,million kilowatt hours
+2022,GA,Georgia,ALL,all sectors,145035.20397,million kilowatt hours
+2022,HI,Hawaii,ALL,all sectors,9039.11501,million kilowatt hours
+2022,IA,Iowa,ALL,all sectors,54203.95499,million kilowatt hours
+2022,ID,Idaho,ALL,all sectors,26201.131,million kilowatt hours
+2022,IL,Illinois,ALL,all sectors,135871.58,million kilowatt hours
+2022,IN,Indiana,ALL,all sectors,100044.36496,million kilowatt hours
+2022,KS,Kansas,ALL,all sectors,41961.06503,million kilowatt hours
+2022,KY,Kentucky,ALL,all sectors,75338.74199,million kilowatt hours
+2022,LA,Louisiana,ALL,all sectors,95138.99799,million kilowatt hours
+2022,MA,Massachusetts,ALL,all sectors,50983.44001,million kilowatt hours
+2022,MAT,Middle Atlantic,ALL,all sectors,362697.84413,million kilowatt hours
+2022,MD,Maryland,ALL,all sectors,59682.71902,million kilowatt hours
+2022,ME,Maine,ALL,all sectors,11875.708,million kilowatt hours
+2022,MI,Michigan,ALL,all sectors,100639.26202,million kilowatt hours
+2022,MN,Minnesota,ALL,all sectors,66635.43002,million kilowatt hours
+2022,MO,Missouri,ALL,all sectors,80306.26002,million kilowatt hours
+2022,MS,Mississippi,ALL,all sectors,48979.533,million kilowatt hours
+2022,MT,Montana,ALL,all sectors,15583.78301,million kilowatt hours
+2022,MTN,Mountain,ALL,all sectors,299085.58699,million kilowatt hours
+2022,NC,North Carolina,ALL,all sectors,139206.76104,million kilowatt hours
+2022,ND,North Dakota,ALL,all sectors,25392.877,million kilowatt hours
+2022,NE,Nebraska,ALL,all sectors,33844.10502,million kilowatt hours
+2022,NEW,New England,ALL,all sectors,114491.17902,million kilowatt hours
+2022,NH,New Hampshire,ALL,all sectors,10818.13,million kilowatt hours
+2022,NJ,New Jersey,ALL,all sectors,74442.735,million kilowatt hours
+2022,NM,New Mexico,ALL,all sectors,27156.17798,million kilowatt hours
+2022,NV,Nevada,ALL,all sectors,39320.007,million kilowatt hours
+2022,NY,New York,ALL,all sectors,143210.51698,million kilowatt hours
+2022,OH,Ohio,ALL,all sectors,149499.78299,million kilowatt hours
+2022,OK,Oklahoma,ALL,all sectors,69486.94202,million kilowatt hours
+2022,OR,Oregon,ALL,all sectors,56326.89599,million kilowatt hours
+2022,PA,Pennsylvania,ALL,all sectors,145044.59215,million kilowatt hours
+2022,PACC,Pacific Contiguous,ALL,all sectors,399093.35197,million kilowatt hours
+2022,PACN,Pacific Noncontiguous,ALL,all sectors,15041.19501,million kilowatt hours
+2022,RI,Rhode Island,ALL,all sectors,7576.284,million kilowatt hours
+2022,SAT,South Atlantic,ALL,all sectors,862535.62906,million kilowatt hours
+2022,SC,South Carolina,ALL,all sectors,82758.43201,million kilowatt hours
+2022,SD,South Dakota,ALL,all sectors,13467.06401,million kilowatt hours
+2022,TN,Tennessee,ALL,all sectors,102112.05101,million kilowatt hours
+2022,TX,Texas,ALL,all sectors,475401.19206,million kilowatt hours
+2022,US,U.S. Total,ALL,all sectors,3927169.06933,million kilowatt hours
+2022,UT,Utah,ALL,all sectors,33365.50101,million kilowatt hours
+2022,VA,Virginia,ALL,all sectors,132264.61703,million kilowatt hours
+2022,VT,Vermont,ALL,all sectors,5470.47101,million kilowatt hours
+2022,WA,Washington,ALL,all sectors,90897.31998,million kilowatt hours
+2022,WI,Wisconsin,ALL,all sectors,69875.87103,million kilowatt hours
+2022,WNC,West North Central,ALL,all sectors,315810.7561,million kilowatt hours
+2022,WSC,West South Central,ALL,all sectors,689024.79506,million kilowatt hours
+2022,WV,West Virginia,ALL,all sectors,32986.288,million kilowatt hours
+2022,WY,Wyoming,ALL,all sectors,16499.42898,million kilowatt hours
+2023,AK,Alaska,ALL,all sectors,6024.59801,million kilowatt hours
+2023,AL,Alabama,ALL,all sectors,84880.35899,million kilowatt hours
+2023,AR,Arkansas,ALL,all sectors,48649.29999,million kilowatt hours
+2023,AZ,Arizona,ALL,all sectors,85918.79798,million kilowatt hours
+2023,CA,California,ALL,all sectors,239480.45202,million kilowatt hours
+2023,CO,Colorado,ALL,all sectors,55565.81899,million kilowatt hours
+2023,CT,Connecticut,ALL,all sectors,26685.176,million kilowatt hours
+2023,DC,District of Columbia,ALL,all sectors,9879.714,million kilowatt hours
+2023,DE,Delaware,ALL,all sectors,11081.67099,million kilowatt hours
+2023,ENC,East North Central,ALL,all sectors,539367.1441,million kilowatt hours
+2023,ESC,East South Central,ALL,all sectors,303571.14701,million kilowatt hours
+2023,FL,Florida,ALL,all sectors,250940.214,million kilowatt hours
+2023,GA,Georgia,ALL,all sectors,142028.83101,million kilowatt hours
+2023,HI,Hawaii,ALL,all sectors,8927.25201,million kilowatt hours
+2023,IA,Iowa,ALL,all sectors,54400.25902,million kilowatt hours
+2023,ID,Idaho,ALL,all sectors,25673.977,million kilowatt hours
+2023,IL,Illinois,ALL,all sectors,130578.21703,million kilowatt hours
+2023,IN,Indiana,ALL,all sectors,95995.35001,million kilowatt hours
+2023,KS,Kansas,ALL,all sectors,41052.008,million kilowatt hours
+2023,KY,Kentucky,ALL,all sectors,71223.02101,million kilowatt hours
+2023,LA,Louisiana,ALL,all sectors,95374.45701,million kilowatt hours
+2023,MA,Massachusetts,ALL,all sectors,50011.96399,million kilowatt hours
+2023,MAT,Middle Atlantic,ALL,all sectors,349229.86802,million kilowatt hours
+2023,MD,Maryland,ALL,all sectors,57033.08501,million kilowatt hours
+2023,ME,Maine,ALL,all sectors,11336.02999,million kilowatt hours
+2023,MI,Michigan,ALL,all sectors,97588.69001,million kilowatt hours
+2023,MN,Minnesota,ALL,all sectors,66215.80005,million kilowatt hours
+2023,MO,Missouri,ALL,all sectors,76975.79901,million kilowatt hours
+2023,MS,Mississippi,ALL,all sectors,48421.76201,million kilowatt hours
+2023,MT,Montana,ALL,all sectors,15504.69901,million kilowatt hours
+2023,MTN,Mountain,ALL,all sectors,299393.79003,million kilowatt hours
+2023,NC,North Carolina,ALL,all sectors,133091.10797,million kilowatt hours
+2023,ND,North Dakota,ALL,all sectors,28202.179,million kilowatt hours
+2023,NE,Nebraska,ALL,all sectors,33571.19901,million kilowatt hours
+2023,NEW,New England,ALL,all sectors,111329.29397,million kilowatt hours
+2023,NH,New Hampshire,ALL,all sectors,10631.31298,million kilowatt hours
+2023,NJ,New Jersey,ALL,all sectors,71096.93901,million kilowatt hours
+2023,NM,New Mexico,ALL,all sectors,28347.49003,million kilowatt hours
+2023,NV,Nevada,ALL,all sectors,38249.35501,million kilowatt hours
+2023,NY,New York,ALL,all sectors,139421.93598,million kilowatt hours
+2023,OH,Ohio,ALL,all sectors,146640.98305,million kilowatt hours
+2023,OK,Oklahoma,ALL,all sectors,68978.84001,million kilowatt hours
+2023,OR,Oregon,ALL,all sectors,57984.962,million kilowatt hours
+2023,PA,Pennsylvania,ALL,all sectors,138710.99303,million kilowatt hours
+2023,PACC,Pacific Contiguous,ALL,all sectors,387018.044,million kilowatt hours
+2023,PACN,Pacific Noncontiguous,ALL,all sectors,14951.85001,million kilowatt hours
+2023,RI,Rhode Island,ALL,all sectors,7300.78799,million kilowatt hours
+2023,SAT,South Atlantic,ALL,all sectors,849645.99999,million kilowatt hours
+2023,SC,South Carolina,ALL,all sectors,81202.18501,million kilowatt hours
+2023,SD,South Dakota,ALL,all sectors,13505.999,million kilowatt hours
+2023,TN,Tennessee,ALL,all sectors,99046.005,million kilowatt hours
+2023,TX,Texas,ALL,all sectors,492820.38499,million kilowatt hours
+2023,US,U.S. Total,ALL,all sectors,3874253.3622,million kilowatt hours
+2023,UT,Utah,ALL,all sectors,33343.53701,million kilowatt hours
+2023,VA,Virginia,ALL,all sectors,132318.50501,million kilowatt hours
+2023,VT,Vermont,ALL,all sectors,5364.02301,million kilowatt hours
+2023,WA,Washington,ALL,all sectors,89552.62999,million kilowatt hours
+2023,WI,Wisconsin,ALL,all sectors,68563.90399,million kilowatt hours
+2023,WNC,West North Central,ALL,all sectors,313923.24308,million kilowatt hours
+2023,WSC,West South Central,ALL,all sectors,705822.98199,million kilowatt hours
+2023,WV,West Virginia,ALL,all sectors,32070.68699,million kilowatt hours
+2023,WY,Wyoming,ALL,all sectors,16790.115,million kilowatt hours
