@@ -1,0 +1,1193 @@
+state,fyDeclared,incidentType
+CA,2017,Severe Storm
+AL,2016,Severe Storm
+LA,2023,Fire
+WA,2023,Fire
+MT,2023,Fire
+HI,2023,Fire
+AZ,2023,Fire
+NM,2023,Fire
+RI,2023,Fire
+KS,2023,Fire
+NE,2023,Fire
+OK,2023,Fire
+OR,2023,Fire
+WA,2022,Fire
+OR,2022,Fire
+CA,2022,Fire
+ID,2022,Fire
+NV,2022,Fire
+AK,2022,Fire
+NM,2022,Fire
+NE,2022,Fire
+AZ,2022,Fire
+TX,2022,Fire
+FL,2022,Fire
+KS,2022,Fire
+CO,2022,Fire
+OK,2022,Fire
+SD,2022,Fire
+CA,2021,Fire
+WA,2021,Fire
+OR,2021,Fire
+ID,2021,Fire
+MT,2021,Fire
+HI,2021,Fire
+NV,2021,Fire
+AZ,2021,Fire
+UT,2021,Fire
+NM,2021,Fire
+SD,2021,Fire
+CO,2021,Fire
+WY,2020,Fire
+CA,2020,Fire
+OR,2020,Fire
+WA,2020,Fire
+MT,2020,Fire
+AZ,2020,Fire
+CO,2020,Fire
+NV,2020,Fire
+UT,2020,Fire
+FL,2020,Fire
+OK,2020,Fire
+UT,2019,Fire
+NV,2019,Fire
+AK,2019,Fire
+TX,2019,Fire
+OR,2019,Fire
+AZ,2019,Fire
+NM,2019,Fire
+CA,2019,Fire
+UT,2018,Fire
+WY,2018,Fire
+WA,2018,Fire
+SD,2018,Fire
+CA,2018,Fire
+TX,2018,Fire
+ID,2018,Fire
+CO,2018,Fire
+NV,2018,Fire
+NM,2018,Fire
+AZ,2018,Fire
+OK,2018,Fire
+MT,2017,Fire
+UT,2017,Fire
+CA,2017,Fire
+OR,2017,Fire
+WA,2017,Fire
+NV,2017,Fire
+AZ,2017,Fire
+NM,2017,Fire
+GA,2017,Fire
+FL,2017,Fire
+OK,2017,Fire
+KS,2017,Fire
+TN,2017,Fire
+KY,2017,Fire
+NC,2017,Fire
+CO,2017,Fire
+OR,2016,Fire
+WA,2016,Fire
+ID,2016,Fire
+CA,2016,Fire
+MT,2016,Fire
+NV,2016,Fire
+WY,2016,Fire
+NM,2016,Fire
+CO,2016,Fire
+UT,2016,Fire
+AZ,2016,Fire
+NH,2016,Fire
+OK,2016,Fire
+KS,2016,Fire
+TX,2016,Fire
+OR,2015,Fire
+WA,2015,Fire
+CA,2015,Fire
+ID,2015,Fire
+AZ,2015,Fire
+AK,2015,Fire
+CA,2014,Fire
+OR,2014,Fire
+WA,2014,Fire
+UT,2014,Fire
+TX,2014,Fire
+OK,2014,Fire
+CA,2013,Fire
+WA,2013,Fire
+MT,2013,Fire
+OR,2013,Fire
+ID,2013,Fire
+UT,2013,Fire
+NV,2013,Fire
+AZ,2013,Fire
+CO,2013,Fire
+NM,2013,Fire
+CA,2012,Fire
+WA,2012,Fire
+ID,2012,Fire
+MT,2012,Fire
+WY,2012,Fire
+SD,2012,Fire
+NE,2012,Fire
+OK,2012,Fire
+FL,2021,Severe Storm
+FL,2021,Hurricane
+GA,2016,Severe Storm
+MT,2019,Fire
+CO,2015,Flood
+WY,2017,Flood
+WY,2023,Flood
+TN,2023,Severe Storm
+IA,2023,Flood
+AK,2023,Flood
+NC,2011,Hurricane
+MT,2023,Flood
+NJ,2023,Severe Storm
+KY,2010,Severe Storm
+FL,2006,Hurricane
+ME,2023,Flood
+SD,2023,Flood
+ND,2023,Flood
+GU,2023,Hurricane
+LA,2017,Tornado
+FL,2004,Hurricane
+OK,2023,Tornado
+NC,2004,Hurricane
+AL,2004,Hurricane
+ME,2023,Severe Storm
+VT,2023,Severe Storm
+HI,2020,Fire
+MS,2019,Severe Storm
+MS,2016,Flood
+NJ,2016,Severe Storm
+AZ,2023,Flood
+FL,2023,Hurricane
+SC,2023,Hurricane
+IL,2023,Flood
+FL,2022,Hurricane
+VA,2022,Severe Storm
+AK,2022,Severe Storm
+PR,2022,Hurricane
+OK,2022,Severe Storm
+AS,2022,Severe Storm
+AZ,2022,Severe Storm
+AK,2022,Flood
+MN,2022,Severe Storm
+MO,2022,Flood
+SD,2022,Severe Storm
+KY,2022,Flood
+NE,2022,Severe Storm
+ND,2022,Severe Storm
+MN,2022,Flood
+MT,2022,Flood
+WA,2022,Flood
+PR,2022,Flood
+TN,2022,Severe Storm
+KY,2022,Severe Storm
+IA,2022,Severe Storm
+KS,2022,Severe Storm
+HI,2022,Severe Storm
+TN,2022,Tornado
+MO,2022,Severe Storm
+AR,2022,Tornado
+AL,2022,Severe Storm
+KY,2022,Tornado
+CT,2022,Hurricane
+VA,2022,Flood
+DE,2022,Hurricane
+MS,2022,Hurricane
+NY,2022,Hurricane
+NH,2022,Flood
+NH,2021,Severe Storm
+VT,2021,Flood
+AZ,2021,Flood
+PA,2021,Hurricane
+NC,2021,Hurricane
+NE,2021,Severe Storm
+NY,2021,Hurricane
+NJ,2021,Hurricane
+ND,2021,Severe Storm
+MO,2021,Severe Storm
+LA,2021,Hurricane
+TN,2021,Flood
+MI,2021,Severe Storm
+LA,2021,Flood
+WV,2021,Flood
+HI,2021,Flood
+TN,2021,Tornado
+GA,2021,Severe Storm
+OR,2021,Severe Storm
+IL,2010,Severe Storm
+AL,2021,Severe Storm
+KY,2021,Flood
+WA,2021,Severe Storm
+ND,2017,Flood
+ID,2021,Severe Storm
+NC,2021,Severe Storm
+OK,2019,Severe Storm
+MD,2021,Hurricane
+CT,2021,Hurricane
+GA,2021,Hurricane
+UT,2021,Severe Storm
+MS,2021,Hurricane
+AL,2021,Hurricane
+TX,2021,Hurricane
+PR,2021,Flood
+DE,2021,Hurricane
+FL,2020,Hurricane
+AL,2020,Hurricane
+IA,2020,Severe Storm
+PR,2020,Hurricane
+LA,2020,Hurricane
+AR,2020,Tornado
+AL,2020,Severe Storm
+ND,2020,Flood
+MS,2020,Severe Storm
+TN,2020,Severe Storm
+HI,2020,Severe Storm
+NC,2020,Severe Storm
+SC,2020,Severe Storm
+KY,2020,Severe Storm
+WA,2020,Flood
+OR,2020,Flood
+WI,2020,Flood
+TN,2020,Tornado
+VT,2020,Severe Storm
+NY,2020,Severe Storm
+SD,2020,Severe Storm
+TX,2020,Flood
+NC,2020,Hurricane
+SC,2019,Hurricane
+LA,2019,Flood
+IL,2019,Flood
+AR,2019,Flood
+WI,2019,Flood
+LA,2019,Hurricane
+NH,2019,Severe Storm
+WV,2019,Flood
+TX,2019,Flood
+OR,2019,Flood
+MO,2019,Severe Storm
+KS,2019,Severe Storm
+SD,2019,Severe Storm
+OH,2019,Tornado
+NE,2019,Flood
+VT,2019,Flood
+ND,2019,Flood
+ID,2019,Flood
+MN,2019,Flood
+LA,2019,Severe Storm
+AZ,2019,Severe Storm
+MO,2019,Flood
+CA,2019,Severe Storm
+OR,2019,Severe Storm
+IA,2019,Flood
+KY,2019,Severe Storm
+TN,2019,Flood
+AL,2019,Severe Storm
+OH,2019,Flood
+AL,2019,Tornado
+WA,2019,Severe Storm
+NC,2019,Hurricane
+VA,2019,Hurricane
+CT,2019,Severe Storm
+PA,2019,Severe Storm
+AL,2019,Hurricane
+GA,2019,Hurricane
+FL,2019,Hurricane
+NY,2019,Flood
+HI,2018,Hurricane
+SC,2018,Hurricane
+NC,2018,Hurricane
+IA,2018,Severe Storm
+AK,2018,Flood
+MN,2018,Flood
+AZ,2018,Flood
+NE,2018,Severe Storm
+WA,2018,Flood
+WI,2018,Flood
+MI,2018,Flood
+VT,2018,Severe Storm
+WV,2018,Severe Storm
+TX,2018,Flood
+MD,2018,Flood
+MD,2018,Severe Storm
+MA,2018,Severe Storm
+HI,2018,Flood
+NC,2018,Severe Storm
+AL,2018,Severe Storm
+KY,2018,Flood
+OH,2018,Flood
+AS,2018,Hurricane
+NH,2018,Severe Storm
+ME,2018,Severe Storm
+NM,2018,Flood
+AK,2018,Severe Storm
+MS,2018,Hurricane
+NY,2018,Flood
+WI,2018,Severe Storm
+ID,2018,Flood
+FL,2017,Hurricane
+VI,2017,Hurricane
+PR,2017,Hurricane
+GA,2017,Hurricane
+IA,2017,Severe Storm
+ID,2017,Flood
+TX,2017,Hurricane
+VT,2017,Severe Storm
+NH,2017,Severe Storm
+MI,2017,Severe Storm
+NE,2017,Severe Storm
+OK,2017,Tornado
+AR,2017,Severe Storm
+MO,2017,Flood
+OK,2017,Severe Storm
+MS,2017,Severe Storm
+UT,2017,Flood
+WA,2017,Flood
+CA,2017,Flood
+NV,2017,Severe Storm
+WY,2017,Severe Storm
+SD,2017,Severe Storm
+GA,2017,Tornado
+OR,2017,Severe Storm
+MS,2017,Tornado
+PA,2017,Flood
+VA,2017,Hurricane
+MN,2017,Flood
+WI,2017,Flood
+KS,2017,Severe Storm
+SC,2017,Hurricane
+NC,2017,Hurricane
+IA,2016,Flood
+FL,2016,Hurricane
+LA,2016,Flood
+MT,2016,Tornado
+OK,2016,Flood
+WV,2016,Flood
+TX,2016,Flood
+MT,2016,Severe Storm
+AR,2016,Severe Storm
+WA,2016,Severe Storm
+WA,2012,Severe Storm
+OR,2016,Severe Storm
+AK,2016,Severe Storm
+OK,2016,Severe Storm
+TX,2016,Severe Storm
+WA,2016,Flood
+ID,2016,Severe Storm
+MO,2016,Flood
+MS,2016,Severe Storm
+SC,2016,Flood
+KY,2015,Severe Storm
+MO,2015,Severe Storm
+SD,2015,Severe Storm
+WV,2015,Severe Storm
+IA,2015,Severe Storm
+VT,2015,Severe Storm
+NJ,2015,Severe Storm
+KS,2015,Severe Storm
+LA,2015,Flood
+WY,2015,Flood
+AR,2015,Severe Storm
+TX,2015,Severe Storm
+AK,2023,Fire
+WV,2015,Flood
+KY,2015,Flood
+MA,2015,Severe Storm
+CT,2015,Severe Storm
+RI,2015,Severe Storm
+NH,2015,Severe Storm
+CA,2015,Flood
+MS,2015,Tornado
+AZ,2015,Flood
+NV,2015,Flood
+NM,2015,Severe Storm
+MT,2015,Severe Storm
+KY,2014,Severe Storm
+NE,2015,Severe Storm
+HI,2014,Severe Storm
+AS,2014,Severe Storm
+GU,2014,Severe Storm
+ND,2014,Flood
+TN,2014,Severe Storm
+IA,2014,Severe Storm
+SD,2014,Flood
+NE,2014,Severe Storm
+IA,2014,Flood
+NY,2014,Severe Storm
+NE,2014,Tornado
+VT,2014,Flood
+FL,2014,Severe Storm
+MS,2014,Severe Storm
+AR,2014,Severe Storm
+IN,2014,Severe Storm
+MT,2014,Flood
+MD,2014,Severe Storm
+OR,2014,Severe Storm
+OK,2014,Severe Storm
+AK,2014,Severe Storm
+AK,2014,Flood
+TX,2014,Severe Storm
+SD,2014,Severe Storm
+ND,2014,Severe Storm
+NC,2014,Flood
+NM,2014,Flood
+NM,2014,Severe Storm
+KS,2014,Severe Storm
+FL,2008,Severe Storm
+PA,2014,Severe Storm
+NM,2013,Severe Storm
+NC,2013,Flood
+CO,2013,Flood
+MO,2013,Severe Storm
+AR,2013,Severe Storm
+WI,2013,Severe Storm
+VT,2013,Flood
+NH,2013,Severe Storm
+FL,2013,Severe Storm
+SD,2013,Severe Storm
+IA,2013,Severe Storm
+WV,2013,Flood
+MN,2013,Severe Storm
+NY,2013,Flood
+ND,2013,Severe Storm
+MT,2013,Flood
+ND,2013,Flood
+MI,2013,Flood
+IA,2013,Flood
+IL,2013,Flood
+NY,2013,Severe Storm
+MA,2013,Severe Storm
+OK,2013,Severe Storm
+ME,2013,Severe Storm
+RI,2013,Severe Storm
+CT,2013,Severe Storm
+LA,2013,Severe Storm
+PA,2013,Hurricane
+OH,2013,Hurricane
+MA,2013,Hurricane
+DC,2013,Hurricane
+NH,2013,Hurricane
+AK,2013,Severe Storm
+WV,2013,Hurricane
+VA,2013,Hurricane
+MD,2013,Hurricane
+DE,2013,Hurricane
+AL,2014,Severe Storm
+UT,2013,Flood
+CT,2013,Hurricane
+NJ,2013,Hurricane
+NY,2013,Hurricane
+FL,2013,Hurricane
+AL,2012,Hurricane
+MS,2012,Hurricane
+LA,2012,Hurricane
+NM,2012,Flood
+OH,2012,Severe Storm
+WI,2012,Severe Storm
+MD,2012,Severe Storm
+DC,2012,Severe Storm
+VA,2012,Severe Storm
+WV,2012,Severe Storm
+NJ,2012,Severe Storm
+FL,2012,Severe Storm
+CO,2012,Fire
+VT,2012,Severe Storm
+NH,2012,Severe Storm
+OK,2012,Severe Storm
+KS,2012,Severe Storm
+HI,2012,Severe Storm
+TN,2012,Severe Storm
+IN,2012,Severe Storm
+KY,2012,Severe Storm
+OR,2012,Flood
+AK,2012,Severe Storm
+UT,2012,Severe Storm
+AL,2012,Severe Storm
+MA,2012,Severe Storm
+CT,2012,Severe Storm
+MD,2016,Flood
+FL,2009,Severe Storm
+SD,2019,Flood
+PR,2012,Hurricane
+MD,2012,Flood
+DE,2011,Hurricane
+DC,2011,Hurricane
+KS,2011,Flood
+MD,2011,Hurricane
+NJ,2011,Severe Storm
+ME,2011,Hurricane
+NY,2011,Severe Storm
+PA,2011,Flood
+TX,2011,Fire
+MA,2011,Hurricane
+RI,2011,Hurricane
+NH,2011,Hurricane
+PA,2011,Hurricane
+VA,2011,Hurricane
+CT,2011,Hurricane
+NY,2011,Hurricane
+IA,2011,Severe Storm
+PR,2011,Hurricane
+LA,2011,Flood
+NE,2011,Severe Storm
+NE,2011,Flood
+MO,2011,Flood
+UT,2011,Flood
+NC,2023,Hurricane
+SC,2016,Severe Storm
+NC,2010,Severe Storm
+NC,2003,Hurricane
+IA,2017,Flood
+KS,2011,Severe Storm
+WA,2008,Severe Storm
+WV,2017,Severe Storm
+MN,2011,Severe Storm
+KY,2011,Severe Storm
+WY,2011,Severe Storm
+NH,2011,Flood
+TN,2011,Severe Storm
+PR,2011,Severe Storm
+PA,2011,Severe Storm
+OH,2011,Severe Storm
+MT,2019,Flood
+MT,2018,Flood
+VT,2011,Severe Storm
+AR,2011,Severe Storm
+WA,2007,Severe Storm
+KS,2007,Severe Storm
+IA,2007,Severe Storm
+MA,2023,Hurricane
+VT,2023,Flood
+SC,2022,Hurricane
+IL,2022,Tornado
+MS,2020,Hurricane
+VT,2011,Hurricane
+AR,2020,Hurricane
+TX,2020,Hurricane
+CT,2020,Hurricane
+VI,2020,Hurricane
+HI,2020,Hurricane
+AL,2018,Hurricane
+LA,2018,Hurricane
+OK,2013,Tornado
+OR,2018,Fire
+VI,2019,Hurricane
+PR,2019,Severe Storm
+OK,2019,Flood
+VA,2018,Hurricane
+FL,2018,Hurricane
+AL,2017,Hurricane
+LA,2017,Hurricane
+RI,2013,Hurricane
+NJ,2011,Hurricane
+CA,2008,Fire
+TN,2011,Flood
+MS,2011,Flood
+AL,2011,Severe Storm
+ND,2011,Flood
+MO,2011,Severe Storm
+OK,2011,Severe Storm
+MA,2010,Hurricane
+NC,2010,Hurricane
+TX,2010,Hurricane
+RI,2010,Severe Storm
+MN,2010,Flood
+ND,2010,Flood
+OK,2010,Severe Storm
+AZ,2010,Severe Storm
+PR,2010,Fire
+MN,2009,Severe Storm
+NY,2009,Severe Storm
+ME,2009,Severe Storm
+NH,2009,Severe Storm
+MA,2009,Severe Storm
+LA,2008,Hurricane
+TX,2008,Hurricane
+FL,2008,Hurricane
+AL,2008,Hurricane
+MS,2008,Hurricane
+TX,2008,Fire
+KS,2008,Severe Storm
+TX,2007,Hurricane
+FM,2007,Drought
+MO,2006,Severe Storm
+MA,2006,Severe Storm
+DE,2005,Hurricane
+NY,2005,Hurricane
+TX,2005,Hurricane
+LA,2005,Hurricane
+FL,2005,Hurricane
+NH,2005,Hurricane
+NJ,2005,Hurricane
+ME,2005,Hurricane
+RI,2005,Hurricane
+NC,2005,Hurricane
+MT,2005,Hurricane
+MA,2005,Hurricane
+MD,2005,Hurricane
+OH,2005,Hurricane
+WI,2005,Hurricane
+CA,2005,Hurricane
+CT,2005,Hurricane
+NE,2005,Hurricane
+ID,2005,Hurricane
+NV,2005,Hurricane
+MN,2005,Hurricane
+AZ,2005,Hurricane
+VA,2005,Hurricane
+IA,2005,Hurricane
+IN,2005,Hurricane
+AL,2005,Hurricane
+SC,2017,Fire
+MI,2014,Flood
+MN,2012,Severe Storm
+KS,2005,Hurricane
+PA,2005,Hurricane
+SC,2005,Hurricane
+MO,2005,Hurricane
+KY,2005,Hurricane
+IL,2005,Hurricane
+NM,2005,Hurricane
+DC,2005,Hurricane
+MI,2005,Hurricane
+VT,2021,Hurricane
+MA,2021,Hurricane
+WV,2005,Hurricane
+OK,2005,Hurricane
+GA,2005,Hurricane
+TN,2005,Hurricane
+AR,2005,Hurricane
+MS,2005,Hurricane
+PA,2003,Severe Storm
+MD,2003,Severe Storm
+DC,2003,Severe Storm
+NJ,2001,Fire
+VA,2001,Fire
+TN,2017,Severe Storm
+TX,2006,Fire
+KS,2018,Severe Storm
+KY,2009,Severe Storm
+UT,2012,Fire
+NM,2012,Fire
+NV,2012,Fire
+TX,2012,Fire
+CA,2011,Fire
+NV,2011,Fire
+WA,2011,Fire
+OK,2011,Fire
+MT,2011,Fire
+NC,2011,Fire
+NM,2011,Fire
+CO,2011,Fire
+GA,2011,Fire
+AZ,2011,Fire
+AK,2011,Fire
+FL,2011,Fire
+NE,2011,Fire
+KS,2011,Fire
+VA,2011,Fire
+UT,2010,Fire
+CA,2010,Fire
+CO,2010,Fire
+WA,2010,Fire
+ID,2010,Fire
+NV,2010,Fire
+AZ,2010,Fire
+HI,2010,Fire
+NM,2010,Fire
+CA,2009,Fire
+OR,2009,Fire
+MT,2009,Fire
+AZ,2009,Fire
+HI,2009,Fire
+UT,2009,Fire
+WA,2009,Fire
+NV,2009,Fire
+AK,2009,Fire
+FL,2009,Fire
+NM,2009,Fire
+SC,2009,Fire
+TX,2009,Fire
+OK,2009,Fire
+CO,2009,Fire
+OR,2008,Fire
+WA,2008,Fire
+AZ,2008,Fire
+CO,2008,Fire
+NM,2008,Fire
+NC,2008,Fire
+OK,2008,Fire
+FL,2008,Fire
+HI,2008,Fire
+WA,2007,Fire
+MT,2007,Fire
+CA,2007,Fire
+OR,2007,Fire
+ID,2007,Fire
+HI,2007,Fire
+WY,2007,Fire
+NV,2007,Fire
+SD,2007,Fire
+UT,2007,Fire
+AK,2007,Fire
+CO,2007,Fire
+GA,2007,Fire
+FL,2007,Fire
+NJ,2007,Fire
+NM,2007,Fire
+TX,2007,Fire
+CA,2006,Fire
+WA,2006,Fire
+HI,2006,Fire
+CO,2006,Fire
+MT,2006,Fire
+NV,2006,Fire
+WY,2006,Fire
+NE,2006,Fire
+OR,2006,Fire
+SD,2006,Fire
+NM,2006,Fire
+AZ,2006,Fire
+AK,2006,Fire
+FL,2006,Fire
+VA,2006,Fire
+OK,2006,Fire
+KS,2006,Fire
+CA,2005,Fire
+NV,2005,Fire
+OR,2005,Fire
+HI,2005,Fire
+WA,2005,Fire
+AZ,2005,Fire
+SD,2005,Fire
+CO,2005,Fire
+UT,2005,Fire
+HI,2004,Fire
+CA,2004,Fire
+AK,2004,Fire
+NV,2004,Fire
+OR,2004,Fire
+WA,2004,Fire
+CO,2004,Fire
+AZ,2004,Fire
+NM,2004,Fire
+UT,2004,Fire
+SD,2004,Fire
+WY,2004,Fire
+NV,2003,Fire
+WA,2003,Fire
+CA,2003,Fire
+OR,2003,Fire
+MT,2003,Fire
+CO,2003,Fire
+OK,2003,Fire
+UT,2003,Fire
+AZ,2003,Fire
+NM,2003,Fire
+HI,2003,Fire
+CA,2002,Fire
+WY,2002,Fire
+NM,2002,Fire
+SD,2002,Fire
+CO,2002,Fire
+OR,2002,Fire
+WA,2002,Fire
+NV,2002,Fire
+AZ,2002,Fire
+UT,2002,Fire
+ND,2002,Fire
+SC,2002,Fire
+NJ,2002,Fire
+MN,2002,Fire
+VA,2002,Fire
+AL,2002,Fire
+WV,2002,Fire
+TN,2002,Fire
+KY,2002,Fire
+WY,2001,Fire
+UT,2001,Fire
+OR,2001,Fire
+WA,2001,Fire
+NV,2001,Fire
+SD,2001,Fire
+AK,2001,Fire
+NM,2001,Fire
+FL,2001,Fire
+GA,2001,Fire
+TX,2001,Fire
+KY,2001,Fire
+TN,2001,Fire
+MN,2001,Fire
+IA,2011,Flood
+IN,2011,Severe Storm
+MT,2011,Severe Storm
+MA,2011,Tornado
+NY,2011,Flood
+AK,2011,Flood
+IL,2011,Severe Storm
+ID,2011,Flood
+ND,2011,Severe Storm
+SD,2011,Flood
+MN,2011,Flood
+GA,2011,Severe Storm
+MS,2011,Severe Storm
+NC,2011,Severe Storm
+WA,2011,Severe Storm
+NM,2011,Severe Storm
+OK,2023,Severe Storm
+OR,2011,Severe Storm
+ME,2011,Severe Storm
+CA,2011,Flood
+AZ,2011,Severe Storm
+VI,2011,Severe Storm
+SD,2011,Severe Storm
+WI,2011,Severe Storm
+NY,2011,Tornado
+VI,2010,Hurricane
+SD,2010,Severe Storm
+TN,2010,Severe Storm
+NM,2010,Flood
+MO,2010,Severe Storm
+WI,2010,Severe Storm
+KS,2010,Severe Storm
+IA,2010,Severe Storm
+ID,2010,Severe Storm
+NE,2010,Severe Storm
+WY,2010,Flood
+MT,2010,Severe Storm
+MN,2010,Tornado
+ME,2010,Severe Storm
+PR,2010,Severe Storm
+WV,2010,Flood
+MS,2010,Severe Storm
+SD,2010,Flood
+NH,2010,Severe Storm
+AL,2010,Severe Storm
+CT,2010,Severe Storm
+NE,2010,Flood
+ND,2010,Severe Storm
+NY,2010,Severe Storm
+NJ,2010,Severe Storm
+MA,2010,Severe Storm
+WV,2010,Severe Storm
+DC,2010,Severe Storm
+CA,2010,Severe Storm
+AR,2010,Severe Storm
+AL,2010,Hurricane
+AK,2010,Severe Storm
+LA,2010,Severe Storm
+VA,2010,Severe Storm
+KS,2009,Severe Storm
+TN,2009,Severe Storm
+IA,2009,Severe Storm
+NE,2009,Severe Storm
+IL,2009,Severe Storm
+MO,2009,Severe Storm
+AR,2009,Severe Storm
+SD,2009,Severe Storm
+AK,2009,Flood
+AL,2009,Severe Storm
+WV,2009,Severe Storm
+MS,2009,Severe Storm
+AR,2009,Tornado
+GA,2009,Severe Storm
+IN,2009,Severe Storm
+ND,2009,Severe Storm
+WA,2009,Severe Storm
+OR,2009,Severe Storm
+OK,2009,Severe Storm
+WA,2009,Flood
+HI,2009,Flood
+VI,2009,Hurricane
+FL,2009,Hurricane
+OH,2009,Severe Storm
+NC,2009,Severe Storm
+PR,2009,Severe Storm
+AL,2008,Severe Storm
+AK,2008,Severe Storm
+IN,2008,Severe Storm
+AR,2008,Hurricane
+VT,2008,Severe Storm
+ME,2008,Severe Storm
+NH,2008,Severe Storm
+NM,2008,Severe Storm
+ID,2008,Flood
+NE,2008,Severe Storm
+MI,2008,Severe Storm
+OK,2008,Severe Storm
+SD,2008,Severe Storm
+MO,2008,Severe Storm
+MN,2008,Severe Storm
+IL,2008,Severe Storm
+WV,2008,Severe Storm
+WI,2008,Severe Storm
+MT,2008,Severe Storm
+MS,2008,Severe Storm
+IA,2008,Severe Storm
+CO,2008,Severe Storm
+GA,2008,Severe Storm
+AR,2008,Severe Storm
+KY,2008,Severe Storm
+ME,2008,Flood
+OK,2008,Flood
+AK,2013,Flood
+TN,2008,Severe Storm
+HI,2008,Severe Storm
+NV,2008,Severe Storm
+TX,2008,Severe Storm
+IL,2007,Severe Storm
+MO,2007,Severe Storm
+ND,2007,Severe Storm
+NY,2007,Severe Storm
+OK,2007,Severe Storm
+NE,2007,Severe Storm
+OH,2007,Severe Storm
+WI,2007,Severe Storm
+MN,2007,Severe Storm
+ME,2007,Severe Storm
+VT,2007,Severe Storm
+TX,2007,Severe Storm
+RI,2007,Severe Storm
+KY,2007,Severe Storm
+SD,2007,Severe Storm
+MA,2007,Severe Storm
+CT,2007,Severe Storm
+WV,2007,Severe Storm
+NH,2007,Severe Storm
+NJ,2007,Severe Storm
+ME,2007,Flood
+NM,2007,Severe Storm
+AL,2007,Severe Storm
+GA,2007,Severe Storm
+LA,2007,Severe Storm
+PA,2007,Severe Storm
+OR,2007,Severe Storm
+FL,2007,Severe Storm
+AK,2007,Severe Storm
+IN,2007,Severe Storm
+VA,2006,Severe Storm
+AZ,2006,Severe Storm
+NM,2006,Severe Storm
+TX,2006,Severe Storm
+AK,2006,Flood
+OH,2006,Severe Storm
+DE,2006,Severe Storm
+NJ,2006,Severe Storm
+MD,2006,Severe Storm
+NY,2006,Severe Storm
+PA,2006,Severe Storm
+MN,2006,Flood
+SD,2006,Severe Storm
+CA,2006,Severe Storm
+ND,2006,Severe Storm
+ME,2006,Severe Storm
+NH,2006,Severe Storm
+WA,2006,Severe Storm
+HI,2006,Severe Storm
+KS,2006,Severe Storm
+OK,2006,Severe Storm
+AR,2006,Severe Storm
+TN,2006,Severe Storm
+IL,2006,Severe Storm
+OR,2006,Severe Storm
+ID,2006,Severe Storm
+NV,2006,Severe Storm
+NE,2006,Severe Storm
+MN,2006,Severe Storm
+CT,2006,Severe Storm
+AK,2006,Severe Storm
+KY,2006,Severe Storm
+PR,2006,Severe Storm
+IN,2006,Tornado
+NC,2006,Hurricane
+LA,2005,Severe Storm
+KS,2005,Severe Storm
+WY,2005,Tornado
+UT,2005,Flood
+ND,2005,Severe Storm
+SD,2005,Severe Storm
+ID,2005,Flood
+ME,2005,Severe Storm
+NE,2005,Severe Storm
+NY,2005,Severe Storm
+NJ,2005,Severe Storm
+PA,2005,Severe Storm
+AZ,2005,Severe Storm
+CA,2005,Severe Storm
+AK,2005,Severe Storm
+NV,2005,Severe Storm
+OH,2005,Severe Storm
+UT,2005,Severe Storm
+HI,2005,Severe Storm
+WV,2005,Severe Storm
+IN,2005,Severe Storm
+DE,2005,Severe Storm
+VA,2005,Severe Storm
+MN,2005,Severe Storm
+TN,2005,Severe Storm
+VI,2005,Hurricane
+KS,2004,Severe Storm
+GA,2004,Hurricane
+VT,2004,Severe Storm
+WV,2004,Severe Storm
+PA,2004,Hurricane
+OH,2004,Severe Storm
+PR,2004,Severe Storm
+MS,2004,Hurricane
+LA,2004,Hurricane
+SC,2004,Severe Storm
+VA,2004,Severe Storm
+SC,2004,Hurricane
+IN,2004,Severe Storm
+GA,2017,Severe Storm
+PA,2004,Severe Storm
+KY,2004,Severe Storm
+NY,2004,Severe Storm
+GU,2004,Severe Storm
+SD,2004,Severe Storm
+NJ,2004,Severe Storm
+AR,2004,Severe Storm
+MI,2004,Severe Storm
+WI,2004,Severe Storm
+MO,2004,Severe Storm
+LA,2004,Severe Storm
+IA,2004,Severe Storm
+NE,2004,Severe Storm
+ND,2004,Severe Storm
+NM,2004,Severe Storm
+IL,2004,Severe Storm
+MA,2004,Flood
+OR,2004,Severe Storm
+ME,2004,Severe Storm
+WA,2004,Severe Storm
+WV,2003,Hurricane
+DE,2003,Hurricane
+DC,2003,Hurricane
+MD,2003,Hurricane
+VA,2003,Hurricane
+NH,2003,Severe Storm
+VT,2003,Severe Storm
+IN,2003,Severe Storm
+NY,2003,Severe Storm
+OH,2003,Tornado
+ND,2003,Severe Storm
+TN,2003,Severe Storm
+FL,2003,Severe Storm
+NE,2003,Severe Storm
+TX,2003,Hurricane
+OH,2003,Severe Storm
+KY,2003,Severe Storm
+WV,2003,Severe Storm
+AS,2003,Severe Storm
+AR,2003,Severe Storm
+MS,2003,Severe Storm
+IL,2003,Severe Storm
+AL,2003,Severe Storm
+OK,2003,Severe Storm
+MO,2003,Severe Storm
+KS,2003,Severe Storm
+AK,2003,Severe Storm
+VA,2003,Severe Storm
+TX,2003,Severe Storm
+AL,2003,Hurricane
+LA,2003,Hurricane
+MS,2003,Hurricane
+LA,2002,Hurricane
+IN,2002,Severe Storm
+WI,2002,Tornado
+ND,2002,Severe Storm
+WI,2002,Severe Storm
+VT,2002,Severe Storm
+TX,2002,Flood
+MT,2002,Severe Storm
+AK,2002,Flood
+IA,2002,Flood
+MN,2002,Severe Storm
+KY,2002,Severe Storm
+MI,2002,Flood
+MO,2002,Severe Storm
+VA,2002,Severe Storm
+MD,2002,Tornado
+TN,2002,Severe Storm
+OR,2002,Severe Storm
+AR,2002,Severe Storm
+AL,2002,Severe Storm
+MS,2002,Severe Storm
+OK,2002,Severe Storm
+NE,2002,Severe Storm
+NY,2001,Fire
+OH,2001,Severe Storm
+KY,2001,Severe Storm
+TN,2001,Severe Storm
+VA,2001,Severe Storm
+MT,2001,Severe Storm
+OK,2001,Severe Storm
+PA,2001,Severe Storm
+MS,2001,Severe Storm
+FL,2001,Severe Storm
+ND,2001,Flood
+SD,2001,Flood
+CO,2001,Severe Storm
+NE,2001,Severe Storm
+PR,2001,Severe Storm
+ME,2001,Severe Storm
+IL,2001,Flood
+IA,2001,Severe Storm
+KS,2001,Severe Storm
+MA,2001,Severe Storm
+AR,2001,Severe Storm
+AL,2001,Severe Storm
+VT,2001,Severe Storm
+ND,2001,Tornado
+WY,2001,Severe Storm
+HI,2001,Severe Storm
+AZ,2001,Severe Storm
+MI,2001,Severe Storm
+NJ,2018,Severe Storm
+CT,2018,Tornado
+IN,2018,Flood
+MN,2014,Flood
+WI,2016,Severe Storm
+KY,2016,Severe Storm
+OK,2015,Severe Storm
+IL,2014,Tornado
+MS,2013,Severe Storm
+RI,2021,Hurricane
+MO,2020,Severe Storm
+CA,2023,Hurricane
+MO,2023,Severe Storm
+NH,2023,Flood
+GA,2023,Hurricane
+CO,2023,Flood
+IL,2023,Severe Storm
+MS,2023,Severe Storm
+NY,2023,Severe Storm
+MN,2023,Flood
+CA,2023,Severe Storm
+KY,2023,Flood
+AL,2023,Severe Storm
+FL,2023,Flood
+NV,2023,Flood
+IN,2023,Severe Storm
+AZ,2023,Severe Storm
+KY,2023,Severe Storm
+AR,2023,Severe Storm
+NH,2023,Severe Storm
+GA,2023,Severe Storm
+CA,2023,Flood
+WA,2023,Severe Storm
+WV,2023,Severe Storm
+WV,2023,Flood
+VI,2004,Severe Storm
+IL,2002,Tornado
+WV,2002,Severe Storm
+PR,2002,Severe Storm
+DC,2001,Severe Storm
+WV,2001,Severe Storm
+MN,2001,Flood
+WI,2001,Flood
+ME,2023,Hurricane
+OR,2008,Severe Storm
